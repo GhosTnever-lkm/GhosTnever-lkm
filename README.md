@@ -15,7 +15,7 @@
 | [ModLocale](https://github.com/GhosTnever-lkm/clausewitz-loc-guard) | Проверяет локализацию модов Clausewitz и Paradox |
 | [ModPack Inspector](https://github.com/GhosTnever-lkm/modpack-inspector) | Проверяет структуру ZIP-архива мода перед установкой |
 | [ModRelease Studio](https://github.com/GhosTnever-lkm/modrelease-studio) · [скачать ZIP v0.1.0](https://github.com/GhosTnever-lkm/modrelease-studio/releases/latest/download/modrelease-studio-0.1.0-bundle.zip) | Ищет ошибки упаковки в папках и ZIP модов и формирует отчёт перед выпуском |
-| [Mod Conflict Map](https://github.com/GhosTnever-lkm/paradox-mod-conflict-map) · [открыть приложение](https://ghostnever-lkm.github.io/paradox-mod-conflict-map/) | Находит потенциальные пересечения файловых путей в ZIP-архивах модов Paradox |
+| [Mod Conflict Map](https://github.com/GhosTnever-lkm/paradox-mod-conflict-map) · [открыть приложение](https://ghostnever-lkm.github.io/paradox-mod-conflict-map/) · [ZIP v0.1.0](https://github.com/GhosTnever-lkm/paradox-mod-conflict-map/releases/latest/download/Mod-Conflict-Map.zip) | Находит потенциальные пересечения файловых путей в ZIP-архивах модов Paradox |
 | [Workshop Page Studio](https://ghostnever-lkm.github.io/workshop-page-studio/) · [ZIP v0.1.0](https://github.com/GhosTnever-lkm/workshop-page-studio/releases/latest/download/Workshop-Page-Studio-v0.1.0.zip) · [исходный код](https://github.com/GhosTnever-lkm/workshop-page-studio) | Создаёт страницы модов с предпросмотром и экспортом в Steam BBCode или Markdown |
 
 ### 🧩 Плагины и наборы
