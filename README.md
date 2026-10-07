@@ -39,7 +39,7 @@
 
 ### ☕ Поддержать проекты
 
-Если мои инструменты оказались полезны, поддержать дальнейшую разработку можно здесь: [Gumroad](https://azimovian22.gumroad.com/) · [Boosty](https://boosty.to/azizazimov).
+Если мои инструменты оказались полезны, поддержать дальнейшую разработку можно здесь: [Buy Me a Coffee](https://buymeacoffee.com/azizazimov8) · [Gumroad](https://azimovian22.gumroad.com/) · [Boosty](https://boosty.to/azizazimov).
 
 ### ✧ Подход
 
