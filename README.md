@@ -14,8 +14,8 @@
 | [DiffShield](https://github.com/GhosTnever-lkm/diffshield-action) | Проверяет pull request на распространённые риски в GitHub Actions |
 | [ModLocale](https://github.com/GhosTnever-lkm/clausewitz-loc-guard) | Проверяет локализацию модов Clausewitz и Paradox |
 | [ModPack Inspector](https://github.com/GhosTnever-lkm/modpack-inspector) | Проверяет структуру ZIP-архива мода перед установкой |
-| [ModRelease Studio](https://github.com/GhosTnever-lkm/modrelease-studio) | Ищет ошибки упаковки в папках и ZIP модов и формирует отчёт перед выпуском |
-| [Workshop Page Studio](https://ghostnever-lkm.github.io/workshop-page-studio/) · [исходный код](https://github.com/GhosTnever-lkm/workshop-page-studio) | Создаёт страницы модов с предпросмотром и экспортом в Steam BBCode или Markdown |
+| [ModRelease Studio](https://github.com/GhosTnever-lkm/modrelease-studio) · [скачать ZIP v0.1.0](https://github.com/GhosTnever-lkm/modrelease-studio/releases/latest/download/modrelease-studio-0.1.0-bundle.zip) | Ищет ошибки упаковки в папках и ZIP модов и формирует отчёт перед выпуском |
+| [Workshop Page Studio](https://ghostnever-lkm.github.io/workshop-page-studio/) · [ZIP v0.1.0](https://github.com/GhosTnever-lkm/workshop-page-studio/releases/latest/download/Workshop-Page-Studio-v0.1.0.zip) · [исходный код](https://github.com/GhosTnever-lkm/workshop-page-studio) | Создаёт страницы модов с предпросмотром и экспортом в Steam BBCode или Markdown |
 
 ### 🧩 Плагины и наборы
 
