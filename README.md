@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Привет, я GhosTnever 👋</h1>
 
-<!--
-**GhosTnever-lkm/GhosTnever-lkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Создаю проекты, плагины и полезные инструменты.<br>Здесь будут появляться мои идеи, эксперименты и открытые проекты.</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Что будет здесь
+
+| 🧩 Плагины | 🛠 Проекты | 💡 Эксперименты |
+|:--:|:--:|:--:|
+| Небольшие расширения и дополнения | Идеи, доведённые до рабочего результата | Новые подходы и прототипы |
+
+### 🚀 Сейчас
+
+Оформляю профиль и готовлю первые проекты к публикации.
+
+---
+
+<p align="center"><i>Спасибо, что заглянули. Заглядывайте снова — здесь будут новые работы.</i></p>
