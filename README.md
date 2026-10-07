@@ -37,6 +37,10 @@
 
 Найти проекты по темам: [Codex-плагины](https://github.com/topics/codex-plugin) · [плагины DeepSeek Harness](https://github.com/topics/deepseek-harness-plugin) · [локализация модов](https://github.com/topics/localization) · [моддинг игр](https://github.com/topics/modding).
 
+### ☕ Поддержать проекты
+
+Если мои инструменты оказались полезны, поддержать дальнейшую разработку можно здесь: [Gumroad](https://azimovian22.gumroad.com/) · [Boosty](https://boosty.to/azizazimov).
+
 ### ✧ Подход
 
 - Сначала проверяем факты в репозитории, затем делаем выводы.
