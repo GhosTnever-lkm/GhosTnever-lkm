@@ -18,6 +18,8 @@
 
 Все репозитории: [GhosTnever-lkm](https://github.com/GhosTnever-lkm?tab=repositories) · План разработки: [GitHub Projects](https://github.com/users/GhosTnever-lkm/projects/2/views/1).
 
+По направлениям: [моды](https://github.com/topics/modding) · [игровые инструменты](https://github.com/topics/game-development) · [GitHub Actions](https://github.com/topics/github-actions).
+
 ### 🧩 Плагины для Codex
 
 Собрал набор небольших инструментов для повседневной работы с кодом. Каждый плагин можно изучить и установить отдельно.
@@ -30,6 +32,10 @@
 | [CI Failure Guide](https://github.com/GhosTnever-lkm/ci-failure-guide) | Разбирать сбои CI, сборки и тестов |
 | [Release Checklist](https://github.com/GhosTnever-lkm/release-checklist) | Проверять готовность проекта к выпуску |
 | [Docs from Code](https://github.com/GhosTnever-lkm/docs-from-code) | Писать документацию по актуальному коду |
+
+Для DeepSeek Harness: [DSH GhostNever Toolkit — 20 плагинов](https://github.com/GhosTnever-lkm/dsh-ghostnever-toolkit).
+
+Найти проекты по темам: [Codex-плагины](https://github.com/topics/codex-plugin) · [плагины DeepSeek Harness](https://github.com/topics/deepseek-harness-plugin) · [локализация модов](https://github.com/topics/localization) · [моддинг игр](https://github.com/topics/modding).
 
 ### ✧ Подход
 
