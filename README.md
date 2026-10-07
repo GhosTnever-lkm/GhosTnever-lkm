@@ -5,6 +5,19 @@
 
 ---
 
+### 🚀 Готовые проекты
+
+Инструменты, которыми уже можно пользоваться:
+
+| Проект | Назначение |
+|:--|:--|
+| [BugBundle · открыть приложение](https://ghostnever-lkm.github.io/bugbundle/) · [код](https://github.com/GhosTnever-lkm/bugbundle) | Собрать очищенный от типовых секретов отчёт о сбое игры или мода |
+| [DiffShield](https://github.com/GhosTnever-lkm/diffshield-action) | Проверять pull request на распространённые риски прямо в GitHub Actions |
+| [ModLocale](https://github.com/GhosTnever-lkm/clausewitz-loc-guard) | Проверять локализацию модов Clausewitz и Paradox |
+| [ModPack Inspector](https://github.com/GhosTnever-lkm/modpack-inspector) | Проверять ZIP-архив мода перед установкой |
+
+Все репозитории: [GhosTnever-lkm](https://github.com/GhosTnever-lkm?tab=repositories) · План разработки: [GitHub Projects](https://github.com/users/GhosTnever-lkm/projects/2/views/1).
+
 ### 🧩 Плагины для Codex
 
 Собрал набор небольших инструментов для повседневной работы с кодом. Каждый плагин можно изучить и установить отдельно.
