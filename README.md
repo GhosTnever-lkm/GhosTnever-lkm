@@ -10,7 +10,7 @@
 
 | Проект | Что делает |
 |:--|:--|
-| [BugBundle](https://ghostnever-lkm.github.io/bugbundle/) · [исходный код](https://github.com/GhosTnever-lkm/bugbundle) | Готовит очищенный от типовых секретов отчёт о сбое игры или мода |
+| [BugBundle](https://ghostnever-lkm.github.io/bugbundle/) · [ZIP v1.0.0](https://github.com/GhosTnever-lkm/bugbundle/releases/latest/download/BugBundle-v1.0.0.zip) · [исходный код](https://github.com/GhosTnever-lkm/bugbundle) | Готовит очищенный от типовых секретов отчёт о сбое игры или мода |
 | [DiffShield](https://github.com/GhosTnever-lkm/diffshield-action) | Проверяет pull request на распространённые риски в GitHub Actions |
 | [ModLocale](https://github.com/GhosTnever-lkm/clausewitz-loc-guard) | Проверяет локализацию модов Clausewitz и Paradox |
 | [ModPack Inspector](https://github.com/GhosTnever-lkm/modpack-inspector) | Проверяет структуру ZIP-архива мода перед установкой |
