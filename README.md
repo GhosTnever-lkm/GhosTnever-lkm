@@ -2,7 +2,8 @@
 
 <p align="center"><b>Плагины · Проекты · Эксперименты</b></p>
 <p align="center">Создаю полезные инструменты и превращаю идеи в готовые проекты.</p>
-<p align="center">Bitcoin: bc1qn75pj4n7gyl2k5kf2f97elvyenz52q6nn2g30u
+<p align="center">Поддержать напрямую в криптовалюте — отправляйте только активы в соответствующей сети:
+Bitcoin: bc1qn75pj4n7gyl2k5kf2f97elvyenz52q6nn2g30u
 TRON: TCBSy38X57hA6w2onJcxom24x1febc1mP1
 BNB Smart Chain: 0xD431a917961E0b086B96D9F72b5C8fF19b19068a.</p>
 ---
