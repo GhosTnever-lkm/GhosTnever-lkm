@@ -1,60 +1,55 @@
-<h1 align="center">Привет, я GhosTnever 👋</h1>
+<h1 align="center">👋 Привет, я GhosTnever</h1>
 
-<p align="center"><b>Плагины · Проекты · Эксперименты</b></p>
-<p align="center">Создаю полезные инструменты и превращаю идеи в готовые проекты.</p>
-<p align="center">Поддержать напрямую в криптовалюте — отправляйте только активы в соответствующей сети:
-\\\Bitcoin: bc1qn75pj4n7gyl2k5kf2f97elvyenz52q6nn2g30u
+<p align="center"><b>Инструменты для разработчиков и авторов игровых модов</b></p>
+<p align="center">Создаю открытые приложения, плагины и полезные проверки — от идеи до готового проекта.</p>
+<p align="center"><a href="https://github.com/GhosTnever-lkm?tab=repositories">Все репозитории</a> · <a href="https://github.com/users/GhosTnever-lkm/projects/2/views/1">План разработки</a></p>
 
-\\\TRON: TCBSy38X57hA6w2onJcxom24x1febc1mP1
-
-\\\BNB Smart Chain: 0xD431a917961E0b086B96D9F72b5C8fF19b19068a.</p>
 ---
 
-### 🚀 Готовые проекты
+### 🚀 Готовые инструменты
 
-Инструменты, которыми уже можно пользоваться:
+| Проект | Что делает |
+|:--|:--|
+| [BugBundle](https://ghostnever-lkm.github.io/bugbundle/) · [исходный код](https://github.com/GhosTnever-lkm/bugbundle) | Готовит очищенный от типовых секретов отчёт о сбое игры или мода |
+| [DiffShield](https://github.com/GhosTnever-lkm/diffshield-action) | Проверяет pull request на распространённые риски в GitHub Actions |
+| [ModLocale](https://github.com/GhosTnever-lkm/clausewitz-loc-guard) | Проверяет локализацию модов Clausewitz и Paradox |
+| [ModPack Inspector](https://github.com/GhosTnever-lkm/modpack-inspector) | Проверяет структуру ZIP-архива мода перед установкой |
+
+### 🧩 Плагины и наборы
 
 | Проект | Назначение |
 |:--|:--|
-| [BugBundle · открыть приложение](https://ghostnever-lkm.github.io/bugbundle/) · [код](https://github.com/GhosTnever-lkm/bugbundle) | Собрать очищенный от типовых секретов отчёт о сбое игры или мода |
-| [DiffShield](https://github.com/GhosTnever-lkm/diffshield-action) | Проверять pull request на распространённые риски прямо в GitHub Actions |
-| [ModLocale](https://github.com/GhosTnever-lkm/clausewitz-loc-guard) | Проверять локализацию модов Clausewitz и Paradox |
-| [ModPack Inspector](https://github.com/GhosTnever-lkm/modpack-inspector) | Проверять ZIP-архив мода перед установкой |
+| [Codex Toolkit](https://github.com/GhosTnever-lkm/ghosTnever-codex-toolkit) | Каталог плагинов и точка входа в набор |
+| [Repository Onboarding](https://github.com/GhosTnever-lkm/repo-onboarding) | Помогает освоиться в незнакомом репозитории |
+| [Change Review](https://github.com/GhosTnever-lkm/change-review) | Ищет ошибки и возможные регрессии в изменениях |
+| [CI Failure Guide](https://github.com/GhosTnever-lkm/ci-failure-guide) | Помогает разбирать сбои сборки и CI |
+| [Release Checklist](https://github.com/GhosTnever-lkm/release-checklist) | Помогает подготовить проект к выпуску |
+| [Docs from Code](https://github.com/GhosTnever-lkm/docs-from-code) | Помогает создавать документацию по коду |
+| [DSH GhostNever Toolkit](https://github.com/GhosTnever-lkm/dsh-ghostnever-toolkit) | Набор из 20 плагинов для DeepSeek Harness |
 
-Все репозитории: [GhosTnever-lkm](https://github.com/GhosTnever-lkm?tab=repositories) · План разработки: [GitHub Projects](https://github.com/users/GhosTnever-lkm/projects/2/views/1).
+### ☕ Поддержать разработку
 
-По направлениям: [моды](https://github.com/topics/modding) · [игровые инструменты](https://github.com/topics/game-development) · [GitHub Actions](https://github.com/topics/github-actions).
+Если мои проекты оказались полезны, поддержать их можно на [Buy Me a Coffee](https://buymeacoffee.com/azizazimov8), [Boosty](https://boosty.to/azizazimov) или [Gumroad](https://azimovian22.gumroad.com/).
 
-### 🧩 Плагины для Codex
+<details>
+<summary>Криптовалютные адреса для получения</summary>
 
-Собрал набор небольших инструментов для повседневной работы с кодом. Каждый плагин можно изучить и установить отдельно.
+Отправляйте только активы в указанной сети.
 
-| Проект | Для чего |
+| Сеть | Адрес |
 |:--|:--|
-| [Codex Toolkit](https://github.com/GhosTnever-lkm/ghosTnever-codex-toolkit) | Каталог плагинов и единая точка входа |
-| [Repository Onboarding](https://github.com/GhosTnever-lkm/repo-onboarding) | Быстро разобраться в незнакомом коде |
-| [Change Review](https://github.com/GhosTnever-lkm/change-review) | Искать конкретные ошибки и регрессии в изменениях |
-| [CI Failure Guide](https://github.com/GhosTnever-lkm/ci-failure-guide) | Разбирать сбои CI, сборки и тестов |
-| [Release Checklist](https://github.com/GhosTnever-lkm/release-checklist) | Проверять готовность проекта к выпуску |
-| [Docs from Code](https://github.com/GhosTnever-lkm/docs-from-code) | Писать документацию по актуальному коду |
+| Bitcoin | `bc1qn75pj4n7gyl2k5kf2f97elvyenz52q6nn2g30u` |
+| TRON | `TCBSy38X57hA6w2onJcxom24x1febc1mP1` |
+| BNB Smart Chain | `0xD431a917961E0b086B96D9F72b5C8fF19b19068a` |
 
-Для DeepSeek Harness: [DSH GhostNever Toolkit — 20 плагинов](https://github.com/GhosTnever-lkm/dsh-ghostnever-toolkit).
+</details>
 
-Найти проекты по темам: [Codex-плагины](https://github.com/topics/codex-plugin) · [плагины DeepSeek Harness](https://github.com/topics/deepseek-harness-plugin) · [локализация модов](https://github.com/topics/localization) · [моддинг игр](https://github.com/topics/modding).
+### ✦ Как я работаю
 
-### ☕ Поддержать проекты
-
-Если мои инструменты оказались полезны, поддержать дальнейшую разработку можно здесь: [Buy Me a Coffee](https://buymeacoffee.com/azizazimov8) · [Gumroad](https://azimovian22.gumroad.com/) · [Boosty](https://boosty.to/azizazimov).
-
-### ✧ Подход
-
-- Сначала проверяем факты в репозитории, затем делаем выводы.
-- Плагины не публикуют релизы и не меняют код без отдельного запроса.
-- Каждый проект содержит инструкции, примеры использования и лицензию MIT.
-
-<p align="center"><a href="https://github.com/GhosTnever-lkm?tab=repositories">Все репозитории →</a></p>
+- Проверяю факты по исходному коду и документации проекта.
+- Публикую открытые инструменты с инструкциями и лицензией.
+- Описываю ограничения и не обещаю того, чего проект пока не умеет.
 
 ---
 
 <p align="center"><i>Спасибо, что заглянули ✨</i></p>
-
