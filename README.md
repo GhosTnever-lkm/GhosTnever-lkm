@@ -35,7 +35,7 @@
 
 | Проект | Назначение |
 |:--|:--|
-| [Codex Toolkit](https://github.com/GhosTnever-lkm/ghosTnever-codex-toolkit) | Каталог плагинов и точка входа в набор |
+| [GhosTnever Mega Toolkit](https://github.com/GhosTnever-lkm/ghosTnever-codex-toolkit/tree/main/plugins/ghostnever-mega-toolkit) · [релиз v1.1.1](https://github.com/GhosTnever-lkm/ghosTnever-codex-toolkit/releases/tag/v1.1.1) | Один плагин Codex с 41 рабочим навыком и локальными настройками включения/выключения |
 | [Repository Onboarding](https://github.com/GhosTnever-lkm/repo-onboarding) | Помогает освоиться в незнакомом репозитории |
 | [Change Review](https://github.com/GhosTnever-lkm/change-review) · [релиз v1.0.1](https://github.com/GhosTnever-lkm/change-review/releases/tag/v1.0.1) | Ищет ошибки и возможные регрессии в изменениях |
 | [CI Failure Guide](https://github.com/GhosTnever-lkm/ci-failure-guide) · [релиз v1.0.1](https://github.com/GhosTnever-lkm/ci-failure-guide/releases/tag/v1.0.1) | Помогает разбирать сбои сборки и CI |
@@ -69,4 +69,5 @@
 ---
 
 <p align="center"><i>Спасибо, что заглянули ✨</i></p>
+
 
