@@ -10,6 +10,7 @@
 
 | Проект | Что делает |
 |:--|:--|
+| [SaveHarbor](https://github.com/GhosTnever-lkm/saveharbor) · [скачать ZIP v1.0.0](https://github.com/GhosTnever-lkm/saveharbor/releases/download/v1.0.0/SaveHarbor-v1.0.0.zip) · [Pro Scheduler за 50 ₽](https://boosty.to/azizazimov/posts/a9829848-7552-4b9b-8e52-e6086e81765f) | Делает локальные резервные копии игровых сохранений, сравнивает снимки и проверяет файлы по SHA-256 |
 | [RepoSignal](https://github.com/GhosTnever-lkm/repo-signal) · [открыть приложение](https://ghostnever-lkm.github.io/repo-signal/) · [релиз v1.0.0](https://github.com/GhosTnever-lkm/repo-signal/releases/tag/v1.0.0) · [исходный код](https://github.com/GhosTnever-lkm/repo-signal) | Проверяет понятность и готовность публичного GitHub-репозитория: README, лицензия, темы, CI, релизы и документы сообщества |
 | [BugBundle](https://ghostnever-lkm.github.io/bugbundle/) · [ZIP v1.0.1](https://github.com/GhosTnever-lkm/bugbundle/releases/download/v1.0.1/BugBundle-v1.0.1.zip) · [исходный код](https://github.com/GhosTnever-lkm/bugbundle) | Готовит очищенный от типовых секретов отчёт о сбое игры или мода |
 | [CSV Compass](https://github.com/GhosTnever-lkm/csv-compass) · [открыть приложение](https://ghostnever-lkm.github.io/csv-compass/) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/csv-compass/releases/tag/v0.1.0) | Проверяет и очищает CSV-таблицы локально в браузере; файлы не загружаются на сервер |
@@ -51,7 +52,7 @@
 
 | Сеть | Адрес |
 |:--|:--|
-| Bitcoin | `bc1qn75pj4n7gyl2k5kf2f97elyvenz52q6nn2g30u` |
+| Bitcoin | `bc1qn75pj4n7gyl2k5kf2f97elvyenz52q6nn2g30u` |
 | TRON | `TCBSy38X57hA6w2onJcxom24x1febc1mP1` |
 | BNB Smart Chain | `0xD431a917961E0b086B96D9F72b5C8fF19b19068a` |
 
