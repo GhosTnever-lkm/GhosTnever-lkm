@@ -38,10 +38,10 @@
 | Проект | Назначение |
 |:--|:--|
 | [GhosTnever Mega Toolkit](https://github.com/GhosTnever-lkm/ghosTnever-codex-toolkit/tree/main/plugins/ghostnever-mega-toolkit) · [релиз v1.1.2](https://github.com/GhosTnever-lkm/ghosTnever-codex-toolkit/releases/tag/v1.1.2) | Один плагин Codex с 41 рабочим навыком и локальными настройками включения/выключения |
-| [Repository Onboarding](https://github.com/GhosTnever-lkm/repo-onboarding) | Помогает освоиться в незнакомом репозитории |
+| [Repository Onboarding](https://github.com/GhosTnever-lkm/repo-onboarding) · [релиз v1.0.1](https://github.com/GhosTnever-lkm/repo-onboarding/releases/tag/v1.0.1) · [ZIP](https://github.com/GhosTnever-lkm/repo-onboarding/releases/download/v1.0.1/repo-onboarding-v1.0.1.zip) | Помогает освоиться в незнакомом репозитории |
 | [Change Review](https://github.com/GhosTnever-lkm/change-review) · [релиз v1.0.1](https://github.com/GhosTnever-lkm/change-review/releases/tag/v1.0.1) | Ищет ошибки и возможные регрессии в изменениях |
 | [CI Failure Guide](https://github.com/GhosTnever-lkm/ci-failure-guide) · [релиз v1.0.1](https://github.com/GhosTnever-lkm/ci-failure-guide/releases/tag/v1.0.1) | Помогает разбирать сбои сборки и CI |
-| [Release Checklist](https://github.com/GhosTnever-lkm/release-checklist) | Помогает подготовить проект к выпуску |
+| [Release Checklist](https://github.com/GhosTnever-lkm/release-checklist) · [релиз v1.0.1](https://github.com/GhosTnever-lkm/release-checklist/releases/tag/v1.0.1) · [ZIP](https://github.com/GhosTnever-lkm/release-checklist/releases/download/v1.0.1/release-checklist-v1.0.1.zip) | Помогает подготовить проект к выпуску |
 | [Docs from Code](https://github.com/GhosTnever-lkm/docs-from-code) · [релиз v1.0.0](https://github.com/GhosTnever-lkm/docs-from-code/releases/tag/v1.0.0) · [архив плагина](https://github.com/GhosTnever-lkm/docs-from-code/releases/download/v1.0.0/Docs-from-Code-v1.0.0.zip) | Помогает писать инструкции, архитектурные заметки и API-документацию по текущему исходному коду |
 | [DSH GhostNever Toolkit](https://github.com/GhosTnever-lkm/dsh-ghostnever-toolkit) · [релиз v1.0.2](https://github.com/GhosTnever-lkm/dsh-ghostnever-toolkit/releases/tag/v1.0.2) · [ZIP](https://github.com/GhosTnever-lkm/dsh-ghostnever-toolkit/releases/download/v1.0.2/GhosTnever-DSH-Toolkit-v1.0.2.zip) | Набор из 21 отдельно устанавливаемого плагина для DeepSeek Harness / Cordis |
 
@@ -71,3 +71,4 @@
 ---
 
 <p align="center"><i>Спасибо, что заглянули ✨</i></p>
+
