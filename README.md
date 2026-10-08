@@ -31,6 +31,7 @@
 | [Paradox Mod Quality Gate](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate) · [релиз v1.0.1](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate/releases/tag/v1.0.1) · [Windows Pro за 50 ₽](https://boosty.to/azizazimov/posts/761380dd-5d2d-45d1-ad6d-452b123d11b3) | Объединяет два сканера в GitHub Action; Pro добавляет Windows GUI и HTML-отчёты |
 | [WorkflowGuard](https://github.com/GhosTnever-lkm/workflowguard) · [релиз v1.0.1](https://github.com/GhosTnever-lkm/workflowguard/releases/tag/v1.0.1) · [Pro Kit за 50 ₽](https://boosty.to/azizazimov/posts/5c87f36c-8306-462e-85a8-a4facd470adb) | Локально проверяет GitHub Actions и экспортирует результаты в текст, JSON или SARIF; Pro Kit содержит стартовые workflow-шаблоны |
 | [LogSieve](https://github.com/GhosTnever-lkm/logsieve) · [открыть приложение](https://ghostnever-lkm.github.io/logsieve/) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/logsieve/releases/tag/v0.1.0) | Локально очищает игровые и системные логи от типовых токенов и личных данных перед отправкой в поддержку |
+| [VOIDFALL](https://github.com/GhosTnever-lkm/voidfall) · [играть](https://ghostnever-lkm.github.io/voidfall/) · [релиз v1.0.3](https://github.com/GhosTnever-lkm/voidfall/releases/tag/v1.0.3) | Браузерный roguelite-шутер с волнами врагов, боссами, способностями, контрактами и локальным сохранением прогресса |
 
 ### 🧩 Плагины и наборы
 
