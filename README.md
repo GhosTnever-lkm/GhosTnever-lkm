@@ -43,7 +43,7 @@
 | [CI Failure Guide](https://github.com/GhosTnever-lkm/ci-failure-guide) · [релиз v1.0.1](https://github.com/GhosTnever-lkm/ci-failure-guide/releases/tag/v1.0.1) | Помогает разбирать сбои сборки и CI |
 | [Release Checklist](https://github.com/GhosTnever-lkm/release-checklist) | Помогает подготовить проект к выпуску |
 | [Docs from Code](https://github.com/GhosTnever-lkm/docs-from-code) · [релиз v1.0.0](https://github.com/GhosTnever-lkm/docs-from-code/releases/tag/v1.0.0) · [архив плагина](https://github.com/GhosTnever-lkm/docs-from-code/releases/download/v1.0.0/Docs-from-Code-v1.0.0.zip) | Помогает писать инструкции, архитектурные заметки и API-документацию по текущему исходному коду |
-| [DSH GhostNever Toolkit](https://github.com/GhosTnever-lkm/dsh-ghostnever-toolkit) · [ZIP v1.0.1](https://github.com/GhosTnever-lkm/dsh-ghostnever-toolkit/releases/download/v1.0.1/GhosTnever-DSH-Toolkit-v1.0.1.zip) | 21 отдельно устанавливаемый плагин для DeepSeek Harness / Cordis |
+| [DSH GhostNever Toolkit](https://github.com/GhosTnever-lkm/dsh-ghostnever-toolkit) · [релиз v1.0.2](https://github.com/GhosTnever-lkm/dsh-ghostnever-toolkit/releases/tag/v1.0.2) · [ZIP](https://github.com/GhosTnever-lkm/dsh-ghostnever-toolkit/releases/download/v1.0.2/GhosTnever-DSH-Toolkit-v1.0.2.zip) | Набор из 21 отдельно устанавливаемого плагина для DeepSeek Harness / Cordis |
 
 ### ☕ Поддержать GhosTnever
 
