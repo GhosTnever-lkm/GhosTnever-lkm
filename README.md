@@ -37,7 +37,7 @@
 |:--|:--|
 | [Codex Toolkit](https://github.com/GhosTnever-lkm/ghosTnever-codex-toolkit) | Каталог плагинов и точка входа в набор |
 | [Repository Onboarding](https://github.com/GhosTnever-lkm/repo-onboarding) | Помогает освоиться в незнакомом репозитории |
-| [Change Review](https://github.com/GhosTnever-lkm/change-review) | Ищет ошибки и возможные регрессии в изменениях |
+| [Change Review](https://github.com/GhosTnever-lkm/change-review) · [релиз v1.0.1](https://github.com/GhosTnever-lkm/change-review/releases/tag/v1.0.1) | Ищет ошибки и возможные регрессии в изменениях |
 | [CI Failure Guide](https://github.com/GhosTnever-lkm/ci-failure-guide) | Помогает разбирать сбои сборки и CI |
 | [Release Checklist](https://github.com/GhosTnever-lkm/release-checklist) | Помогает подготовить проект к выпуску |
 | [Docs from Code](https://github.com/GhosTnever-lkm/docs-from-code) | Помогает создавать документацию по коду |
