@@ -14,9 +14,10 @@
 | [DiffShield](https://github.com/GhosTnever-lkm/diffshield-action) | Проверяет pull request на распространённые риски в GitHub Actions |
 | [ModLocale](https://github.com/GhosTnever-lkm/clausewitz-loc-guard) | Проверяет локализацию модов Clausewitz и Paradox |
 | [ModPack Inspector](https://github.com/GhosTnever-lkm/modpack-inspector) | Проверяет структуру ZIP-архива мода перед установкой |
-| [ModRelease Studio](https://github.com/GhosTnever-lkm/modrelease-studio) · [скачать ZIP v0.1.0](https://github.com/GhosTnever-lkm/modrelease-studio/releases/latest/download/modrelease-studio-0.1.0-bundle.zip) | Ищет ошибки упаковки в папках и ZIP модов и формирует отчёт перед выпуском |
-| [Mod Conflict Map](https://github.com/GhosTnever-lkm/paradox-mod-conflict-map) · [открыть приложение](https://ghostnever-lkm.github.io/paradox-mod-conflict-map/) · [ZIP v0.1.0](https://github.com/GhosTnever-lkm/paradox-mod-conflict-map/releases/latest/download/Mod-Conflict-Map.zip) | Находит потенциальные пересечения файловых путей в ZIP-архивах модов Paradox |
+| [ModRelease Studio](https://github.com/GhosTnever-lkm/modrelease-studio) · [скачать ZIP v0.2.1](https://github.com/GhosTnever-lkm/modrelease-studio/releases/latest/download/ModRelease-Studio-v0.2.1.zip) | Ищет ошибки упаковки в папках и ZIP модов и формирует отчёт перед выпуском |
+| [Mod Conflict Map](https://github.com/GhosTnever-lkm/paradox-mod-conflict-map) · [открыть приложение](https://ghostnever-lkm.github.io/paradox-mod-conflict-map/) · [ZIP v0.3.0](https://github.com/GhosTnever-lkm/paradox-mod-conflict-map/releases/latest/download/Mod-Conflict-Map.zip) | Находит потенциальные пересечения файловых путей в ZIP-архивах модов Paradox |
 | [Workshop Page Studio](https://ghostnever-lkm.github.io/workshop-page-studio/) · [ZIP v0.1.0](https://github.com/GhosTnever-lkm/workshop-page-studio/releases/latest/download/Workshop-Page-Studio-v0.1.0.zip) · [исходный код](https://github.com/GhosTnever-lkm/workshop-page-studio) | Создаёт страницы модов с предпросмотром и экспортом в Steam BBCode или Markdown |
+| [Paradox Mod Workbench](https://github.com/GhosTnever-lkm/paradox-mod-workbench) · [релиз v0.2.1](https://github.com/GhosTnever-lkm/paradox-mod-workbench/releases/tag/v0.2.1) | CLI для диагностики конфликтов, зависимостей, локализации и скриптов с JSON/SARIF-отчётами |
 
 ### 🧩 Плагины и наборы
 
@@ -56,4 +57,3 @@
 ---
 
 <p align="center"><i>Спасибо, что заглянули ✨</i></p>
-
