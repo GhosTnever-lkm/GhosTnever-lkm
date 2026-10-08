@@ -10,6 +10,7 @@
 
 | Проект | Что делает |
 |:--|:--|
+| [RepoSignal](https://github.com/GhosTnever-lkm/repo-signal) · [открыть приложение](https://ghostnever-lkm.github.io/repo-signal/) · [исходный код](https://github.com/GhosTnever-lkm/repo-signal) | Проверяет понятность и готовность публичного GitHub-репозитория: README, лицензия, темы, CI, релизы и документы сообщества |
 | [BugBundle](https://ghostnever-lkm.github.io/bugbundle/) · [ZIP v1.0.0](https://github.com/GhosTnever-lkm/bugbundle/releases/latest/download/BugBundle-v1.0.0.zip) · [исходный код](https://github.com/GhosTnever-lkm/bugbundle) | Готовит очищенный от типовых секретов отчёт о сбое игры или мода |
 | [CSV Compass](https://github.com/GhosTnever-lkm/csv-compass) · [открыть приложение](https://ghostnever-lkm.github.io/csv-compass/) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/csv-compass/releases/tag/v0.1.0) | Проверяет и очищает CSV-таблицы локально в браузере; файлы не загружаются на сервер |
 | [DiffShield](https://github.com/GhosTnever-lkm/diffshield-action) | Проверяет pull request на распространённые риски в GitHub Actions |
