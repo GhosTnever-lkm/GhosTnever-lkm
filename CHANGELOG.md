@@ -1,5 +1,13 @@
 ## 1.0.8 - 2026-10-10
 
+## 1.0.9 - 2026-10-10
+
+- Add CaptionLint v1.0.0, its live app, and release link to the tools list.
+
+# Changelog
+
+## 1.0.8 - 2026-10-10
+
 - Promote FrameForge v1.18.0 with optional timed PresentMon capture and verified Windows release links.
 
 # Changelog
@@ -36,3 +44,6 @@
 
 - Publish the GhosTnever profile README as the first versioned release.
 - Add the MIT license, version file, and standard repository ignore rules.
+## 1.0.9 - 2026-10-10
+
+- Add CaptionLint v1.0.0, its live app, and release link to the tools list.
