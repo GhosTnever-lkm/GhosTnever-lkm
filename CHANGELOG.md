@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3 - 2026-10-10
+
+- Add the ModLocale v1.0.1 release and live demo links.
+
 ## 1.0.2 - 2026-10-10
 
 - Update the Mod Conflict Map row to the v0.3.3 release and its matching versioned ZIP.
