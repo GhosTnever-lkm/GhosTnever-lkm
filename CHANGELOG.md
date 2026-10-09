@@ -1,16 +1,16 @@
-## 1.0.8 - 2026-10-10
+# Changelog
+
+## 1.1.0 - 2026-10-10
+
+- Promote SaveHarbor v1.1.0 and CaptionLint v1.0.0 with current release and app links.
 
 ## 1.0.9 - 2026-10-10
 
-- Add CaptionLint v1.0.0, its live app, release link, and public launch announcement to the tools list.
-
-# Changelog
+- Add CaptionLint v1.0.0 with its live app, release link, and public announcement.
 
 ## 1.0.8 - 2026-10-10
 
-- Promote FrameForge v1.18.0 with optional timed PresentMon capture and verified Windows release links.
-
-# Changelog
+- Promote FrameForge v1.18.0 with its timed PresentMon capture feature and Windows release links.
 
 ## 1.0.7 - 2026-10-10
 
