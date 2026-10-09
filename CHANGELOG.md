@@ -2,7 +2,7 @@
 
 ## 1.0.9 - 2026-10-10
 
-- Add CaptionLint v1.0.0, its live app, and release link to the tools list.
+- Add CaptionLint v1.0.0, its live app, release link, and public launch announcement to the tools list.
 
 # Changelog
 
@@ -46,4 +46,4 @@
 - Add the MIT license, version file, and standard repository ignore rules.
 ## 1.0.9 - 2026-10-10
 
-- Add CaptionLint v1.0.0, its live app, and release link to the tools list.
+- Add CaptionLint v1.0.0, its live app, release link, and public launch announcement to the tools list.
