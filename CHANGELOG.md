@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.0 - 2026-10-10
+
+- Promote FrameForge v1.18.1 with the verified Windows release, direct ZIP, and public announcement.
+
 ## 1.1.0 - 2026-10-10
 
 - Promote SaveHarbor v1.1.0 and CaptionLint v1.0.0 with current release and app links.
