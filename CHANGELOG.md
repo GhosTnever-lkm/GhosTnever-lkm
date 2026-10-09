@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.7 - 2026-10-10
+
+- Update the Mod Conflict Map profile entry to v0.4.0, including the release ZIP and announcement.
+
 ## 1.0.6 - 2026-10-10
 
 - Promote FrameForge v1.17.0 and its announcement; describe the optional desktop panel for CS:GO Legacy accurately.
