@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.4 - 2026-10-10
+
+- Promote ModLocale v1.0.2 with the release ZIP and demo links.
+
 ## 1.0.3 - 2026-10-10
 
 - Add the ModLocale v1.0.1 release and live demo links.
