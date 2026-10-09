@@ -1,3 +1,7 @@
+## 1.0.8 - 2026-10-10
+
+- Promote FrameForge v1.18.0 with optional timed PresentMon capture and verified Windows release links.
+
 # Changelog
 
 ## 1.0.7 - 2026-10-10
