@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.5 - 2026-10-10
+
+- Promote SaveHarbor v1.0.2 with direct release and verified ZIP links.
+
 ## 1.0.4 - 2026-10-10
 
 - Promote ModLocale v1.0.2 with the release ZIP and demo links.
