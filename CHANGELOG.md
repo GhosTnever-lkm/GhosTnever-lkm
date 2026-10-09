@@ -2,7 +2,7 @@
 
 ## 1.0.6 - 2026-10-10
 
-- Promote FrameForge v1.17.0 and describe the optional desktop panel for CS:GO Legacy accurately.
+- Promote FrameForge v1.17.0 and its announcement; describe the optional desktop panel for CS:GO Legacy accurately.
 
 ## 1.0.5 - 2026-10-10
 
