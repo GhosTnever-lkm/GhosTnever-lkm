@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.19 - 2026-10-10
+
+- Add PantryPilot v0.1.0 with its live demo, source, release, and public announcement.
+
 ## 1.2.18 - 2026-10-10
 
 - Add QuoteForge v0.1.0 with its live demo, source, release, and public announcement.
