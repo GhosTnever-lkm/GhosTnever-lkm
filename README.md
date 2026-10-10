@@ -10,6 +10,8 @@
 
 ### 🚀 Готовые инструменты
 
+[HueDock](https://github.com/GhosTnever-lkm/huedock) · [демо](https://ghostnever-lkm.github.io/huedock/) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/huedock/releases/tag/v0.1.0) · [анонс](https://boosty.to/azizazimov/posts/038fe22f-f58c-43c7-9b34-508030688e77) | Локальная мастерская палитр: четыре цветовые гармонии, WCAG AA/AAA контраст, сохранение палитр, JSON-резервная копия и экспорт CSS-токенов.
+
 [TabHarbor](https://github.com/GhosTnever-lkm/tabharbor) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/tabharbor/releases/tag/v0.1.0) · [анонс](https://boosty.to/azizazimov/posts/0b397911-ff04-4e6b-84a2-41db5de42912) | Расширение Chrome и Edge для сохранения, поиска, JSON-экспорта и восстановления рабочих наборов вкладок в отдельных окнах.
 
 [HomeLedger](https://github.com/GhosTnever-lkm/homeledger) · [демо](https://ghostnever-lkm.github.io/homeledger/) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/homeledger/releases/tag/v0.1.0) · [анонс](https://boosty.to/azizazimov/posts/9c5fdd21-bc81-4277-9269-bc140211bb2d) | Домашний каталог вещей с ценами, местоположением и сроками гарантии. Локальное хранение, поиск, фильтры и JSON backup.
