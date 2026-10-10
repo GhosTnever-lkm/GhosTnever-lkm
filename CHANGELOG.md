@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.39 - 2026-10-11
+
+- Refresh the featured Mod Threat Lens release link to v0.1.3 after the Action dependency update.
+
 ## 1.2.38 - 2026-10-11
 
 - Refresh featured ModRelease Studio, ModRelease Gate, and Paradox Quality Gate tags to the latest releases.

@@ -11,7 +11,7 @@
 ### 🛡️ Качество и безопасность игровых модов
 
 - **ModRelease Studio v0.3.6** — проверка папки или ZIP перед выпуском: упаковка, секреты, метаданные и сравнение сборок. [Сайт и демо](https://ghostnever-lkm.github.io/modrelease-studio/) · [релиз v0.3.6](https://github.com/GhosTnever-lkm/modrelease-studio/releases/tag/v0.3.6) · [скачать ZIP](https://github.com/GhosTnever-lkm/modrelease-studio/releases/download/v0.3.6/ModRelease-Studio-v0.3.6.zip)
-- **Mod Threat Lens v0.1.2** — локальная эвристическая проверка скриптов, бинарных файлов и ZIP-архивов. Это инструмент первичного анализа, а не антивирус и не вердикт о безопасности. [репозиторий](https://github.com/GhosTnever-lkm/mod-threat-lens) · [релиз](https://github.com/GhosTnever-lkm/mod-threat-lens/releases/tag/v0.1.2) · [скачать ZIP](https://github.com/GhosTnever-lkm/mod-threat-lens/releases/download/v0.1.2/mod-threat-lens-v0.1.2.zip)
+- **Mod Threat Lens v0.1.3** — локальная эвристическая проверка скриптов, бинарных файлов и ZIP-архивов. Это инструмент первичного анализа, а не антивирус и не вердикт о безопасности. [репозиторий](https://github.com/GhosTnever-lkm/mod-threat-lens) · [релиз](https://github.com/GhosTnever-lkm/mod-threat-lens/releases/tag/v0.1.3) · [скачать ZIP](https://github.com/GhosTnever-lkm/mod-threat-lens/releases/download/v0.1.3/mod-threat-lens-v0.1.3.zip)
 
 ### 🚀 Готовые инструменты
 
