@@ -99,3 +99,7 @@
 
 
 
+# 1.2.12 - 2026-10-10
+
+- Add CueGrid repository, hosted app, and release to the profile.
+
