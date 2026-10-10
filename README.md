@@ -10,7 +10,7 @@
 
 ### 🚀 Готовые инструменты
 
-[HomeLedger](https://github.com/GhosTnever-lkm/homeledger) · [демо](https://ghostnever-lkm.github.io/homeledger/) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/homeledger/releases/tag/v0.1.0) · [анонс](https://boosty.to/azizazimov/posts/HOMELEDGER_POST_ID) | Домашний каталог вещей с ценами, местоположением и сроками гарантии. Локальное хранение, поиск, фильтры и JSON backup.
+[HomeLedger](https://github.com/GhosTnever-lkm/homeledger) · [демо](https://ghostnever-lkm.github.io/homeledger/) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/homeledger/releases/tag/v0.1.0) · [анонс](https://boosty.to/azizazimov/posts/9c5fdd21-bc81-4277-9269-bc140211bb2d) | Домашний каталог вещей с ценами, местоположением и сроками гарантии. Локальное хранение, поиск, фильтры и JSON backup.
 
 [PantryPilot](https://github.com/GhosTnever-lkm/pantrypilot) · [демо](https://ghostnever-lkm.github.io/pantrypilot/) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/pantrypilot/releases/tag/v0.1.0) · [анонс](https://boosty.to/azizazimov/posts/841fee9a-520c-4f8e-acd9-8ee32db46fb0) | Планировщик меню на неделю: рецепты и порции автоматически собираются в общий список покупок с учётом запасов дома. Данные остаются в браузере.
 
