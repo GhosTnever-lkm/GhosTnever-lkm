@@ -10,6 +10,10 @@
 
 ### 🚀 Готовые инструменты
 
+[Screenshot Diff Lab](https://github.com/GhosTnever-lkm/screenshot-diff-lab) · [релиз и ZIP v0.1.0](https://github.com/GhosTnever-lkm/screenshot-diff-lab/releases/tag/v0.1.0) · Локальное сравнение скриншотов: side-by-side, overlay, heatmap различий и экспорт отчётов
+
+
+
 [GameText Gate](https://github.com/GhosTnever-lkm/game-text-gate) · [релиз v0.1.5](https://github.com/GhosTnever-lkm/game-text-gate/releases/tag/v0.1.5) · [анонс](https://boosty.to/azizazimov/posts/6afc0d52-9578-474f-8909-1643e690e6d6) · [Locale Matrix Pro за 50 ₽](https://boosty.to/azizazimov/posts/3c8895d7-8a95-4622-9eb3-626a78d272b2) | Локально проверяет игровые переводы Unity/Godot CSV, gettext PO и вложенный JSON: ключи, пустые строки, плейсхолдеры и ограниченный набор разметки; CLI, GitHub Action, Markdown/JSON/SARIF
 
 [ShaderTriage](https://github.com/GhosTnever-lkm/shader-triage) · [открыть приложение](https://ghostnever-lkm.github.io/shader-triage/) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/shader-triage/releases/tag/v0.1.0) · [анонс](https://boosty.to/azizazimov/posts/b4bca144-3cee-4373-8c29-72382b0cf69d) | Локально разбирает текстовые логи компиляции шейдеров Unity, Unreal Engine и Godot: группирует повторные диагностики, позволяет искать и экспортировать Markdown/JSON; лог остаётся в браузере

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.9 - 2026-10-10
+
+- Add Screenshot Diff Lab v0.1.0 to the profile project list.
+
 ## 1.2.8 - 2026-10-10
 
 - Update GameText Gate to v0.1.5 and add the paid Locale Matrix Pro link.
@@ -84,3 +88,4 @@
 ## 1.0.9 - 2026-10-10
 
 - Add CaptionLint v1.0.0, its live app, release link, and public launch announcement to the tools list.
+
