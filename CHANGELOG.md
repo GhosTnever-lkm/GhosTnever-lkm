@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.1 - 2026-10-10
+
+- Add PingScope v0.2.1 with its Windows download and announcement links.
+
 ## 1.2.0 - 2026-10-10
 
 - Promote FrameForge v1.18.1 with the verified Windows release, direct ZIP, and public announcement.

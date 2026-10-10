@@ -10,6 +10,7 @@
 
 ### 🚀 Готовые инструменты
 
+| [PingScope](https://github.com/GhosTnever-lkm/ping-scope) · [анонс](https://boosty.to/azizazimov/posts/ddcfcbd7-b3bc-4691-8b2d-3d2f681738a4) · [релиз v0.2.1](https://github.com/GhosTnever-lkm/ping-scope/releases/tag/v0.2.1) · [скачать для Windows](https://github.com/GhosTnever-lkm/ping-scope/releases/download/v0.2.1/PingScope-v0.2.1-windows-x64.zip) | Измеряет задержку, джиттер и потерю пакетов, отображает график и сохраняет локальный CSV-отчёт; запускается на Windows без отдельной установки Python |
 | Проект | Что делает |
 |:--|:--|
 | [CaptionLint](https://github.com/GhosTnever-lkm/subtitle-release-gate) · [анонс](https://boosty.to/azizazimov/posts/0a3f7a4e-d894-44f4-ad49-7023b96b6a4d) · [открыть приложение](https://ghostnever-lkm.github.io/subtitle-release-gate/) · [релиз v1.0.0](https://github.com/GhosTnever-lkm/subtitle-release-gate/releases/tag/v1.0.0) | Проверяет SRT/WebVTT перед выпуском: тайминги, читаемость и расхождения между двумя языковыми дорожками; файлы остаются в браузере |
