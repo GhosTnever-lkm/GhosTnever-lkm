@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.35 - 2026-10-11
+
+- Refresh Paradox Mod Quality Gate to v1.0.8 and localize the ModRelease Gate portfolio entry.
+
 ## 1.2.34 - 2026-10-11
 
 - Refresh GameText Gate and BugBundle release links; feature ModRelease Gate v1.0.6 in the mod-QA cluster.
