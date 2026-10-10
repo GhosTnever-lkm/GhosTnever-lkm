@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.27 - 2026-10-11
+
+- Lead the profile with ModRelease Studio v0.3.0 and the new Mod Threat Lens v0.1.0.
+- Refresh release links for ModRelease Studio, GameText Gate, BugBundle, and Paradox Mod Quality Gate.
 ## 1.2.23 - 2026-10-10
 
 - Add HueDock with live demo, source, v0.1.0 release, and public announcement links.
