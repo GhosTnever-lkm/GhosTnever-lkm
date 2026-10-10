@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.36 - 2026-10-11
+
+- Correct the localized ModRelease Gate label in the portfolio table.
+
 ## 1.2.35 - 2026-10-11
 
 - Refresh Paradox Mod Quality Gate to v1.0.8 and localize the ModRelease Gate portfolio entry.
