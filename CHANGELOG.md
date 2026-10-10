@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.7 - 2026-10-10
+
+- Promote GameText Gate v0.1.3 with gettext-context handling and valid SARIF artifact URIs.
+
 ## 1.2.6 - 2026-10-10
 
 - Add GameText Gate v0.1.2 with its public repository, release, and announcement.
