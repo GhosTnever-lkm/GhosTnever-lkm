@@ -10,6 +10,8 @@
 
 ### 🚀 Готовые инструменты
 
+[ShiftLedger](https://github.com/GhosTnever-lkm/shiftledger) · [демо](https://ghostnever-lkm.github.io/shiftledger/) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/shiftledger/releases/tag/v0.1.0) · [анонс](https://boosty.to/azizazimov/posts/23a17455-676d-446b-8104-dee719a645fc) | Табель смен с расчётом оплачиваемых часов и начислений, учётом перерывов и ночных смен, сводкой по неделям и месяцам, CSV и JSON-резервной копией.
+
 [HueDock](https://github.com/GhosTnever-lkm/huedock) · [демо](https://ghostnever-lkm.github.io/huedock/) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/huedock/releases/tag/v0.1.0) · [анонс](https://boosty.to/azizazimov/posts/038fe22f-f58c-43c7-9b34-508030688e77) | Локальная мастерская палитр: четыре цветовые гармонии, WCAG AA/AAA контраст, сохранение палитр, JSON-резервная копия и экспорт CSS-токенов.
 
 [TabHarbor](https://github.com/GhosTnever-lkm/tabharbor) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/tabharbor/releases/tag/v0.1.0) · [анонс](https://boosty.to/azizazimov/posts/0b397911-ff04-4e6b-84a2-41db5de42912) | Расширение Chrome и Edge для сохранения, поиска, JSON-экспорта и восстановления рабочих наборов вкладок в отдельных окнах.
