@@ -10,6 +10,8 @@
 
 ### 🚀 Готовые инструменты
 
+[ShaderTriage](https://github.com/GhosTnever-lkm/shader-triage) · [открыть приложение](https://ghostnever-lkm.github.io/shader-triage/) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/shader-triage/releases/tag/v0.1.0) · [анонс](https://boosty.to/azizazimov/posts/b4bca144-3cee-4373-8c29-72382b0cf69d) | Локально разбирает текстовые логи компиляции шейдеров Unity, Unreal Engine и Godot: группирует повторные диагностики, позволяет искать и экспортировать Markdown/JSON; лог остаётся в браузере
+
 [Asset Sieve](https://github.com/GhosTnever-lkm/asset-sieve) · [анонс](https://boosty.to/azizazimov/posts/ba51430f-0012-413c-bffb-7d921d445b09) · [релиз v0.1.3](https://github.com/GhosTnever-lkm/asset-sieve/releases/tag/v0.1.3) · [wheel](https://github.com/GhosTnever-lkm/asset-sieve/releases/download/v0.1.3/asset_sieve-0.1.3-py3-none-any.whl) | Локальный аудит игровых ресурсов Unity, Unreal и Godot: точные дубликаты, крупные и повреждённые изображения, сводки по папкам и форматам; отчёты Markdown/JSON
 | [PingScope](https://github.com/GhosTnever-lkm/ping-scope) · [анонс](https://boosty.to/azizazimov/posts/ddcfcbd7-b3bc-4691-8b2d-3d2f681738a4) · [релиз v0.2.1](https://github.com/GhosTnever-lkm/ping-scope/releases/tag/v0.2.1) · [скачать для Windows](https://github.com/GhosTnever-lkm/ping-scope/releases/download/v0.2.1/PingScope-v0.2.1-windows-x64.zip) | Измеряет задержку, джиттер и потерю пакетов, отображает график и сохраняет локальный CSV-отчёт; запускается на Windows без отдельной установки Python |
 | Проект | Что делает |
