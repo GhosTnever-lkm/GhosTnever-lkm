@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.3 - 2026-10-10
+
+- Promote Asset Sieve v0.1.2 with a direct wheel download and current public announcement.
+
+
 ## 1.2.2 - 2026-10-10
 
 - Add Asset Sieve v0.1.1 with its release and public announcement links.
@@ -60,4 +65,5 @@
 ## 1.0.9 - 2026-10-10
 
 - Add CaptionLint v1.0.0, its live app, release link, and public launch announcement to the tools list.
+
 
