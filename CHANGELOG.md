@@ -107,3 +107,8 @@
 
 - Add CueGrid repository, hosted app, and release to the profile.
 
+
+## 1.2.15 - 2026-10-10
+
+- Add Subtitle Timing Studio v1.0.1 with live demo, release, and public Boosty announcement.
+

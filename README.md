@@ -10,6 +10,8 @@
 
 ### 🚀 Готовые инструменты
 
+[Subtitle Timing Studio](https://github.com/GhosTnever-lkm/subtitle-timing-studio) · [демо](https://ghostnever-lkm.github.io/subtitle-timing-studio/) · [релиз v1.0.1](https://github.com/GhosTnever-lkm/subtitle-timing-studio/releases/tag/v1.0.1) · [анонс](https://boosty.to/azizazimov/posts/26ba016f-b853-4cf0-811a-173402c831a2) | Локальный редактор SRT/WebVTT с видео-превью, настройкой таймингов по кадру, проверкой пересечений и экспортом. Видео и субтитры остаются в браузере.
+
 [Agent Run Lens](https://github.com/GhosTnever-lkm/agent-run-lens) · [открыть приложение](https://ghostnever-lkm.github.io/agent-run-lens/) · [релиз v1.0.0](https://github.com/GhosTnever-lkm/agent-run-lens/releases/tag/v1.0.0) · [анонс](https://boosty.to/azizazimov/posts/e3a7baaa-0216-4fcc-8995-000d3580a5d9) | Локально исследует JSONL-трассы AI-агентов: события, ошибки, задержки, токены и переданную стоимость; сравнивает запуски, фильтрует и экспортирует отчёты
 
 [CueGrid](https://github.com/GhosTnever-lkm/cuegrid) · [открыть приложение](https://ghostnever-lkm.github.io/cuegrid/) · [релиз v0.2.0](https://github.com/GhosTnever-lkm/cuegrid/releases/tag/v0.2.0) · [анонс](https://boosty.to/azizazimov/posts/c5059938-0164-4a0b-a9c0-e123470490a3) · [CueGrid Pro Pack за 50 ₽](https://boosty.to/azizazimov/posts/1d4a67a2-a1b8-477d-96f1-c92fd0c3f8c0) | Локальная cue-панель для стримов, настольных игр и выступлений: несколько звуковых панелей, клавиши, отдельная громкость, резервный экспорт и импорт библиотеки, слияние готовых панелей.
