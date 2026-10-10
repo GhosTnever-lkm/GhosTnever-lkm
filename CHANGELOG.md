@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.2.13 - 2026-10-10
+## 1.2.14 - 2026-10-10
 
 - Add Agent Run Lens v1.0.0 with live app, release, and public announcement links.
 
