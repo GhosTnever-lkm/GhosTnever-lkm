@@ -10,6 +10,8 @@
 
 ### 🚀 Готовые инструменты
 
+[CaptionBench](https://github.com/GhosTnever-lkm/captionbench) · [демо](https://ghostnever-lkm.github.io/captionbench/) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/captionbench/releases/tag/v0.1.0) · [анонс](https://boosty.to/azizazimov/posts/31383539-f1c0-4f5f-8282-cd2818bda2d5) | Локально проверяет и редактирует SRT: длинные строки, скорость чтения, пустые реплики и пересекающиеся тайминги; экспортирует исправленную копию.
+
 [HarborTrace](https://github.com/GhosTnever-lkm/harbortrace) · [демо](https://ghostnever-lkm.github.io/harbortrace/) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/harbortrace/releases/tag/v0.1.0) · [анонс](https://boosty.to/azizazimov/posts/1ee1dc9e-12e0-4119-b12f-0bb588181c69) | Локально анализирует HAR-трассы: waterfall запросов, ошибки, медленные endpoints, сравнение двух запусков, CSV и обезличенный HAR-экспорт.
 
 [ShiftLedger](https://github.com/GhosTnever-lkm/shiftledger) · [демо](https://ghostnever-lkm.github.io/shiftledger/) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/shiftledger/releases/tag/v0.1.0) · [анонс](https://boosty.to/azizazimov/posts/23a17455-676d-446b-8104-dee719a645fc) | Табель смен с расчётом оплачиваемых часов и начислений, учётом перерывов и ночных смен, сводкой по неделям и месяцам, CSV и JSON-резервной копией.
