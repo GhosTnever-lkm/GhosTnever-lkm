@@ -10,7 +10,7 @@
 
 ### 🚀 Готовые инструменты
 
-[Screenshot Diff Lab](https://github.com/GhosTnever-lkm/screenshot-diff-lab) · [релиз и ZIP v0.1.0](https://github.com/GhosTnever-lkm/screenshot-diff-lab/releases/tag/v0.1.0) · Локальное сравнение скриншотов: side-by-side, overlay, heatmap различий и экспорт отчётов
+[Screenshot Diff Lab](https://github.com/GhosTnever-lkm/screenshot-diff-lab) · [демо](https://ghostnever-lkm.github.io/screenshot-diff-lab/) · [релиз и ZIP v0.1.2](https://github.com/GhosTnever-lkm/screenshot-diff-lab/releases/tag/v0.1.2) · Локальное сравнение скриншотов: side-by-side, overlay, heatmap различий и экспорт отчётов
 
 
 
