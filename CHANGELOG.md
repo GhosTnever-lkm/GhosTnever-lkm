@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.28 - 2026-10-11
+
+- Refresh the featured ModRelease Studio link to v0.3.1 after the contact cleanup release.
+
 ## 1.2.27 - 2026-10-11
 
 - Lead the profile with ModRelease Studio v0.3.0 and the new Mod Threat Lens v0.1.0.
