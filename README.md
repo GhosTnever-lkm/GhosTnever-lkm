@@ -10,6 +10,8 @@
 
 ### 🚀 Готовые инструменты
 
+[FontPair Studio](https://github.com/GhosTnever-lkm/fontpair-studio) · [демо](https://ghostnever-lkm.github.io/fontpair-studio/) · [релиз v1.0.1](https://github.com/GhosTnever-lkm/fontpair-studio/releases/tag/v1.0.1) · [скачать ZIP](https://github.com/GhosTnever-lkm/fontpair-studio/releases/download/v1.0.1/fontpair-studio-v1.0.1.zip) · [анонс](https://boosty.to/azizazimov/posts/eecfbddc-5737-4705-ad44-c7c35cdfc10b) | Локально сравнивает до шести шрифтов, помогает настроить пару для заголовка и текста и экспортирует CSS-тему. Файлы остаются в браузере.
+
 [Subtitle Timing Studio](https://github.com/GhosTnever-lkm/subtitle-timing-studio) · [демо](https://ghostnever-lkm.github.io/subtitle-timing-studio/) · [релиз v1.0.1](https://github.com/GhosTnever-lkm/subtitle-timing-studio/releases/tag/v1.0.1) · [анонс](https://boosty.to/azizazimov/posts/26ba016f-b853-4cf0-811a-173402c831a2) | Локальный редактор SRT/WebVTT с видео-превью, настройкой таймингов по кадру, проверкой пересечений и экспортом. Видео и субтитры остаются в браузере.
 
 [Agent Run Lens](https://github.com/GhosTnever-lkm/agent-run-lens) · [открыть приложение](https://ghostnever-lkm.github.io/agent-run-lens/) · [релиз v1.0.0](https://github.com/GhosTnever-lkm/agent-run-lens/releases/tag/v1.0.0) · [анонс](https://boosty.to/azizazimov/posts/e3a7baaa-0216-4fcc-8995-000d3580a5d9) | Локально исследует JSONL-трассы AI-агентов: события, ошибки, задержки, токены и переданную стоимость; сравнивает запуски, фильтрует и экспортирует отчёты

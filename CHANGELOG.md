@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.16 - 2026-10-10
+
+- Add FontPair Studio v1.0.1 with its live demo, source, release, and public announcement.
+
 ## 1.2.14 - 2026-10-10
 
 - Add Agent Run Lens v1.0.0 with live app, release, and public announcement links.
