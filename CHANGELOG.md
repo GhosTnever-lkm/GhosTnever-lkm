@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.34 - 2026-10-11
+
+- Refresh GameText Gate and BugBundle release links; feature ModRelease Gate v1.0.6 in the mod-QA cluster.
+
 ## 1.2.33 - 2026-10-11
 
 - Correct the Paradox Mod Quality Gate release link while preserving unrelated profile links.
