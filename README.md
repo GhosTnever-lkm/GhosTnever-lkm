@@ -10,6 +10,8 @@
 
 ### 🚀 Готовые инструменты
 
+[HomeLedger](https://github.com/GhosTnever-lkm/homeledger) · [демо](https://ghostnever-lkm.github.io/homeledger/) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/homeledger/releases/tag/v0.1.0) · [анонс](https://boosty.to/azizazimov/posts/HOMELEDGER_POST_ID) | Домашний каталог вещей с ценами, местоположением и сроками гарантии. Локальное хранение, поиск, фильтры и JSON backup.
+
 [PantryPilot](https://github.com/GhosTnever-lkm/pantrypilot) · [демо](https://ghostnever-lkm.github.io/pantrypilot/) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/pantrypilot/releases/tag/v0.1.0) · [анонс](https://boosty.to/azizazimov/posts/841fee9a-520c-4f8e-acd9-8ee32db46fb0) | Планировщик меню на неделю: рецепты и порции автоматически собираются в общий список покупок с учётом запасов дома. Данные остаются в браузере.
 
 [QuoteForge](https://github.com/GhosTnever-lkm/quote-forge) · [демо](https://ghostnever-lkm.github.io/quote-forge/) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/quote-forge/releases/tag/v0.1.0) · [анонс](https://boosty.to/azizazimov/posts/b10267ec-b181-480c-bfa5-04f95e869c38) | Локальный конструктор счетов и коммерческих предложений: позиции, дробное количество, скидки, налог, печать/PDF и JSON-резервные копии.
