@@ -10,7 +10,7 @@
 
 ### 🚀 Готовые инструменты
 
-[CueGrid](https://github.com/GhosTnever-lkm/cuegrid) · [открыть приложение](https://ghostnever-lkm.github.io/cuegrid/) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/cuegrid/releases/tag/v0.1.0) · [анонс](https://boosty.to/azizazimov/posts/c5059938-0164-4a0b-a9c0-e123470490a3) | Локальная cue-панель для стримов, настольных игр и выступлений: несколько звуковых панелей, клавиши, отдельная громкость, повторы и мгновенная остановка всех сигналов.
+[CueGrid](https://github.com/GhosTnever-lkm/cuegrid) · [открыть приложение](https://ghostnever-lkm.github.io/cuegrid/) · [релиз v0.2.0](https://github.com/GhosTnever-lkm/cuegrid/releases/tag/v0.2.0) · [анонс](https://boosty.to/azizazimov/posts/c5059938-0164-4a0b-a9c0-e123470490a3) · [CueGrid Pro Pack за 50 ₽](https://boosty.to/azizazimov/posts/1d4a67a2-a1b8-477d-96f1-c92fd0c3f8c0) | Локальная cue-панель для стримов, настольных игр и выступлений: несколько звуковых панелей, клавиши, отдельная громкость, резервный экспорт и импорт библиотеки, слияние готовых панелей.
 
 [Screenshot Diff Lab](https://github.com/GhosTnever-lkm/screenshot-diff-lab) · [демо](https://ghostnever-lkm.github.io/screenshot-diff-lab/) · [релиз v0.1.2](https://github.com/GhosTnever-lkm/screenshot-diff-lab/releases/tag/v0.1.2) · [анонс](https://boosty.to/azizazimov/posts/a6d74238-0ae2-452f-b9e4-2efa606ad591) · Локальное сравнение скриншотов: side-by-side, overlay, heatmap различий и экспорт отчётов
 
