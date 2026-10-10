@@ -10,6 +10,8 @@
 
 ### 🚀 Готовые инструменты
 
+[Agent Run Lens](https://github.com/GhosTnever-lkm/agent-run-lens) · [открыть приложение](https://ghostnever-lkm.github.io/agent-run-lens/) · [релиз v1.0.0](https://github.com/GhosTnever-lkm/agent-run-lens/releases/tag/v1.0.0) · [анонс](https://boosty.to/azizazimov/posts/e3a7baaa-0216-4fcc-8995-000d3580a5d9) | Локально исследует JSONL-трассы AI-агентов: события, ошибки, задержки, токены и переданную стоимость; сравнивает запуски, фильтрует и экспортирует отчёты
+
 [CueGrid](https://github.com/GhosTnever-lkm/cuegrid) · [открыть приложение](https://ghostnever-lkm.github.io/cuegrid/) · [релиз v0.2.0](https://github.com/GhosTnever-lkm/cuegrid/releases/tag/v0.2.0) · [анонс](https://boosty.to/azizazimov/posts/c5059938-0164-4a0b-a9c0-e123470490a3) · [CueGrid Pro Pack за 50 ₽](https://boosty.to/azizazimov/posts/1d4a67a2-a1b8-477d-96f1-c92fd0c3f8c0) | Локальная cue-панель для стримов, настольных игр и выступлений: несколько звуковых панелей, клавиши, отдельная громкость, резервный экспорт и импорт библиотеки, слияние готовых панелей.
 
 [Screenshot Diff Lab](https://github.com/GhosTnever-lkm/screenshot-diff-lab) · [демо](https://ghostnever-lkm.github.io/screenshot-diff-lab/) · [релиз v0.1.2](https://github.com/GhosTnever-lkm/screenshot-diff-lab/releases/tag/v0.1.2) · [анонс](https://boosty.to/azizazimov/posts/a6d74238-0ae2-452f-b9e4-2efa606ad591) · Локальное сравнение скриншотов: side-by-side, overlay, heatmap различий и экспорт отчётов

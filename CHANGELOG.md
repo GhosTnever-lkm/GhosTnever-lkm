@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.13 - 2026-10-10
+
+- Add Agent Run Lens v1.0.0 with live app, release, and public announcement links.
+
 ## 1.2.11 - 2026-10-10
 
 - Add the Screenshot Diff Lab v0.1.2 announcement link.
