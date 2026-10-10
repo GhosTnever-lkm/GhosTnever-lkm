@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.37 - 2026-10-11
+
+- Refresh featured ModRelease Studio and Mod Threat Lens tags, plus current ModRelease Gate and Paradox Quality Gate links.
+
 ## 1.2.36 - 2026-10-11
 
 - Correct the localized ModRelease Gate label in the portfolio table.
