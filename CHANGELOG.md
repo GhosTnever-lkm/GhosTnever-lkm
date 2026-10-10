@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.32 - 2026-10-11
+
+- Refresh the Paradox Mod Quality Gate release link to v1.0.7 with workspace-contained policy configuration.
+
 ## 1.2.31 - 2026-10-11
 
 - Refresh the featured ModRelease Studio links to v0.3.4, including the checked-in policy report.
