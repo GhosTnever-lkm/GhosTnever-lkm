@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.30 - 2026-10-11
+
+- Refresh the featured ModRelease Studio links to v0.3.2, including the new project-specific required-path policies.
+
 ## 1.2.29 - 2026-10-11
 
 - Refresh Mod Threat Lens to v0.1.1 and feature verified Buy Me a Coffee/Gumroad links.
