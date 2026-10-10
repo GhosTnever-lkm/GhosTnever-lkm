@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.31 - 2026-10-11
+
+- Refresh the featured ModRelease Studio links to v0.3.4, including the checked-in policy report.
+
 ## 1.2.30 - 2026-10-11
 
 - Refresh the featured ModRelease Studio links to v0.3.2, including the new project-specific required-path policies.
