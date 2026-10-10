@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.33 - 2026-10-11
+
+- Correct the Paradox Mod Quality Gate release link while preserving unrelated profile links.
+
 ## 1.2.32 - 2026-10-11
 
 - Refresh the Paradox Mod Quality Gate release link to v1.0.7 with workspace-contained policy configuration.
