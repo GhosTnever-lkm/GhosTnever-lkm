@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.8 - 2026-10-10
+
+- Update GameText Gate to v0.1.5 and add the paid Locale Matrix Pro link.
+
 ## 1.2.7 - 2026-10-10
 
 - Promote GameText Gate v0.1.3 with gettext-context handling and valid SARIF artifact URIs.
