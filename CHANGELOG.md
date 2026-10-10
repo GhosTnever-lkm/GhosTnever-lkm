@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.21 - 2026-10-10
+
+- Link HomeLedger to its public demo, source, v0.1.0 release, and public announcement.
+
 ## 1.2.19 - 2026-10-10
 
 - Add PantryPilot v0.1.0 with its live demo, source, release, and public announcement.
