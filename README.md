@@ -10,6 +10,8 @@
 
 ### 🚀 Готовые инструменты
 
+[QuoteForge](https://github.com/GhosTnever-lkm/quote-forge) · [демо](https://ghostnever-lkm.github.io/quote-forge/) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/quote-forge/releases/tag/v0.1.0) · [анонс](https://boosty.to/azizazimov/posts/b10267ec-b181-480c-bfa5-04f95e869c38) | Локальный конструктор счетов и коммерческих предложений: позиции, дробное количество, скидки, налог, печать/PDF и JSON-резервные копии.
+
 [CalWeave](https://github.com/GhosTnever-lkm/calweave) · [демо](https://ghostnever-lkm.github.io/calweave/) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/calweave/releases/tag/v0.1.0) · [скачать ZIP](https://github.com/GhosTnever-lkm/calweave/releases/download/v0.1.0/CalWeave-v0.1.0.zip) · [анонс](https://boosty.to/azizazimov/posts/2a1eef18-244b-478b-a9bc-b351d425b4f9) | Локально импортирует календарь ICS, показывает пересечения событий и свободные интервалы и экспортирует результат. Повторяющиеся события и расширенные часовые пояса пока не разворачиваются.
 
 [FontPair Studio](https://github.com/GhosTnever-lkm/fontpair-studio) · [демо](https://ghostnever-lkm.github.io/fontpair-studio/) · [релиз v1.0.1](https://github.com/GhosTnever-lkm/fontpair-studio/releases/tag/v1.0.1) · [скачать ZIP](https://github.com/GhosTnever-lkm/fontpair-studio/releases/download/v1.0.1/fontpair-studio-v1.0.1.zip) · [анонс](https://boosty.to/azizazimov/posts/eecfbddc-5737-4705-ad44-c7c35cdfc10b) | Локально сравнивает до шести шрифтов, помогает настроить пару для заголовка и текста и экспортирует CSS-тему. Файлы остаются в браузере.

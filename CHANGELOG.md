@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.18 - 2026-10-10
+
+- Add QuoteForge v0.1.0 with its live demo, source, release, and public announcement.
+
 ## 1.2.17 - 2026-10-10
 
 - Add CalWeave v0.1.0 with its live demo, source, release download, and public announcement.
@@ -119,4 +123,5 @@
 ## 1.2.15 - 2026-10-10
 
 - Add Subtitle Timing Studio v1.0.1 with live demo, release, and public Boosty announcement.
+
 
