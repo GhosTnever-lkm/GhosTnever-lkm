@@ -10,6 +10,7 @@
 
 ### 🚀 Готовые инструменты
 
+| [Asset Sieve](https://github.com/GhosTnever-lkm/asset-sieve) · [анонс](https://boosty.to/azizazimov/posts/ba51430f-0012-413c-bffb-7d921d445b09) · [релиз v0.1.1](https://github.com/GhosTnever-lkm/asset-sieve/releases/tag/v0.1.1) | Локальный аудит графических ресурсов Unity, Unreal, Godot и других проектов: точные дубликаты, большие изображения и нечитаемые файлы; экспорт Markdown/JSON |
 | [PingScope](https://github.com/GhosTnever-lkm/ping-scope) · [анонс](https://boosty.to/azizazimov/posts/ddcfcbd7-b3bc-4691-8b2d-3d2f681738a4) · [релиз v0.2.1](https://github.com/GhosTnever-lkm/ping-scope/releases/tag/v0.2.1) · [скачать для Windows](https://github.com/GhosTnever-lkm/ping-scope/releases/download/v0.2.1/PingScope-v0.2.1-windows-x64.zip) | Измеряет задержку, джиттер и потерю пакетов, отображает график и сохраняет локальный CSV-отчёт; запускается на Windows без отдельной установки Python |
 | Проект | Что делает |
 |:--|:--|

@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.2 - 2026-10-10
+
+- Add Asset Sieve v0.1.1 with its release and public announcement links.
+
+
 ## 1.2.1 - 2026-10-10
 
 - Add PingScope v0.2.1 with its Windows download and announcement links.
@@ -55,3 +60,4 @@
 ## 1.0.9 - 2026-10-10
 
 - Add CaptionLint v1.0.0, its live app, release link, and public launch announcement to the tools list.
+
