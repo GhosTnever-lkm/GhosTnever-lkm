@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.17 - 2026-10-10
+
+- Add CalWeave v0.1.0 with its live demo, source, release download, and public announcement.
+
 ## 1.2.16 - 2026-10-10
 
 - Add FontPair Studio v1.0.1 with its live demo, source, release, and public announcement.
