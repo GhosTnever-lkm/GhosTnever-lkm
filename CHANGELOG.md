@@ -1,3 +1,7 @@
+## 1.2.120 - 2026-10-11
+
+- Refresh ModRelease Studio to v0.3.45, update the release count and ZIP size, and keep CI metrics anchored to the verified v0.3.44 commit.
+
 ## 1.2.119 - 2026-10-11
 
 - Link verified ModRelease Gate v1.0.32 artifact-safe report release and Paradox Mod Quality Gate v1.0.27 with scanner v0.3.44.
