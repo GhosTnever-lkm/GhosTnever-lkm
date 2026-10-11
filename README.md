@@ -34,6 +34,12 @@
 
 *GameText Gate: пример отчёта по тестовым файлам — 2 ошибки и 2 предупреждения, найденные до сборки.*
 
+<p align="center">
+  <a href="https://github.com/GhosTnever-lkm/mod-threat-lens"><img src="https://raw.githubusercontent.com/GhosTnever-lkm/GhosTnever-lkm/v1.2.72/docs/mod-threat-lens-report.png" alt="Mod Threat Lens heuristic scan report using inert synthetic test strings" width="90%"></a>
+</p>
+
+*Mod Threat Lens: только синтетические строки, сканируемые без исполнения; эвристические сигналы требуют ручной проверки.*
+
 ### Быстрый старт: CLI
 
 ```bash

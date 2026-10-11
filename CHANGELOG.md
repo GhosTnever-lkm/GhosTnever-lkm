@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.72 - 2026-10-11
+
+- Add a Mod Threat Lens report preview based on inert synthetic strings; label findings as heuristic and non-verdicts.
+
 ## 1.2.71 - 2026-10-11
 
 - Add a third project screenshot: GameText Gate flags localization placeholder, key, and empty-translation issues in sample files.
