@@ -1,3 +1,7 @@
+## 1.2.119 - 2026-10-11
+
+- Link verified ModRelease Gate v1.0.32 artifact-safe report release and Paradox Mod Quality Gate v1.0.27 with scanner v0.3.44.
+
 ## 1.2.118 - 2026-10-11
 
 - Refresh GameText Gate samples, screenshot, install example, and release links to v0.1.13; document separator escaping.
