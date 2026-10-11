@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.65 - 2026-10-11
+
+- Refresh the GameText Gate profile link to privacy-hardened release v0.1.9.
+
+
 ## 1.2.64 - 2026-10-11
 
 - Refresh the featured ModRelease Studio links to v0.3.18 and its current release ZIP.
