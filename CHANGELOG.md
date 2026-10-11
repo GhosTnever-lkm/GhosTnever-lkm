@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.61 - 2026-10-11
+
+- Refresh featured ModRelease Studio, ModRelease Gate, and Paradox Quality Gate links to the privacy-hardened scanner v0.3.16.
+
 ## 1.2.60 - 2026-10-11
 
 - Refresh the Workshop Page Studio download link to v0.2.1.
