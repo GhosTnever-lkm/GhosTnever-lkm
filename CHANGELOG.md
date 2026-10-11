@@ -1,3 +1,7 @@
+## 1.2.87 - 2026-10-11
+
+- Refresh flagship to v0.3.28: 33 releases, 52 tests, 90% coverage, 81,793-byte ZIP; anchor the CI snapshot to release commit 8e2f1dc (43/44, 97.7%).
+
 ## 1.2.86 - 2026-10-11
 
 - Refresh flagship to v0.3.27: 32 releases, 51 tests, 90% coverage, 80,543-byte ZIP; anchor the CI snapshot to release commit 261cdf2 (42/43, 97.7%).
