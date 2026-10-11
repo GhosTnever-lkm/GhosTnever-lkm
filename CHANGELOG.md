@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.53 - 2026-10-11
+
+- Refresh ModRelease Gate profile link to the workspace-path validation release.
+
 ## 1.2.52 - 2026-10-11
 
 - Refresh the ModRelease Gate profile link after adding `fail-on-warning` integration coverage.
