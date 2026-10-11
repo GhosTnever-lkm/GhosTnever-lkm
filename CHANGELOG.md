@@ -1,3 +1,7 @@
+## 1.2.90 - 2026-10-11
+
+- Refresh flagship metrics to v0.3.30: 35 releases, 55 tests, 91% coverage, an 84,332-byte archive, and 45/46 (97.8%) completed preflight runs through release commit 9ef48ee.
+
 ## 1.2.89 - 2026-10-11
 
 - Link verified ModRelease Gate v1.0.30 and Paradox Mod Quality Gate v1.0.24 releases after CI confirmed exact scanner pins.
