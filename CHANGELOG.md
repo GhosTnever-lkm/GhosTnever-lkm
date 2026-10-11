@@ -1,3 +1,7 @@
+## 1.2.149 - 2026-10-12
+
+- Update ModRelease Gate Action to v1.0.43 with SARIF artifacts, repository-relative locations, and optional Code Scanning upload guidance.
+
 ## 1.2.148 - 2026-10-12
 
 - Update Paradox Mod Quality Gate to v1.0.38 and feature its unified SARIF 2.1.0 export.
