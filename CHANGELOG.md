@@ -1,3 +1,7 @@
+## 1.2.121 - 2026-10-11
+
+- Recalculate the flagship preflight success metric from the complete GitHub Actions history through v0.3.45 (60/61, 98.4%).
+
 ## 1.2.120 - 2026-10-11
 
 - Refresh ModRelease Studio to v0.3.45, update the release count and ZIP size, and keep CI metrics anchored to the verified v0.3.44 commit.
