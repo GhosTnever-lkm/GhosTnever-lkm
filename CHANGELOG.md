@@ -1,3 +1,7 @@
+## 1.2.153 - 2026-10-12
+
+- Sync Paradox Mod Workbench v0.2.3 and Paradox Mod Quality Gate v1.0.40 in the profile README.
+
 ## 1.2.152 - 2026-10-12
 
 - Correct the Paradox Mod Quality Gate release label to v1.0.39.
