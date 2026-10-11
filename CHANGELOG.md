@@ -1,3 +1,7 @@
+## 1.2.137 - 2026-10-11
+
+- Sync current release and download links for seven maintained tools; update GameText Gate examples to v0.1.14.
+
 ## 1.2.136 - 2026-10-11
 
 - Refresh LocaleLens links to v0.1.2 and include the checked downloadable archive.
