@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.57 - 2026-10-11
+
+- Refresh ModRelease Gate profile link after external `mod-path` CI coverage.
+
 ## 1.2.56 - 2026-10-11
 
 - Refresh the ModRelease Gate profile link after adding a config-symlink CI guard.
