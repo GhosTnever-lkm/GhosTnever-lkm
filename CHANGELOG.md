@@ -1,3 +1,7 @@
+## 1.2.86 - 2026-10-11
+
+- Refresh flagship to v0.3.27: 32 releases, 51 tests, 90% coverage, 80,543-byte ZIP; anchor the CI snapshot to release commit 261cdf2 (42/43, 97.7%).
+
 ## 1.2.85 - 2026-10-11
 
 - Refresh the flagship preflight success-rate snapshot to 41/42 (97.6%), anchored to scanner release commit 64eb1b7.
