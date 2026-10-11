@@ -1,3 +1,7 @@
+## 1.2.92 - 2026-10-11
+
+- Refresh flagship metrics to v0.3.31: 36 releases, 56 tests, 91% coverage, an 85,804-byte archive, and 46/47 (97.9%) preflight runs through release commit 5244137.
+
 ## 1.2.91 - 2026-10-11
 
 - Correct the published profile README to v0.3.30: 35 releases, 55 tests, 91% line coverage, 45/46 (97.8%) preflight runs at commit 9ef48ee, and an 84,332-byte archive.
