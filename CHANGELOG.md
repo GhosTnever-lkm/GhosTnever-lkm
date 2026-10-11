@@ -1,3 +1,7 @@
+## 1.2.102 - 2026-10-11
+
+- Refresh GameText Gate sample, screenshot, install, release, and download links to v0.1.11 after the archive-smoke release.
+
 ## 1.2.101 - 2026-10-11
 
 - Refresh flagship links and metrics to v0.3.40: 45 releases, 58 tests, 91% coverage, 33,881-byte ZIP, and 55/56 (98.2%) preflight runs through commit 725657d. Public tag and ZIP installs, sample scan, checksum, and bytecode exclusion verified.

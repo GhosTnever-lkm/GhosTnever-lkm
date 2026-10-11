@@ -33,7 +33,7 @@
 | [**ModRelease Gate**](https://github.com/GhosTnever-lkm/modrelease-studio-action) — релизный gate в GitHub Actions | Запускает preflight на pull request, показывает annotations и сохраняет отчёты | [Quick start](https://github.com/GhosTnever-lkm/modrelease-studio-action#quick-start) · [пример policy](https://github.com/GhosTnever-lkm/modrelease-studio-action/tree/main/examples/policy-project) · [v1.0.30](https://github.com/GhosTnever-lkm/modrelease-studio-action/releases/tag/v1.0.30) |
 | [**Paradox Mod Quality Gate**](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate) — единая проверка Paradox-модов | Объединяет сканеры, формирует JSON/Markdown и блокирует релиз по правилам | [README и пример workflow](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate) · [v1.0.24](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate/releases/tag/v1.0.24) |
 | [**BugBundle**](https://github.com/GhosTnever-lkm/bugbundle) — очищенный crash-report | Собирает заметки и логи локально; скрывает типовые секреты и credentials в ссылках | [демо](https://ghostnever-lkm.github.io/bugbundle/) · [offline ZIP v1.0.6](https://github.com/GhosTnever-lkm/bugbundle/releases/download/v1.0.6/BugBundle-v1.0.6.zip) · [screenshot](https://raw.githubusercontent.com/GhosTnever-lkm/bugbundle/v1.0.6/docs/bugbundle-preview.png) |
-| [**GameText Gate**](https://github.com/GhosTnever-lkm/game-text-gate) — QA игровых переводов | Проверяет ключи, плейсхолдеры и разметку в CSV, PO и вложенном JSON | [установка и запуск](https://github.com/GhosTnever-lkm/game-text-gate#install-and-run) · [samples](https://github.com/GhosTnever-lkm/game-text-gate/tree/v0.1.10/samples) · [скриншот отчёта](https://raw.githubusercontent.com/GhosTnever-lkm/game-text-gate/v0.1.10/docs/report-preview.png) · [v0.1.10](https://github.com/GhosTnever-lkm/game-text-gate/releases/tag/v0.1.10) |
+| [**GameText Gate**](https://github.com/GhosTnever-lkm/game-text-gate) — QA игровых переводов | Проверяет ключи, плейсхолдеры и разметку в CSV, PO и вложенном JSON | [установка и запуск](https://github.com/GhosTnever-lkm/game-text-gate#install-and-run) · [samples](https://github.com/GhosTnever-lkm/game-text-gate/tree/v0.1.11/samples) · [скриншот отчёта](https://raw.githubusercontent.com/GhosTnever-lkm/game-text-gate/v0.1.11/docs/report-preview.png) · [v0.1.11](https://github.com/GhosTnever-lkm/game-text-gate/releases/tag/v0.1.11) |
 | [**Mod Threat Lens**](https://github.com/GhosTnever-lkm/mod-threat-lens) — первичный triage модов | Локально ищет подозрительные признаки в исходниках, бинарных файлах и архивах; не заменяет антивирус | [Quick start](https://github.com/GhosTnever-lkm/mod-threat-lens#quick-start) · [fixture](https://github.com/GhosTnever-lkm/mod-threat-lens/tree/v0.1.4/examples/fixture-mod) · [скриншот отчёта](https://raw.githubusercontent.com/GhosTnever-lkm/mod-threat-lens/v0.1.4/docs/report-preview.png) · [v0.1.4](https://github.com/GhosTnever-lkm/mod-threat-lens/releases/tag/v0.1.4) |
 
 <p align="center">
@@ -61,7 +61,7 @@ python -m pip install "modrelease-studio @ git+https://github.com/GhosTnever-lkm
 modrelease scan ./my-mod --md-out report.md --json-out report.json
 
 # Сравнить английскую и русскую локализации
-python -m pip install "game-text-gate @ git+https://github.com/GhosTnever-lkm/game-text-gate.git@v0.1.10"
+python -m pip install "game-text-gate @ git+https://github.com/GhosTnever-lkm/game-text-gate.git@v0.1.11"
 game-text-gate --source locales/en.json --target locales/ru.json --report markdown
 ```
 
@@ -106,7 +106,7 @@ game-text-gate --source locales/en.json --target locales/ru.json --report markdo
 
 
 
-[GameText Gate](https://github.com/GhosTnever-lkm/game-text-gate) · [релиз v0.1.10](https://github.com/GhosTnever-lkm/game-text-gate/releases/tag/v0.1.10) · [анонс](https://boosty.to/azizazimov/posts/6afc0d52-9578-474f-8909-1643e690e6d6) · [Locale Matrix Pro за 50 ₽](https://boosty.to/azizazimov/posts/3c8895d7-8a95-4622-9eb3-626a78d272b2) | Локально проверяет игровые переводы Unity/Godot CSV, gettext PO и вложенный JSON: ключи, пустые строки, плейсхолдеры и ограниченный набор разметки; CLI, GitHub Action, Markdown/JSON/SARIF без локальных родительских путей
+[GameText Gate](https://github.com/GhosTnever-lkm/game-text-gate) · [релиз v0.1.11](https://github.com/GhosTnever-lkm/game-text-gate/releases/tag/v0.1.11) · [анонс](https://boosty.to/azizazimov/posts/6afc0d52-9578-474f-8909-1643e690e6d6) · [Locale Matrix Pro за 50 ₽](https://boosty.to/azizazimov/posts/3c8895d7-8a95-4622-9eb3-626a78d272b2) | Локально проверяет игровые переводы Unity/Godot CSV, gettext PO и вложенный JSON: ключи, пустые строки, плейсхолдеры и ограниченный набор разметки; CLI, GitHub Action, Markdown/JSON/SARIF без локальных родительских путей
 
 [ShaderTriage](https://github.com/GhosTnever-lkm/shader-triage) · [открыть приложение](https://ghostnever-lkm.github.io/shader-triage/) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/shader-triage/releases/tag/v0.1.0) · [анонс](https://boosty.to/azizazimov/posts/b4bca144-3cee-4373-8c29-72382b0cf69d) | Локально разбирает текстовые логи компиляции шейдеров Unity, Unreal Engine и Godot: группирует повторные диагностики, позволяет искать и экспортировать Markdown/JSON; лог остаётся в браузере
 
