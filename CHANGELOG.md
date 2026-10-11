@@ -1,3 +1,7 @@
+## 1.2.97 - 2026-10-11
+
+- Refresh flagship metrics to v0.3.36: 41 releases, 58 tests, 91% coverage, 87,994-byte ZIP, and 51/52 (98.1%) preflight runs through release commit e3e2b7e.
+
 ## 1.2.96 - 2026-10-11
 
 - Refresh flagship to v0.3.35: 40 releases, 57 tests, 91% coverage, 87,432-byte archive, and 50/51 (98.0%) preflight runs through commit aaf6e1e. The release workflow now smoke-tests the extracted archive before publishing.
