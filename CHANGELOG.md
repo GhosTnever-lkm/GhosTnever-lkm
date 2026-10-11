@@ -1,3 +1,8 @@
+## 1.2.127 - 2026-10-11
+
+- Refresh flagship metrics and release links to ModRelease Studio v0.3.50 (55 releases, 64/65 CI snapshot, 64 tests, 93% coverage, 36,761-byte ZIP).
+- Link ModRelease Gate v1.0.35 and Paradox Mod Quality Gate v1.0.30, both pinned to scanner v0.3.50.
+
 ## 1.2.126 - 2026-10-11
 
 - Link ModRelease Gate v1.0.34 and Paradox Mod Quality Gate v1.0.29 after their warning-policy CI integrations passed.
@@ -191,6 +196,12 @@
 - Refresh flagship metrics from verified ModRelease Studio v0.3.21: 26 releases, 43 tests, 89% coverage, 35/36 completed CI runs, and the 73,072-byte release ZIP.
 
 # Changelog
+
+## 1.2.127 - 2026-10-11
+
+- Refresh flagship metrics and release links to ModRelease Studio v0.3.50 (55 releases, 64/65 CI snapshot, 64 tests, 93% coverage, 36,761-byte ZIP).
+- Link ModRelease Gate v1.0.35 and Paradox Mod Quality Gate v1.0.30, both pinned to scanner v0.3.50.
+
 
 ## 1.2.77 - 2026-10-11
 
