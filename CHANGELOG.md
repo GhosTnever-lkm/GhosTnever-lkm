@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.41 - 2026-10-11
+
+- Refresh ModRelease Studio, ModRelease Gate, and Paradox Quality Gate release links to the current tags.
+
 ## 1.2.40 - 2026-10-11
 
 - Refresh ModRelease Studio, ModRelease Gate, and Paradox Quality Gate to their newest tested releases.
