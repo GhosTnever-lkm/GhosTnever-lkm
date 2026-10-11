@@ -1,3 +1,7 @@
+## 1.2.156 - 2026-10-12
+
+- Refresh the GhosTnever Mega Toolkit release link to v1.1.3.
+
 ## 1.2.155 - 2026-10-12
 
 - Sync the flagship scanner to v0.3.60 and its Gate Action/Paradox Quality Gate integrations to v1.0.44/v1.0.41.

@@ -159,7 +159,7 @@ game-text-gate --source locales/en.json --target locales/ru.json --report markdo
 
 | Проект | Назначение |
 |:--|:--|
-| [GhosTnever Mega Toolkit](https://github.com/GhosTnever-lkm/ghosTnever-codex-toolkit/tree/main/plugins/ghostnever-mega-toolkit) · [релиз v1.1.2](https://github.com/GhosTnever-lkm/ghosTnever-codex-toolkit/releases/tag/v1.1.2) | Один плагин Codex с 41 рабочим навыком и локальными настройками включения/выключения |
+| [GhosTnever Mega Toolkit](https://github.com/GhosTnever-lkm/ghosTnever-codex-toolkit/tree/main/plugins/ghostnever-mega-toolkit) · [релиз v1.1.3](https://github.com/GhosTnever-lkm/ghosTnever-codex-toolkit/releases/tag/v1.1.3) | Один плагин Codex с 41 рабочим навыком и локальными настройками включения/выключения |
 | [Repository Onboarding](https://github.com/GhosTnever-lkm/repo-onboarding) · [релиз v1.0.1](https://github.com/GhosTnever-lkm/repo-onboarding/releases/tag/v1.0.1) · [ZIP](https://github.com/GhosTnever-lkm/repo-onboarding/releases/download/v1.0.1/repo-onboarding-v1.0.1.zip) | Помогает освоиться в незнакомом репозитории |
 | [Change Review](https://github.com/GhosTnever-lkm/change-review) · [релиз v1.0.1](https://github.com/GhosTnever-lkm/change-review/releases/tag/v1.0.1) | Ищет ошибки и возможные регрессии в изменениях |
 | [CI Failure Guide](https://github.com/GhosTnever-lkm/ci-failure-guide) · [релиз v1.0.1](https://github.com/GhosTnever-lkm/ci-failure-guide/releases/tag/v1.0.1) | Помогает разбирать сбои сборки и CI |
