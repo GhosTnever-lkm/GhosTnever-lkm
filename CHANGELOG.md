@@ -1,3 +1,7 @@
+## 1.2.122 - 2026-10-11
+
+- Refresh ModRelease Studio to v0.3.46 (61 tests, 51 releases, current ZIP/CI evidence) and link ModRelease Gate v1.0.33 / Paradox Gate v1.0.28 using scanner v0.3.46.
+
 ## 1.2.121 - 2026-10-11
 
 - Recalculate the flagship preflight success metric from the complete GitHub Actions history through v0.3.45 (60/61, 98.4%).
