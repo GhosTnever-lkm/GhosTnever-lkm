@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.58 - 2026-10-11
+
+- Refresh ModRelease Gate profile link after documenting the workspace-bound inputs.
+
 ## 1.2.57 - 2026-10-11
 
 - Refresh ModRelease Gate profile link after external `mod-path` CI coverage.
