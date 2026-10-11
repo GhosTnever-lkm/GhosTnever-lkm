@@ -1,3 +1,7 @@
+## 1.2.91 - 2026-10-11
+
+- Correct the published profile README to v0.3.30: 35 releases, 55 tests, 91% line coverage, 45/46 (97.8%) preflight runs at commit 9ef48ee, and an 84,332-byte archive.
+
 ## 1.2.90 - 2026-10-11
 
 - Refresh flagship metrics to v0.3.30: 35 releases, 55 tests, 91% coverage, an 84,332-byte archive, and 45/46 (97.8%) completed preflight runs through release commit 9ef48ee.
