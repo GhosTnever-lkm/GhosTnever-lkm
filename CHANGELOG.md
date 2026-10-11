@@ -1,3 +1,7 @@
+## 1.2.104 - 2026-10-11
+
+- Refresh flagship links and metrics to v0.3.42: 47 releases, 59 tests, 91% coverage, 34,641-byte ZIP, and 57/58 (98.3%) successful preflight runs through commit 5b55306.
+
 ## 1.2.103 - 2026-10-11
 
 - Refresh flagship links and metrics to v0.3.41: 46 releases, 58 tests, 91% coverage, 34,089-byte ZIP, and 56/57 (98.2%) successful preflight runs through commit 56afd7b.
