@@ -1,3 +1,8 @@
+## 1.2.146 - 2026-10-12
+
+- Sync the compact project directory with Paradox Mod Quality Gate v1.0.37 and its current scanner versions.
+
+
 ## 1.2.145 - 2026-10-12
 
 - Update the Paradox Mod Quality Gate profile entry to v1.0.37 and list its current ModRelease Studio v0.3.58 and Paradox Mod Workbench v0.2.2 scanner pins.
