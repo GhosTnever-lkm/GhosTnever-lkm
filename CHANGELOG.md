@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.64 - 2026-10-11
+
+- Refresh the featured ModRelease Studio links to v0.3.18 and its current release ZIP.
+
+
 ## 1.2.63 - 2026-10-11
 
 - Refresh the featured ModRelease Studio links to current release v0.3.17.
