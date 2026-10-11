@@ -1,3 +1,7 @@
+## 1.2.151 - 2026-10-12
+
+- Update Paradox Mod Quality Gate to v1.0.39 and its ModRelease Studio v0.3.59 scanner pin.
+
 ## 1.2.150 - 2026-10-12
 
 - Sync ModRelease Studio links, install pin, demo and verified release metrics to v0.3.59; refresh the Paradox ecosystem references where the aggregate gate still pins v0.3.58.
