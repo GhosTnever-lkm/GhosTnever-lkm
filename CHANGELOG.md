@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.76 - 2026-10-11
+
+- Refresh flagship metrics to v0.3.19, including measured 75% line coverage enforced by CI, 24 releases, updated CI rate, and ZIP size.
+
 ## 1.2.75 - 2026-10-11
 
 - Add dated, source-linked ModRelease Studio release, CI, test, runtime, OS, and ZIP-size metrics; explicitly disclose unmeasured line coverage.
