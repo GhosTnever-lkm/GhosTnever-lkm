@@ -1,3 +1,7 @@
+## 1.2.118 - 2026-10-11
+
+- Refresh GameText Gate samples, screenshot, install example, and release links to v0.1.13; document separator escaping.
+
 ## 1.2.116 - 2026-10-11
 
 - Refresh Mod Threat Lens demos, screenshots, installation tag, and ZIP links to v0.1.6; describe safe Unicode rendering across reports.
