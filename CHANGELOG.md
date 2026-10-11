@@ -1,3 +1,7 @@
+## 1.2.125 - 2026-10-11
+
+- Add the CLI-level growth-warning regression evidence and refresh ModRelease Studio to v0.3.49 (54 releases, 64/65 CI runs, 62 tests, 92% coverage).
+
 ## 1.2.124 - 2026-10-11
 
 - Refresh the flagship release links and metrics to v0.3.48: 53 published releases, 63/64 CI runs, 61 tests, 92% coverage, and a 36,106-byte ZIP.
