@@ -1,3 +1,7 @@
+## 1.2.113 - 2026-10-11
+
+- Refresh ModRelease Studio links to v0.3.44 and update verified metrics: 49 releases, 59/60 preflight runs, 60 tests, 92% line coverage, and 35,653-byte ZIP.
+
 ## 1.2.112 - 2026-10-11
 
 - Refresh ModRelease Studio profile links and evidence-backed metrics to v0.3.43: 60 tests, 92% line coverage, 48 releases, current preflight snapshot, and verified ZIP size.
