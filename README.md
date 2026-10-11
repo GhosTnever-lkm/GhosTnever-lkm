@@ -19,7 +19,7 @@
 | Метрика | Значение |
 |:--|:--|
 | Выпущенные версии | [31 опубликованный релиз](https://github.com/GhosTnever-lkm/modrelease-studio/releases); последний — [v0.3.26 от 2026-10-11](https://github.com/GhosTnever-lkm/modrelease-studio/releases/tag/v0.3.26) |
-| Успешность CI | **35/36 (97.2%)** завершённых запусков preflight успешны по состоянию на релизный коммит `928fa07` (v0.3.21); последующие docs-only проверки не входят ([workflow](https://github.com/GhosTnever-lkm/modrelease-studio/actions/workflows/preflight.yml)) |
+| Успешность CI | **41/42 (97.6%)** завершённых запусков preflight успешны по состоянию на commit `64eb1b7` (релиз v0.3.26); более поздние STATE-only commit с `[skip ci]` в подсчёт не входят ([workflow](https://github.com/GhosTnever-lkm/modrelease-studio/actions/workflows/preflight.yml)) |
 | Автотесты | [50/50 тестов прошли](https://github.com/GhosTnever-lkm/modrelease-studio/tree/v0.3.26/tests); Coverage.py подтверждает **89% покрытия строк**; CI блокирует результат ниже 80% |
 | Проверенная ОС | Ubuntu, Windows и macOS проверены в CI; Windows/macOS используют Python 3.13 |
 | Python / Node.js | Python 3.11+ заявлен; CI проверяет 3.11–3.13 на Ubuntu и 3.13 на Windows/macOS. Node.js не требуется |

@@ -1,3 +1,7 @@
+## 1.2.85 - 2026-10-11
+
+- Refresh the flagship preflight success-rate snapshot to 41/42 (97.6%), anchored to scanner release commit 64eb1b7.
+
 ## 1.2.84 - 2026-10-11
 
 - Refresh flagship links/metrics to v0.3.26 (31 releases, 50 tests, 89% coverage, 79,717-byte ZIP) and update ModRelease Gate v1.0.29 / Paradox Quality Gate v1.0.23 links.
