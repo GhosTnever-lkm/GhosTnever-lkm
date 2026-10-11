@@ -1,3 +1,7 @@
+## 1.2.109 - 2026-10-11
+
+- Refresh BugBundle demo, screenshot, offline ZIP, and release references to v1.0.8.
+
 ## 1.2.108 - 2026-10-11
 
 - Point the profile’s large GameText Gate screenshot directly at the current v0.1.12 report preview.
