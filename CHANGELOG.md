@@ -1,3 +1,7 @@
+## 1.2.144 - 2026-10-12
+
+- Refresh ModRelease Studio links to v0.3.58, including SARIF export and the current release ZIP; update ModRelease Gate to v1.0.42.
+
 ## 1.2.143 - 2026-10-12
 
 - Add AudioScribe Studio v0.1.4 and link its public announcement from the profile.
