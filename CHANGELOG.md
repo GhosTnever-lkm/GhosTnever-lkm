@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.51 - 2026-10-11
+
+- Refresh the ModRelease Gate profile link after adding the invalid-scan-policy CI fixture.
+
 ## 1.2.50 - 2026-10-11
 
 - Refresh the ModRelease Gate profile link after adding an end-to-end nonportable-path CI fixture.
