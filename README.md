@@ -19,7 +19,7 @@
 | Метрика | Значение |
 |:--|:--|
 | Выпущенные версии | [60 опубликованных релизов](https://github.com/GhosTnever-lkm/modrelease-studio/releases); последний — [v0.3.55 от 2026-10-11](https://github.com/GhosTnever-lkm/modrelease-studio/releases/tag/v0.3.55) |
-| Успешность CI | **68/70 (97.1%)** завершённых запусков preflight успешны на релизном commit `f566960` (v0.3.55); v0.3.54 имел один сбой из-за portability-fixture теста; в v0.3.55 все пять матричных jobs зелёные; более поздние STATE-only commit с `[skip ci]` в подсчёт не входят ([workflow](https://github.com/GhosTnever-lkm/modrelease-studio/actions/workflows/preflight.yml)) |
+| Успешность CI | **69/71 (97.2%)** завершённых запусков preflight успешны по состоянию на последний проверенный запуск на релизном commit `f566960` (v0.3.55); история включает два неуспешных workflow-запуска. В v0.3.54 были исправлены portability-сбои fixture на Windows/macOS; в v0.3.55 все пять матричных jobs прошли ([workflow](https://github.com/GhosTnever-lkm/modrelease-studio/actions/workflows/preflight.yml)) |
 | Автотесты | [68/68 тестов прошли](https://github.com/GhosTnever-lkm/modrelease-studio/tree/v0.3.55/tests); Coverage.py подтверждает **92% покрытия строк**; CI блокирует результат ниже 80% |
 | Проверенная ОС | Ubuntu, Windows и macOS проверены в CI; Windows/macOS используют Python 3.13 |
 | Python / Node.js | Python 3.11+ заявлен; CI проверяет 3.11–3.13 на Ubuntu и 3.13 на Windows/macOS. Node.js не требуется |

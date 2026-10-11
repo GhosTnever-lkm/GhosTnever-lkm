@@ -1,3 +1,7 @@
+## 1.2.132 - 2026-10-11
+
+- Reconcile the flagship CI metric with all 71 completed preflight workflow runs: 69 succeeded, 2 failed; clarify that all five v0.3.55 matrix jobs pass and the v0.3.54 Windows/macOS fixture issue was corrected.
+
 ## 1.2.131 - 2026-10-11
 
 - Refresh flagship metrics and links to v0.3.55: 60 releases, 68/70 CI snapshot, 68 tests, 92% coverage, 38,316-byte ZIP.
