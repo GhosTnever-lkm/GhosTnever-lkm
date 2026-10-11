@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.73 - 2026-10-11
+
+- Update GameText Gate pins and install examples to v0.1.10; link its README report preview.
+
 ## 1.2.72 - 2026-10-11
 
 - Add a Mod Threat Lens report preview based on inert synthetic strings; label findings as heuristic and non-verdicts.
