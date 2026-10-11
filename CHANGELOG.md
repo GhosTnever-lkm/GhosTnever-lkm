@@ -1,3 +1,7 @@
+## 1.2.147 - 2026-10-12
+
+- Refresh ModRelease Studio profile evidence to v0.3.58: 72-test suite, current CI snapshot, install/demo links; correct the Paradox Gate release label.
+
 ## 1.2.146 - 2026-10-12
 
 - Sync the compact project directory with Paradox Mod Quality Gate v1.0.37 and its current scanner versions.

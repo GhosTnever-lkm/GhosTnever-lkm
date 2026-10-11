@@ -14,13 +14,13 @@
 
 ### 📊 Проверенные показатели флагмана · ModRelease Studio
 
-*Сверено 2026-10-11; это показатели именно флагмана, а не всех репозиториев.*
+*Сверено 2026-10-12; это показатели именно флагмана, а не всех репозиториев.*
 
 | Метрика | Значение |
 |:--|:--|
 | Выпущенные версии | [63 опубликованных релиза](https://github.com/GhosTnever-lkm/modrelease-studio/releases); последний — [v0.3.58 от 2026-10-11](https://github.com/GhosTnever-lkm/modrelease-studio/releases/tag/v0.3.58) |
-| Успешность CI | **71/73 (97.3%)** завершённых запусков preflight успешны по состоянию на release commit `86b5145` (v0.3.57); два отказа — исторические, текущая версия прошла все пять матричных jobs ([workflow](https://github.com/GhosTnever-lkm/modrelease-studio/actions/workflows/preflight.yml)) |
-| Автотесты | [70/70 тестов прошли](https://github.com/GhosTnever-lkm/modrelease-studio/tree/v0.3.57/tests); Coverage.py подтверждает **93% покрытия строк**; CI блокирует результат ниже 80% |
+| Успешность CI | **74/76 (97.4%)** завершённых запусков preflight успешны на 2026-10-12; два отказа — исторические. Релиз v0.3.58 прошёл все пять матричных jobs ([workflow](https://github.com/GhosTnever-lkm/modrelease-studio/actions/workflows/preflight.yml)) |
+| Автотесты | [72/72 тестов в наборе v0.3.58](https://github.com/GhosTnever-lkm/modrelease-studio/tree/v0.3.58/tests); **93% покрытия строк** зафиксировано в предыдущем релизе v0.3.57; CI блокирует результат ниже 80% |
 | Проверенная ОС | Ubuntu, Windows и macOS проверены в CI; Windows/macOS используют Python 3.13 |
 | Python / Node.js | Python 3.11+ заявлен; CI проверяет 3.11–3.13 на Ubuntu и 3.13 на Windows/macOS. Node.js не требуется |
 | Готовая сборка | [ZIP v0.3.58](https://github.com/GhosTnever-lkm/modrelease-studio/releases/download/v0.3.58/ModRelease-Studio-v0.3.58.zip) — **41 792 байта (40,8 KiB)** |
@@ -37,7 +37,7 @@
 | [**Mod Threat Lens**](https://github.com/GhosTnever-lkm/mod-threat-lens) — первичный triage модов | Локально ищет подозрительные признаки в исходниках, бинарных файлах и архивах; явно экранирует невидимые символы в text/Markdown/JSON/SARIF и не заменяет антивирус | [Quick start](https://github.com/GhosTnever-lkm/mod-threat-lens#quick-start) · [fixture](https://github.com/GhosTnever-lkm/mod-threat-lens/tree/v0.1.6/examples/fixture-mod) · [скриншот отчёта](https://raw.githubusercontent.com/GhosTnever-lkm/mod-threat-lens/v0.1.6/docs/report-preview.png) · [v0.1.6](https://github.com/GhosTnever-lkm/mod-threat-lens/releases/tag/v0.1.6) |
 
 <p align="center">
-  <a href="https://github.com/GhosTnever-lkm/modrelease-studio"><img src="https://raw.githubusercontent.com/GhosTnever-lkm/modrelease-studio/v0.3.57/docs/demo.png" alt="ModRelease Studio command-line scan example" width="47%"></a>
+  <a href="https://github.com/GhosTnever-lkm/modrelease-studio"><img src="https://raw.githubusercontent.com/GhosTnever-lkm/modrelease-studio/v0.3.58/docs/demo.png" alt="ModRelease Studio command-line scan example" width="47%"></a>
   <a href="https://ghostnever-lkm.github.io/bugbundle/"><img src="https://raw.githubusercontent.com/GhosTnever-lkm/bugbundle/v1.0.10/docs/bugbundle-preview.png" alt="BugBundle local crash-report builder and privacy preview" width="47%"></a>
 </p>
 
@@ -57,7 +57,7 @@
 
 ```bash
 # Проверить папку мода и сохранить оба отчёта
-python -m pip install "modrelease-studio @ git+https://github.com/GhosTnever-lkm/modrelease-studio.git@v0.3.57"
+python -m pip install "modrelease-studio @ git+https://github.com/GhosTnever-lkm/modrelease-studio.git@v0.3.58"
 modrelease scan ./my-mod --md-out report.md --json-out report.json
 
 # Сравнить английскую и русскую локализации
@@ -69,7 +69,7 @@ game-text-gate --source locales/en.json --target locales/ru.json --report markdo
 
 ### 🛡️ Качество и безопасность игровых модов
 
-- **ModRelease Studio v0.3.57** — проверка папки или ZIP перед выпуском: упаковка, секреты, метаданные, сравнение сборок и отчёты без локальных родительских путей; разделители строк отображаются явно, текстовый файл, выросший сверх лимита во время чтения, получает предупреждение, в folder scan не следует symlink и Windows junction, а при недоступности метаданных junction каталог исключается и получает предупреждение `READ_METADATA`; generated-папки отсекаются до индексации и не занимают лимит; ZIP-скан проверяет каждый упакованный файл (включая `.git` и `node_modules`) на случайные секреты. Недоступные каталоги при обходе дают отдельную blocking-ошибку с путём; OS-junk отмечается предупреждением. [Сайт и демо](https://ghostnever-lkm.github.io/modrelease-studio/) · [релиз v0.3.58](https://github.com/GhosTnever-lkm/modrelease-studio/releases/tag/v0.3.58) · [скачать ZIP](https://github.com/GhosTnever-lkm/modrelease-studio/releases/download/v0.3.58/ModRelease-Studio-v0.3.58.zip)
+- **ModRelease Studio v0.3.58** — проверка папки или ZIP перед выпуском: упаковка, секреты, метаданные, сравнение сборок и отчёты без локальных родительских путей; разделители строк отображаются явно, текстовый файл, выросший сверх лимита во время чтения, получает предупреждение, в folder scan не следует symlink и Windows junction, а при недоступности метаданных junction каталог исключается и получает предупреждение `READ_METADATA`; generated-папки отсекаются до индексации и не занимают лимит; ZIP-скан проверяет каждый упакованный файл (включая `.git` и `node_modules`) на случайные секреты. Недоступные каталоги при обходе дают отдельную blocking-ошибку с путём; OS-junk отмечается предупреждением. [Сайт и демо](https://ghostnever-lkm.github.io/modrelease-studio/) · [релиз v0.3.58](https://github.com/GhosTnever-lkm/modrelease-studio/releases/tag/v0.3.58) · [скачать ZIP](https://github.com/GhosTnever-lkm/modrelease-studio/releases/download/v0.3.58/ModRelease-Studio-v0.3.58.zip)
 - **Mod Threat Lens v0.1.6** — локальная эвристическая проверка скриптов, бинарных файлов и ZIP-архивов. Это инструмент первичного анализа, а не антивирус и не вердикт о безопасности. [репозиторий](https://github.com/GhosTnever-lkm/mod-threat-lens) · [релиз](https://github.com/GhosTnever-lkm/mod-threat-lens/releases/tag/v0.1.6) · [скачать ZIP](https://github.com/GhosTnever-lkm/mod-threat-lens/releases/download/v0.1.6/mod-threat-lens-v0.1.6.zip)
 - **AegisScan AV v0.1.1** — локальный triage-сканер файлов и ZIP-архивов: ограниченный обход, пользовательские SHA-256 сигнатуры, объяснимые эвристики и JSON/текстовые отчёты. Ничего не запускает, не загружает и не удаляет; не заменяет коммерческий антивирус. [репозиторий](https://github.com/GhosTnever-lkm/aegisscan-av) · [релиз v0.1.1](https://github.com/GhosTnever-lkm/aegisscan-av/releases/tag/v0.1.1)
 
@@ -150,7 +150,7 @@ game-text-gate --source locales/en.json --target locales/ru.json --report markdo
 | [Mod Conflict Map](https://github.com/GhosTnever-lkm/paradox-mod-conflict-map) · [открыть приложение](https://ghostnever-lkm.github.io/paradox-mod-conflict-map/) · [релиз v0.4.0](https://github.com/GhosTnever-lkm/paradox-mod-conflict-map/releases/tag/v0.4.0) · [ZIP](https://github.com/GhosTnever-lkm/paradox-mod-conflict-map/releases/download/v0.4.0/Mod-Conflict-Map-v0.4.0.zip) · [анонс](https://boosty.to/azizazimov/posts/7c97d8ec-ea1e-458d-8848-4ec9c0e22725) | Находит потенциальные пересечения файловых путей в ZIP-архивах и папках модов Paradox; поиск по пути, названию мода и ZIP-файлу |
 | [Workshop Page Studio](https://ghostnever-lkm.github.io/workshop-page-studio/) · [ZIP v0.2.1](https://github.com/GhosTnever-lkm/workshop-page-studio/releases/latest/download/Workshop-Page-Studio-v0.2.1.zip) · [исходный код](https://github.com/GhosTnever-lkm/workshop-page-studio) | Создаёт страницы модов с предпросмотром и экспортом в Steam BBCode или Markdown |
 | [Paradox Mod Workbench](https://github.com/GhosTnever-lkm/paradox-mod-workbench) · [скачать ZIP v0.2.1](https://github.com/GhosTnever-lkm/paradox-mod-workbench/releases/download/v0.2.1/Paradox-Mod-Workbench-v0.2.1.zip) | CLI для диагностики конфликтов, зависимостей, локализации и скриптов с JSON/SARIF-отчётами |
-| [Paradox Mod Quality Gate](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate) · [релиз v1.0.36](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate/releases/tag/v1.0.37) · [Windows Pro за 50 ₽](https://boosty.to/azizazimov/posts/761380dd-5d2d-45d1-ad6d-452b123d11b3) | Объединяет ModRelease Studio v0.3.58 и Paradox Mod Workbench v0.2.2 в GitHub Action; Pro добавляет Windows GUI и HTML-отчёты |
+| [Paradox Mod Quality Gate](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate) · [релиз v1.0.37](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate/releases/tag/v1.0.37) · [Windows Pro за 50 ₽](https://boosty.to/azizazimov/posts/761380dd-5d2d-45d1-ad6d-452b123d11b3) | Объединяет ModRelease Studio v0.3.58 и Paradox Mod Workbench v0.2.2 в GitHub Action; Pro добавляет Windows GUI и HTML-отчёты |
 | [WorkflowGuard](https://github.com/GhosTnever-lkm/workflowguard) · [релиз v1.0.2](https://github.com/GhosTnever-lkm/workflowguard/releases/tag/v1.0.2) · [Pro Kit за 50 ₽](https://boosty.to/azizazimov/posts/5c87f36c-8306-462e-85a8-a4facd470adb) | Локально проверяет GitHub Actions и экспортирует результаты в текст, JSON или SARIF; Pro Kit содержит стартовые workflow-шаблоны |
 | [LogSieve](https://github.com/GhosTnever-lkm/logsieve) · [открыть приложение](https://ghostnever-lkm.github.io/logsieve/) · [релиз v0.1.0](https://github.com/GhosTnever-lkm/logsieve/releases/tag/v0.1.0) | Локально очищает игровые и системные логи от типовых токенов и личных данных перед отправкой в поддержку |
 | [VOIDFALL](https://github.com/GhosTnever-lkm/voidfall) · [играть](https://ghostnever-lkm.github.io/voidfall/) · [релиз v1.0.3](https://github.com/GhosTnever-lkm/voidfall/releases/tag/v1.0.3) | Браузерный roguelite-шутер с волнами врагов, боссами, способностями, контрактами и локальным сохранением прогресса |
