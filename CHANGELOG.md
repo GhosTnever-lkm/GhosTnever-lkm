@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.66 - 2026-10-11
+
+- Refresh the BugBundle profile entry to privacy-hardened release v1.0.4.
+
+
 ## 1.2.65 - 2026-10-11
 
 - Refresh the GameText Gate profile link to privacy-hardened release v0.1.9.
