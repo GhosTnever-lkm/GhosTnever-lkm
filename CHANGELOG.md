@@ -1,3 +1,8 @@
+## 1.2.133 - 2026-10-11
+
+- Promote ModRelease Studio v0.3.56 and gate releases v1.0.39/v1.0.34; refresh evidence-backed CI, test, release-count, and archive-size metrics.
+- Note the Windows junction traversal hardening verified in the five-job matrix.
+
 ## 1.2.132 - 2026-10-11
 
 - Reconcile the flagship CI metric with all 71 completed preflight workflow runs: 69 succeeded, 2 failed; clarify that all five v0.3.55 matrix jobs pass and the v0.3.54 Windows/macOS fixture issue was corrected.
