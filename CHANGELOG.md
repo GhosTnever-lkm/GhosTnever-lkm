@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.54 - 2026-10-11
+
+- Refresh ModRelease Gate profile link to the workspace-confined config-file release.
+
 ## 1.2.53 - 2026-10-11
 
 - Refresh ModRelease Gate profile link to the workspace-path validation release.
