@@ -1,3 +1,7 @@
+## 1.2.152 - 2026-10-12
+
+- Correct the Paradox Mod Quality Gate release label to v1.0.39.
+
 ## 1.2.151 - 2026-10-12
 
 - Update Paradox Mod Quality Gate to v1.0.39 and its ModRelease Studio v0.3.59 scanner pin.
