@@ -1,8 +1,12 @@
 # Changelog
 
+## 1.2.69 - 2026-10-11
+
+- Point CSV Compass and LogSieve profile entries to their actual published v0.1.0 releases.
+
 ## 1.2.68 - 2026-10-11
 
-- Correct the CSV Compass and LogSieve profile links to their published v0.1.0 releases.
+- Audit featured CSV Compass and LogSieve links; the stale release URLs were corrected in v1.2.69.
 
 ## 1.2.67 - 2026-10-11
 
