@@ -1,3 +1,8 @@
+## 1.2.129 - 2026-10-11
+
+- Refresh flagship to ModRelease Studio v0.3.52: 57 releases, 66/67 CI snapshot, 66 tests, 92% coverage, 37,511-byte ZIP.
+- Link ModRelease Gate v1.0.37 and Paradox Gate v1.0.32, both using scanner v0.3.52.
+
 ## 1.2.128 - 2026-10-11
 
 - Refresh flagship metrics and download/demo links to ModRelease Studio v0.3.51 (56 releases, 65/66 CI snapshot, 65 tests, 93% coverage, 36,942-byte ZIP).
