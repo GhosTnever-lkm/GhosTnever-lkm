@@ -1,3 +1,8 @@
+## 1.2.128 - 2026-10-11
+
+- Refresh flagship metrics and download/demo links to ModRelease Studio v0.3.51 (56 releases, 65/66 CI snapshot, 65 tests, 93% coverage, 36,942-byte ZIP).
+- Record the new ZIP OS-metadata report regression; ecosystem gates remain pinned to runtime v0.3.50.
+
 ## 1.2.127 - 2026-10-11
 
 - Refresh flagship metrics and release links to ModRelease Studio v0.3.50 (55 releases, 64/65 CI snapshot, 64 tests, 93% coverage, 36,761-byte ZIP).
