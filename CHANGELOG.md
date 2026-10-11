@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.74 - 2026-10-11
+
+- Point Mod Threat Lens links and the profile image gallery to release v0.1.4.
+
 ## 1.2.73 - 2026-10-11
 
 - Update GameText Gate pins and install examples to v0.1.10; link its README report preview.

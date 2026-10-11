@@ -21,7 +21,7 @@
 | [**Paradox Mod Quality Gate**](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate) — единая проверка Paradox-модов | Объединяет сканеры, формирует JSON/Markdown и блокирует релиз по правилам | [README и пример workflow](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate) · [v1.0.22](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate/releases/tag/v1.0.22) |
 | [**BugBundle**](https://github.com/GhosTnever-lkm/bugbundle) — очищенный crash-report | Собирает заметки и логи локально; скрывает типовые секреты и credentials в ссылках | [демо](https://ghostnever-lkm.github.io/bugbundle/) · [offline ZIP v1.0.6](https://github.com/GhosTnever-lkm/bugbundle/releases/download/v1.0.6/BugBundle-v1.0.6.zip) · [screenshot](https://raw.githubusercontent.com/GhosTnever-lkm/bugbundle/v1.0.6/docs/bugbundle-preview.png) |
 | [**GameText Gate**](https://github.com/GhosTnever-lkm/game-text-gate) — QA игровых переводов | Проверяет ключи, плейсхолдеры и разметку в CSV, PO и вложенном JSON | [установка и запуск](https://github.com/GhosTnever-lkm/game-text-gate#install-and-run) · [samples](https://github.com/GhosTnever-lkm/game-text-gate/tree/v0.1.10/samples) · [скриншот отчёта](https://raw.githubusercontent.com/GhosTnever-lkm/game-text-gate/v0.1.10/docs/report-preview.png) · [v0.1.10](https://github.com/GhosTnever-lkm/game-text-gate/releases/tag/v0.1.10) |
-| [**Mod Threat Lens**](https://github.com/GhosTnever-lkm/mod-threat-lens) — первичный triage модов | Локально ищет подозрительные признаки в исходниках, бинарных файлах и архивах; не заменяет антивирус | [Quick start](https://github.com/GhosTnever-lkm/mod-threat-lens#quick-start) · [fixture](https://github.com/GhosTnever-lkm/mod-threat-lens/tree/v0.1.3/examples/fixture-mod) · [v0.1.3](https://github.com/GhosTnever-lkm/mod-threat-lens/releases/tag/v0.1.3) |
+| [**Mod Threat Lens**](https://github.com/GhosTnever-lkm/mod-threat-lens) — первичный triage модов | Локально ищет подозрительные признаки в исходниках, бинарных файлах и архивах; не заменяет антивирус | [Quick start](https://github.com/GhosTnever-lkm/mod-threat-lens#quick-start) · [fixture](https://github.com/GhosTnever-lkm/mod-threat-lens/tree/v0.1.4/examples/fixture-mod) · [скриншот отчёта](https://raw.githubusercontent.com/GhosTnever-lkm/mod-threat-lens/v0.1.4/docs/report-preview.png) · [v0.1.4](https://github.com/GhosTnever-lkm/mod-threat-lens/releases/tag/v0.1.4) |
 
 <p align="center">
   <a href="https://github.com/GhosTnever-lkm/modrelease-studio"><img src="https://raw.githubusercontent.com/GhosTnever-lkm/modrelease-studio/v0.3.18/docs/demo.png" alt="ModRelease Studio command-line scan example" width="47%"></a>
@@ -35,7 +35,7 @@
 *GameText Gate: пример отчёта по тестовым файлам — 2 ошибки и 2 предупреждения, найденные до сборки.*
 
 <p align="center">
-  <a href="https://github.com/GhosTnever-lkm/mod-threat-lens"><img src="https://raw.githubusercontent.com/GhosTnever-lkm/GhosTnever-lkm/v1.2.72/docs/mod-threat-lens-report.png" alt="Mod Threat Lens heuristic scan report using inert synthetic test strings" width="90%"></a>
+  <a href="https://github.com/GhosTnever-lkm/mod-threat-lens"><img src="https://raw.githubusercontent.com/GhosTnever-lkm/mod-threat-lens/v0.1.4/docs/report-preview.png" alt="Mod Threat Lens heuristic scan report using inert synthetic test strings" width="90%"></a>
 </p>
 
 *Mod Threat Lens: только синтетические строки, сканируемые без исполнения; эвристические сигналы требуют ручной проверки.*
@@ -57,7 +57,7 @@ game-text-gate --source locales/en.json --target locales/ru.json --report markdo
 ### 🛡️ Качество и безопасность игровых модов
 
 - **ModRelease Studio v0.3.18** — проверка папки или ZIP перед выпуском: упаковка, секреты, метаданные, сравнение сборок и отчёты без локальных родительских путей. [Сайт и демо](https://ghostnever-lkm.github.io/modrelease-studio/) · [релиз v0.3.18](https://github.com/GhosTnever-lkm/modrelease-studio/releases/tag/v0.3.18) · [скачать ZIP](https://github.com/GhosTnever-lkm/modrelease-studio/releases/download/v0.3.18/ModRelease-Studio-v0.3.18.zip)
-- **Mod Threat Lens v0.1.3** — локальная эвристическая проверка скриптов, бинарных файлов и ZIP-архивов. Это инструмент первичного анализа, а не антивирус и не вердикт о безопасности. [репозиторий](https://github.com/GhosTnever-lkm/mod-threat-lens) · [релиз](https://github.com/GhosTnever-lkm/mod-threat-lens/releases/tag/v0.1.3) · [скачать ZIP](https://github.com/GhosTnever-lkm/mod-threat-lens/releases/download/v0.1.3/mod-threat-lens-v0.1.3.zip)
+- **Mod Threat Lens v0.1.4** — локальная эвристическая проверка скриптов, бинарных файлов и ZIP-архивов. Это инструмент первичного анализа, а не антивирус и не вердикт о безопасности. [репозиторий](https://github.com/GhosTnever-lkm/mod-threat-lens) · [релиз](https://github.com/GhosTnever-lkm/mod-threat-lens/releases/tag/v0.1.4) · [скачать ZIP](https://github.com/GhosTnever-lkm/mod-threat-lens/releases/download/v0.1.4/mod-threat-lens-v0.1.4.zip)
 
 ### 🚀 Готовые инструменты
 
