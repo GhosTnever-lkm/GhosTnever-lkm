@@ -1,3 +1,7 @@
+## 1.2.111 - 2026-10-11
+
+- Refresh BugBundle profile links to v1.0.10 and describe visible bidi/control escaping in uploaded filenames.
+
 ## 1.2.110 - 2026-10-11
 
 - Refresh BugBundle source, preview, and offline ZIP links to v1.0.9, which fixes uploaded-log auto-detection.
