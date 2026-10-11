@@ -1,8 +1,12 @@
 # Changelog
 
+## 1.2.44 - 2026-10-11
+
+- Refresh ModRelease Studio, ModRelease Gate, and Paradox Quality Gate links to current release tags.
+
 ## 1.2.43 - 2026-10-11
 
-- Refresh ModRelease Studio, ModRelease Gate, and Paradox Quality Gate links to the scanner v0.3.9 dependency cycle.
+- Refresh ModRelease Studio, ModRelease Gate, and Paradox Quality Gate links to the current scanner v0.3.10 dependency cycle.
 
 ## 1.2.42 - 2026-10-11
 
