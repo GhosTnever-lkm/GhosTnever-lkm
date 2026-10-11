@@ -1,3 +1,7 @@
+## 1.2.116 - 2026-10-11
+
+- Refresh Mod Threat Lens demos, screenshots, installation tag, and ZIP links to v0.1.6; describe safe Unicode rendering across reports.
+
 ## 1.2.115 - 2026-10-11
 
 - Refresh Paradox Mod Quality Gate links to v1.0.25 and describe safe Unicode/Markdown output handling.
