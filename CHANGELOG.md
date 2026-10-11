@@ -1,3 +1,9 @@
+## 1.2.130 - 2026-10-11
+
+- Refresh flagship to ModRelease Studio v0.3.53: 58 releases, 67/68 CI snapshot, 67 tests, 92% coverage, 37,929-byte ZIP.
+- Link ModRelease Gate v1.0.38 and Paradox Gate v1.0.33, both using scanner v0.3.53.
+- Describe the archive-vs-working-tree scan distinction that prevents missing secrets from packaged `.git` paths.
+
 ## 1.2.129 - 2026-10-11
 
 - Refresh flagship to ModRelease Studio v0.3.52: 57 releases, 66/67 CI snapshot, 66 tests, 92% coverage, 37,511-byte ZIP.
