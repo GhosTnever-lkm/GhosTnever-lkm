@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.43 - 2026-10-11
+
+- Refresh ModRelease Studio, ModRelease Gate, and Paradox Quality Gate links to the scanner v0.3.9 dependency cycle.
+
 ## 1.2.42 - 2026-10-11
 
 - Refresh the ModRelease Gate portfolio link after its cross-platform path-collision CI test.
