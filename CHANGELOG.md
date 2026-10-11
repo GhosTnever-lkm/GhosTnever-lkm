@@ -1,3 +1,8 @@
+## 1.2.135 - 2026-10-11
+
+- Refresh flagship profile metrics and links for ModRelease Studio v0.3.57 (70 tests, 93% line coverage, 71/73 preflight runs, 39,309-byte ZIP).
+- Link ModRelease Gate v1.0.41 and Paradox Mod Quality Gate v1.0.36, both pinned to scanner v0.3.57.
+
 ## 1.2.134 - 2026-10-11
 
 - Link ModRelease Gate v1.0.40 and Paradox Gate v1.0.35, whose CI now verifies the new `JUNCTION` warning threshold behavior.
