@@ -1,3 +1,7 @@
+## 1.2.101 - 2026-10-11
+
+- Refresh flagship links and metrics to v0.3.40: 45 releases, 58 tests, 91% coverage, 33,881-byte ZIP, and 55/56 (98.2%) preflight runs through commit 725657d. Public tag and ZIP installs, sample scan, checksum, and bytecode exclusion verified.
+
 ## 1.2.100 - 2026-10-11
 
 - Refresh flagship metrics to v0.3.39: 44 releases, 58 tests, 91% coverage, 88,654-byte ZIP, and 54/55 (98.2%) preflight runs through commit 12e9c0c. Linux/macOS/PowerShell checksum documentation passed its matching CI matrix steps.
