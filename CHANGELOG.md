@@ -1,3 +1,7 @@
+## 1.2.112 - 2026-10-11
+
+- Refresh ModRelease Studio profile links and evidence-backed metrics to v0.3.43: 60 tests, 92% line coverage, 48 releases, current preflight snapshot, and verified ZIP size.
+
 ## 1.2.111 - 2026-10-11
 
 - Refresh BugBundle profile links to v1.0.10 and describe visible bidi/control escaping in uploaded filenames.
