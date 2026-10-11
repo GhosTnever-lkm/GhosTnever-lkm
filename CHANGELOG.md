@@ -1,3 +1,7 @@
+## 1.2.107 - 2026-10-11
+
+- Refresh BugBundle links and screenshot to v1.0.7; clarify its local crash-report and Markdown-safety value.
+
 ## 1.2.106 - 2026-10-11
 
 - Refresh GameText Gate report, sample, install, release, and download links to v0.1.12 after Unicode-bidi output hardening.
