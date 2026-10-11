@@ -74,7 +74,7 @@ game-text-gate --source locales/en.json --target locales/ru.json --report markdo
 
 ### 🚀 Готовые инструменты
 
-[LocaleLens](https://github.com/GhosTnever-lkm/localelens) · [демо](https://ghostnever-lkm.github.io/localelens/) · [релиз v0.1.1](https://github.com/GhosTnever-lkm/localelens/releases/tag/v0.1.1) · [анонс](https://boosty.to/azizazimov/posts/acdf8023-36c5-426d-8fe2-8fb02d984e91) | Сравнивает JSON/ARB-каталоги, находит пропущенные ключи, пустые значения, несовпадение типов и плейсхолдеров; экспортирует отчёт в JSON/CSV.
+[LocaleLens](https://github.com/GhosTnever-lkm/localelens) · [демо](https://ghostnever-lkm.github.io/localelens/) · [релиз v0.1.2](https://github.com/GhosTnever-lkm/localelens/releases/tag/v0.1.2) · [ZIP](https://github.com/GhosTnever-lkm/localelens/releases/download/v0.1.2/LocaleLens-v0.1.2.zip) · [анонс](https://boosty.to/azizazimov/posts/acdf8023-36c5-426d-8fe2-8fb02d984e91) | Сравнивает JSON/ARB-каталоги, находит пропущенные ключи, пустые значения, несовпадение типов и плейсхолдеров; экспортирует отчёт в JSON/CSV.
 
 [CaptionBench](https://github.com/GhosTnever-lkm/captionbench) · [демо](https://ghostnever-lkm.github.io/captionbench/) · [релиз v0.1.1](https://github.com/GhosTnever-lkm/captionbench/releases/tag/v0.1.1) · [анонс](https://boosty.to/azizazimov/posts/31383539-f1c0-4f5f-8282-cd2818bda2d5) | Локально проверяет и редактирует SRT: длинные строки, скорость чтения, пустые реплики и пересекающиеся тайминги; экспортирует исправленную копию.
 

@@ -1,3 +1,7 @@
+## 1.2.136 - 2026-10-11
+
+- Refresh LocaleLens links to v0.1.2 and include the checked downloadable archive.
+
 ## 1.2.135 - 2026-10-11
 
 - Refresh flagship profile metrics and links for ModRelease Studio v0.3.57 (70 tests, 93% line coverage, 71/73 preflight runs, 39,309-byte ZIP).
