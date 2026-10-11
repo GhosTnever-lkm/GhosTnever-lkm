@@ -1,3 +1,8 @@
+## 1.2.131 - 2026-10-11
+
+- Refresh flagship metrics and links to v0.3.55: 60 releases, 68/70 CI snapshot, 68 tests, 92% coverage, 38,316-byte ZIP.
+- Add evidence for path-specific directory-walk errors; consumer gates remain on runtime scanner v0.3.53.
+
 ## 1.2.130 - 2026-10-11
 
 - Refresh flagship to ModRelease Studio v0.3.53: 58 releases, 67/68 CI snapshot, 67 tests, 92% coverage, 37,929-byte ZIP.
