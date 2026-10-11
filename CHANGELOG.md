@@ -1,3 +1,7 @@
+## 1.2.105 - 2026-10-11
+
+- Refresh Mod Threat Lens release, sample, screenshot, and ZIP links to v0.1.5 after report output sanitization.
+
 ## 1.2.104 - 2026-10-11
 
 - Refresh flagship links and metrics to v0.3.42: 47 releases, 59 tests, 91% coverage, 34,641-byte ZIP, and 57/58 (98.3%) successful preflight runs through commit 5b55306.
