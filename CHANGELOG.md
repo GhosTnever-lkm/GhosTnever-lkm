@@ -1,3 +1,8 @@
+## 1.2.145 - 2026-10-12
+
+- Update the Paradox Mod Quality Gate profile entry to v1.0.37 and list its current ModRelease Studio v0.3.58 and Paradox Mod Workbench v0.2.2 scanner pins.
+
+
 ## 1.2.144 - 2026-10-12
 
 - Refresh ModRelease Studio links to v0.3.58, including SARIF export and the current release ZIP; update ModRelease Gate to v1.0.42.
