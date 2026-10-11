@@ -1,3 +1,7 @@
+## 1.2.143 - 2026-10-12
+
+- Add AudioScribe Studio v0.1.4 and link its public announcement from the profile.
+
 ## 1.2.142 - 2026-10-11
 
 - Add Git Churn Map v0.1.0 with a synthetic report example and checked release ZIP.
