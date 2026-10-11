@@ -1,3 +1,7 @@
+## 1.2.89 - 2026-10-11
+
+- Link verified ModRelease Gate v1.0.30 and Paradox Mod Quality Gate v1.0.24 releases after CI confirmed exact scanner pins.
+
 ## 1.2.88 - 2026-10-11
 
 - Refresh flagship to v0.3.29: 34 releases, 54 tests, 91% coverage, and an 83,626-byte ZIP; anchor the verified CI snapshot to release commit 1cd5d8f (44/45, 97.8%).
