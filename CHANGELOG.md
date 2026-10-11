@@ -1,3 +1,7 @@
+## 1.2.81 - 2026-10-11
+
+- Refresh flagship metrics to v0.3.23: 28 releases, 46 passing tests, 88% line coverage, and the 77,238-byte ZIP.
+
 ## 1.2.80 - 2026-10-11
 
 - Refresh flagship links and metrics to v0.3.22: 27 releases, a 73,126-byte ZIP, and verified Ubuntu CI on Python 3.11, 3.12, and 3.13.
