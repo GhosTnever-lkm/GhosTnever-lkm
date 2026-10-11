@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.63 - 2026-10-11
+
+- Refresh the featured ModRelease Studio links to current release v0.3.17.
+
+
 ## 1.2.62 - 2026-10-11
 
 - Refresh the Paradox Mod Quality Gate link to v1.0.22.
