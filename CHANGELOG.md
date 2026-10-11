@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.70 - 2026-10-11
+
+- Align the displayed CSV Compass and LogSieve release labels with their v0.1.0 links.
+
 ## 1.2.69 - 2026-10-11
 
 - Point CSV Compass and LogSieve profile entries to their actual published v0.1.0 releases.
