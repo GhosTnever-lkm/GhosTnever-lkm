@@ -2,9 +2,43 @@
 
 <h1 align="center">👋 Привет, я GhosTnever</h1>
 
-<p align="center"><b>Инструменты для разработчиков и авторов игровых модов</b></p>
-<p align="center">Создаю открытые приложения, плагины и полезные проверки — от идеи до готового проекта.</p>
-<p align="center"><a href="https://github.com/GhosTnever-lkm?tab=repositories">Все репозитории</a> · <a href="https://github.com/users/GhosTnever-lkm/projects/2/views/1">План разработки</a></p>
+<p align="center"><b>Создаю QA-инструменты для игровых модов, локализаций и разработки</b></p>
+<p align="center">Делаю локальные Python CLI, GitHub Actions и браузерные приложения, а также плагины для Codex и DeepSeek Harness: code review, onboarding репозиториев, диагностика CI и документация по коду.</p>
+<p align="center"><b>Технологии:</b> Python · JavaScript · HTML/CSS · GitHub Actions · Node.js · Rust/WASM (в поддерживаемом open-source fork)</p>
+<p align="center"><a href="https://github.com/GhosTnever-lkm?tab=repositories">Все публичные репозитории</a> · <a href="https://github.com/users/GhosTnever-lkm/projects/2/views/1">План разработки</a></p>
+
+<p align="center">
+  <a href="https://github.com/GhosTnever-lkm"><img src="https://github-readme-stats.vercel.app/api?username=GhosTnever-lkm&show_icons=true&hide_title=true&theme=transparent" alt="GitHub profile statistics" height="165"></a>
+  <a href="https://github.com/GhosTnever-lkm?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhosTnever-lkm&layout=compact&langs_count=6&theme=transparent" alt="Top languages across public repositories" height="165"></a>
+</p>
+
+### ⭐ Закреплённые проекты
+
+| Работа | Что решает | Установка, пример или демо |
+|:--|:--|:--|
+| [**ModRelease Studio**](https://github.com/GhosTnever-lkm/modrelease-studio) — проверка модов перед релизом | Сканирует папки и ZIP, находит ошибки упаковки и собирает отчёт без локальных родительских путей | [Quick start и пример](https://github.com/GhosTnever-lkm/modrelease-studio#quick-start) · [скриншот](https://raw.githubusercontent.com/GhosTnever-lkm/modrelease-studio/v0.3.18/docs/demo.png) · [v0.3.18](https://github.com/GhosTnever-lkm/modrelease-studio/releases/tag/v0.3.18) |
+| [**ModRelease Gate**](https://github.com/GhosTnever-lkm/modrelease-studio-action) — релизный gate в GitHub Actions | Запускает preflight на pull request, показывает annotations и сохраняет отчёты | [Quick start](https://github.com/GhosTnever-lkm/modrelease-studio-action#quick-start) · [пример policy](https://github.com/GhosTnever-lkm/modrelease-studio-action/tree/main/examples/policy-project) · [v1.0.28](https://github.com/GhosTnever-lkm/modrelease-studio-action/releases/tag/v1.0.28) |
+| [**Paradox Mod Quality Gate**](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate) — единая проверка Paradox-модов | Объединяет сканеры, формирует JSON/Markdown и блокирует релиз по правилам | [README и пример workflow](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate) · [v1.0.22](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate/releases/tag/v1.0.22) |
+| [**BugBundle**](https://github.com/GhosTnever-lkm/bugbundle) — очищенный crash-report | Собирает заметки и логи локально; скрывает типовые секреты и credentials в ссылках | [демо](https://ghostnever-lkm.github.io/bugbundle/) · [offline ZIP v1.0.6](https://github.com/GhosTnever-lkm/bugbundle/releases/download/v1.0.6/BugBundle-v1.0.6.zip) · [screenshot](https://raw.githubusercontent.com/GhosTnever-lkm/bugbundle/v1.0.6/docs/bugbundle-preview.png) |
+| [**GameText Gate**](https://github.com/GhosTnever-lkm/game-text-gate) — QA игровых переводов | Проверяет ключи, плейсхолдеры и разметку в CSV, PO и вложенном JSON | [установка и запуск](https://github.com/GhosTnever-lkm/game-text-gate#install-and-run) · [samples](https://github.com/GhosTnever-lkm/game-text-gate/tree/v0.1.9/samples) · [v0.1.9](https://github.com/GhosTnever-lkm/game-text-gate/releases/tag/v0.1.9) |
+| [**Mod Threat Lens**](https://github.com/GhosTnever-lkm/mod-threat-lens) — первичный triage модов | Локально ищет подозрительные признаки в исходниках, бинарных файлах и архивах; не заменяет антивирус | [Quick start](https://github.com/GhosTnever-lkm/mod-threat-lens#quick-start) · [fixture](https://github.com/GhosTnever-lkm/mod-threat-lens/tree/v0.1.3/examples/fixture-mod) · [v0.1.3](https://github.com/GhosTnever-lkm/mod-threat-lens/releases/tag/v0.1.3) |
+
+<p align="center">
+  <a href="https://github.com/GhosTnever-lkm/modrelease-studio"><img src="https://raw.githubusercontent.com/GhosTnever-lkm/modrelease-studio/v0.3.18/docs/demo.png" alt="ModRelease Studio command-line scan example" width="47%"></a>
+  <a href="https://ghostnever-lkm.github.io/bugbundle/"><img src="https://raw.githubusercontent.com/GhosTnever-lkm/bugbundle/v1.0.6/docs/bugbundle-preview.png" alt="BugBundle local crash-report builder and privacy preview" width="47%"></a>
+</p>
+
+### Быстрый старт: CLI
+
+```bash
+# Проверить папку мода и сохранить оба отчёта
+python -m pip install "modrelease-studio @ git+https://github.com/GhosTnever-lkm/modrelease-studio.git@v0.3.18"
+modrelease scan ./my-mod --md-out report.md --json-out report.json
+
+# Сравнить английскую и русскую локализации
+python -m pip install "game-text-gate @ git+https://github.com/GhosTnever-lkm/game-text-gate.git@v0.1.9"
+game-text-gate --source locales/en.json --target locales/ru.json --report markdown
+```
 
 ---
 
@@ -59,7 +93,7 @@
 | [FrameForge](https://github.com/GhosTnever-lkm/frameforge) · [скачать ZIP v1.18.1](https://github.com/GhosTnever-lkm/frameforge/releases/download/v1.18.1/FrameForge-1.18.1-windows-x64.zip) · [релиз v1.18.1](https://github.com/GhosTnever-lkm/frameforge/releases/tag/v1.18.1) · [анонс](https://boosty.to/azizazimov/posts/8013dede-3072-440e-ab74-052758b5a21b) | Windows-приложение для игровых профилей и A/B-бенчмарка; настраиваемый профиль CS:GO Legacy с консольным меню и отдельной desktop-панелью поверх окна игры в безрамочном оконном режиме; таймерный захват кадров через PresentMon и A/B-сравнение помогают измерять результат без обещания фиксированного прироста |
 | [SaveHarbor](https://github.com/GhosTnever-lkm/saveharbor) · [релиз v1.1.0](https://github.com/GhosTnever-lkm/saveharbor/releases/tag/v1.1.0) · [скачать ZIP](https://github.com/GhosTnever-lkm/saveharbor/releases/download/v1.1.0/SaveHarbor-v1.1.0.zip) · [анонс](https://boosty.to/azizazimov/posts/33ddae94-fe23-42df-8060-610fd4d6cfa1) · [Pro Scheduler за 50 ₽](https://boosty.to/azizazimov/posts/a9829848-7552-4b9b-8e52-e6086e81765f) | Делает локальные резервные копии и сравнивает как снимки, так и две выбранные папки по SHA-256; сохраняет отдельные снимки даже при совпадении времени создания |
 | [RepoSignal](https://github.com/GhosTnever-lkm/repo-signal) · [открыть приложение](https://ghostnever-lkm.github.io/repo-signal/) · [релиз v1.0.1](https://github.com/GhosTnever-lkm/repo-signal/releases/tag/v1.0.1) · [исходный код](https://github.com/GhosTnever-lkm/repo-signal) | Проверяет понятность и готовность публичного GitHub-репозитория: README, лицензия, темы, CI, релизы и документы сообщества |
-| [BugBundle](https://ghostnever-lkm.github.io/bugbundle/) · [релиз v1.0.4](https://github.com/GhosTnever-lkm/bugbundle/releases/tag/v1.0.4) · [исходный код](https://github.com/GhosTnever-lkm/bugbundle) | Собирает отчёт о сбое и маскирует типовые секреты, личные пути и credentials в ссылках |
+| [BugBundle](https://ghostnever-lkm.github.io/bugbundle/) · [релиз v1.0.6](https://github.com/GhosTnever-lkm/bugbundle/releases/tag/v1.0.6) · [исходный код](https://github.com/GhosTnever-lkm/bugbundle) | Собирает отчёт о сбое и маскирует типовые секреты, личные пути и credentials в ссылках |
 | [CSV Compass](https://github.com/GhosTnever-lkm/csv-compass) · [открыть приложение](https://ghostnever-lkm.github.io/csv-compass/) · [релиз v0.1.1](https://github.com/GhosTnever-lkm/csv-compass/releases/tag/v0.1.1) | Проверяет и очищает CSV-таблицы локально в браузере; файлы не загружаются на сервер |
 | [JSON Compass](https://github.com/GhosTnever-lkm/json-compass) · [открыть приложение](https://ghostnever-lkm.github.io/json-compass/) · [релиз v1.0.1](https://github.com/GhosTnever-lkm/json-compass/releases/tag/v1.0.1) · [анонс](https://boosty.to/azizazimov/posts/2acc32dd-8940-4a05-b30b-1cf4c188be8d) | Форматирует и сравнивает JSON, показывает структуру и точные пути; данные остаются в браузере |
 | [ContrastKit](https://github.com/GhosTnever-lkm/contrastkit) · [открыть приложение](https://ghostnever-lkm.github.io/contrastkit/) · [релиз v1.0.1](https://github.com/GhosTnever-lkm/contrastkit/releases/tag/v1.0.1) · [анонс](https://boosty.to/azizazimov/posts/edabf228-6560-4d30-80b5-337ddad3fa26) | Проверяет контрастность текста и цвета фона по WCAG AA/AAA, показывает палитру и экспортирует CSS-переменные |

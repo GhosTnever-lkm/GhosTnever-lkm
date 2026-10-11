@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.2.67 - 2026-10-11
+
+- Add current technology focus, six verified pinned projects, dynamic GitHub stats, CLI setup examples, and project screenshots.
+- Refresh BugBundle references to v1.0.6.
+
+
 ## 1.2.66 - 2026-10-11
 
 - Refresh the BugBundle profile entry to privacy-hardened release v1.0.4.
