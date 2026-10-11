@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.60 - 2026-10-11
+
+- Refresh the Workshop Page Studio download link to v0.2.1.
+
 ## 1.2.59 - 2026-10-11
 
 - Refresh featured links for LocaleLens, CaptionBench, RepoSignal, JSON Compass, ContrastKit, and WorkflowGuard.
