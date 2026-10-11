@@ -19,7 +19,7 @@
 | Метрика | Значение |
 |:--|:--|
 | Выпущенные версии | [26 опубликованных релизов](https://github.com/GhosTnever-lkm/modrelease-studio/releases); последний — [v0.3.21 от 2026-10-11](https://github.com/GhosTnever-lkm/modrelease-studio/releases/tag/v0.3.21) |
-| Успешность CI | **35/36 (97.2%)** завершённых запусков preflight workflow успешны; знаменатель включает всю историю workflow на момент проверки ([workflow](https://github.com/GhosTnever-lkm/modrelease-studio/actions/workflows/preflight.yml)) |
+| Успешность CI | **35/36 (97.2%)** завершённых запусков preflight успешны по состоянию на релизный коммит `928fa07` (v0.3.21); последующие docs-only проверки не входят ([workflow](https://github.com/GhosTnever-lkm/modrelease-studio/actions/workflows/preflight.yml)) |
 | Автотесты | [43/43 тестов прошли](https://github.com/GhosTnever-lkm/modrelease-studio/tree/v0.3.21/tests); Coverage.py подтверждает **89% покрытия строк**; CI блокирует результат ниже 80% |
 | Проверенная ОС | Ubuntu Linux (`ubuntu-latest`) в CI; Windows и macOS этим workflow не проверялись |
 | Python / Node.js | Python 3.11+ заявлен; CI проверяет 3.11 и 3.12. Node.js для CLI не требуется |
