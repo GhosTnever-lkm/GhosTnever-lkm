@@ -1,3 +1,7 @@
+## 1.2.110 - 2026-10-11
+
+- Refresh BugBundle source, preview, and offline ZIP links to v1.0.9, which fixes uploaded-log auto-detection.
+
 ## 1.2.109 - 2026-10-11
 
 - Refresh BugBundle demo, screenshot, offline ZIP, and release references to v1.0.8.
