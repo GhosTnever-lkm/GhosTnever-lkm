@@ -1,3 +1,7 @@
+## 1.2.148 - 2026-10-12
+
+- Update Paradox Mod Quality Gate to v1.0.38 and feature its unified SARIF 2.1.0 export.
+
 ## 1.2.147 - 2026-10-12
 
 - Refresh ModRelease Studio profile evidence to v0.3.58: 72-test suite, current CI snapshot, install/demo links; correct the Paradox Gate release label.
