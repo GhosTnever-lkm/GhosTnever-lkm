@@ -1,3 +1,7 @@
+## 1.2.78 - 2026-10-11
+
+- Refresh flagship metrics from verified ModRelease Studio v0.3.21: 26 releases, 43 tests, 89% coverage, 35/36 completed CI runs, and the 73,072-byte release ZIP.
+
 # Changelog
 
 ## 1.2.77 - 2026-10-11
