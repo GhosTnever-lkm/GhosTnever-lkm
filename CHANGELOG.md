@@ -1,3 +1,7 @@
+## 1.2.139 - 2026-10-11
+
+- Add CSV Key Diff v0.1.1 with examples, release download, and CI status.
+
 ## 1.2.138 - 2026-10-11
 
 - Refresh LocaleLens links to v0.1.3 and its checked download archive.
