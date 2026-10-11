@@ -1,3 +1,7 @@
+## 1.2.154 - 2026-10-12
+
+- Update Mod Conflict Map to v0.4.1 and describe its automatic Node.js CI.
+
 ## 1.2.153 - 2026-10-12
 
 - Sync Paradox Mod Workbench v0.2.3 and Paradox Mod Quality Gate v1.0.40 in the profile README.
