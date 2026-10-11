@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.77 - 2026-10-11
+
+- Refresh flagship release, CI, test, line-coverage, and archive-size figures for ModRelease Studio v0.3.20.
+
 ## 1.2.76 - 2026-10-11
 
 - Refresh flagship metrics to v0.3.19, including measured 75% line coverage enforced by CI, 24 releases, updated CI rate, and ZIP size.
