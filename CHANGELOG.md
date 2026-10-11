@@ -1,3 +1,7 @@
+## 1.2.126 - 2026-10-11
+
+- Link ModRelease Gate v1.0.34 and Paradox Mod Quality Gate v1.0.29 after their warning-policy CI integrations passed.
+
 ## 1.2.125 - 2026-10-11
 
 - Add the CLI-level growth-warning regression evidence and refresh ModRelease Studio to v0.3.49 (54 releases, 64/65 CI runs, 62 tests, 92% coverage).
