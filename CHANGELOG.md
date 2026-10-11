@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.68 - 2026-10-11
+
+- Correct the CSV Compass and LogSieve profile links to their published v0.1.0 releases.
+
 ## 1.2.67 - 2026-10-11
 
 - Add current technology focus, six verified pinned projects, dynamic GitHub stats, CLI setup examples, and project screenshots.
