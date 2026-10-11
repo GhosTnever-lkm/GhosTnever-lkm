@@ -1,3 +1,7 @@
+## 1.2.124 - 2026-10-11
+
+- Refresh the flagship release links and metrics to v0.3.48: 53 published releases, 63/64 CI runs, 61 tests, 92% coverage, and a 36,106-byte ZIP.
+
 ## 1.2.123 - 2026-10-11
 
 - Refresh the flagship to v0.3.47 (52 releases, 62/63 CI snapshot, 61 tests, current ZIP) while preserving behavioral consumer pins at v0.3.46.
