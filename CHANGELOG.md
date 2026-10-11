@@ -1,3 +1,7 @@
+## 1.2.115 - 2026-10-11
+
+- Refresh Paradox Mod Quality Gate links to v1.0.25 and describe safe Unicode/Markdown output handling.
+
 ## 1.2.114 - 2026-10-11
 
 - Refresh ModRelease Gate links to v1.0.31 and describe visible escaping of bidi and Unicode separator characters in CI output.
