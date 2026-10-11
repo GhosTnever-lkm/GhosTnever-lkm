@@ -1,3 +1,7 @@
+## 1.2.80 - 2026-10-11
+
+- Refresh flagship links and metrics to v0.3.22: 27 releases, a 73,126-byte ZIP, and verified Ubuntu CI on Python 3.11, 3.12, and 3.13.
+
 ## 1.2.79 - 2026-10-11
 
 - Clarify that the flagship CI success-rate snapshot is scoped through release commit 928fa07, so later documentation-only workflow runs do not silently change the denominator.
