@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/GhosTnever-lkm/game-text-gate"><img src="https://raw.githubusercontent.com/GhosTnever-lkm/GhosTnever-lkm/v1.2.71/docs/game-text-gate-report.png" alt="GameText Gate sample localization QA report preview" width="90%"></a>
+  <a href="https://github.com/GhosTnever-lkm/game-text-gate"><img src="https://raw.githubusercontent.com/GhosTnever-lkm/game-text-gate/v0.1.12/docs/report-preview.png" alt="GameText Gate v0.1.12 sample localization QA report preview" width="90%"></a>
 </p>
 
 *GameText Gate: пример отчёта по тестовым файлам — 2 ошибки и 2 предупреждения, найденные до сборки.*

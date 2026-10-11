@@ -1,3 +1,7 @@
+## 1.2.108 - 2026-10-11
+
+- Point the profile’s large GameText Gate screenshot directly at the current v0.1.12 report preview.
+
 ## 1.2.107 - 2026-10-11
 
 - Refresh BugBundle links and screenshot to v1.0.7; clarify its local crash-report and Markdown-safety value.
