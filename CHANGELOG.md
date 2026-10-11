@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.50 - 2026-10-11
+
+- Refresh the ModRelease Gate profile link after adding an end-to-end nonportable-path CI fixture.
+
 ## 1.2.49 - 2026-10-11
 
 - Refresh ModRelease Studio, ModRelease Gate, and Paradox Quality Gate links to current release tags.
