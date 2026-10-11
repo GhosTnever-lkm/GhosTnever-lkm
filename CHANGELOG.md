@@ -1,3 +1,7 @@
+## 1.2.157 - 2026-10-12
+
+- Sync flagship links and verified release/CI details to ModRelease Studio v0.3.61; refresh the release count and ZIP size.
+
 ## 1.2.156 - 2026-10-12
 
 - Refresh the GhosTnever Mega Toolkit release link to v1.1.3.
