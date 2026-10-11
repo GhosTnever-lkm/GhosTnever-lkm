@@ -1,3 +1,7 @@
+## 1.2.150 - 2026-10-12
+
+- Sync ModRelease Studio links, install pin, demo and verified release metrics to v0.3.59; refresh the Paradox ecosystem references where the aggregate gate still pins v0.3.58.
+
 ## 1.2.149 - 2026-10-12
 
 - Update ModRelease Gate Action to v1.0.43 with SARIF artifacts, repository-relative locations, and optional Code Scanning upload guidance.
