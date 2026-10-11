@@ -28,6 +28,12 @@
   <a href="https://ghostnever-lkm.github.io/bugbundle/"><img src="https://raw.githubusercontent.com/GhosTnever-lkm/bugbundle/v1.0.6/docs/bugbundle-preview.png" alt="BugBundle local crash-report builder and privacy preview" width="47%"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/GhosTnever-lkm/game-text-gate"><img src="https://raw.githubusercontent.com/GhosTnever-lkm/GhosTnever-lkm/v1.2.71/docs/game-text-gate-report.png" alt="GameText Gate sample localization QA report preview" width="90%"></a>
+</p>
+
+*GameText Gate: пример отчёта по тестовым файлам — 2 ошибки и 2 предупреждения, найденные до сборки.*
+
 ### Быстрый старт: CLI
 
 ```bash

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.71 - 2026-10-11
+
+- Add a third project screenshot: GameText Gate flags localization placeholder, key, and empty-translation issues in sample files.
+
 ## 1.2.70 - 2026-10-11
 
 - Align the displayed CSV Compass and LogSieve release labels with their v0.1.0 links.
