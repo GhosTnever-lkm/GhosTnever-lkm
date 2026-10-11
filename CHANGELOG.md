@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.59 - 2026-10-11
+
+- Refresh featured links for LocaleLens, CaptionBench, RepoSignal, JSON Compass, ContrastKit, and WorkflowGuard.
+- Update the profile release workflow to actions/checkout@v7.
+
 ## 1.2.58 - 2026-10-11
 
 - Refresh ModRelease Gate profile link after documenting the workspace-bound inputs.
