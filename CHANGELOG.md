@@ -1,3 +1,7 @@
+## 1.2.114 - 2026-10-11
+
+- Refresh ModRelease Gate links to v1.0.31 and describe visible escaping of bidi and Unicode separator characters in CI output.
+
 ## 1.2.113 - 2026-10-11
 
 - Refresh ModRelease Studio links to v0.3.44 and update verified metrics: 49 releases, 59/60 preflight runs, 60 tests, 92% line coverage, and 35,653-byte ZIP.
