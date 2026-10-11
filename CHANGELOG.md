@@ -1,3 +1,7 @@
+## 1.2.134 - 2026-10-11
+
+- Link ModRelease Gate v1.0.40 and Paradox Gate v1.0.35, whose CI now verifies the new `JUNCTION` warning threshold behavior.
+
 ## 1.2.133 - 2026-10-11
 
 - Promote ModRelease Studio v0.3.56 and gate releases v1.0.39/v1.0.34; refresh evidence-backed CI, test, release-count, and archive-size metrics.
