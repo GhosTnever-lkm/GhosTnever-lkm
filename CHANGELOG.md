@@ -1,3 +1,7 @@
+## 1.2.123 - 2026-10-11
+
+- Refresh the flagship to v0.3.47 (52 releases, 62/63 CI snapshot, 61 tests, current ZIP) while preserving behavioral consumer pins at v0.3.46.
+
 ## 1.2.122 - 2026-10-11
 
 - Refresh ModRelease Studio to v0.3.46 (61 tests, 51 releases, current ZIP/CI evidence) and link ModRelease Gate v1.0.33 / Paradox Gate v1.0.28 using scanner v0.3.46.
