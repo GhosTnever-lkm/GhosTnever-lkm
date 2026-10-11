@@ -1,3 +1,7 @@
+## 1.2.84 - 2026-10-11
+
+- Refresh flagship links/metrics to v0.3.26 (31 releases, 50 tests, 89% coverage, 79,717-byte ZIP) and update ModRelease Gate v1.0.29 / Paradox Quality Gate v1.0.23 links.
+
 ## 1.2.83 - 2026-10-11
 
 - Refresh flagship to v0.3.25: 30 releases, 50 tests, 89% coverage, 79,670-byte ZIP, and CI-verified Ubuntu, Windows, and macOS support.
