@@ -1,3 +1,7 @@
+## 1.2.82 - 2026-10-11
+
+- Refresh flagship metrics to v0.3.24: 29 releases, 49 passing tests, 89% line coverage, and the 78,763-byte ZIP.
+
 ## 1.2.81 - 2026-10-11
 
 - Refresh flagship metrics to v0.3.23: 28 releases, 46 passing tests, 88% line coverage, and the 77,238-byte ZIP.
