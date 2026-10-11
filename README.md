@@ -18,18 +18,18 @@
 
 | Метрика | Значение |
 |:--|:--|
-| Выпущенные версии | [29 опубликованных релизов](https://github.com/GhosTnever-lkm/modrelease-studio/releases); последний — [v0.3.24 от 2026-10-11](https://github.com/GhosTnever-lkm/modrelease-studio/releases/tag/v0.3.24) |
+| Выпущенные версии | [30 опубликованных релизов](https://github.com/GhosTnever-lkm/modrelease-studio/releases); последний — [v0.3.25 от 2026-10-11](https://github.com/GhosTnever-lkm/modrelease-studio/releases/tag/v0.3.25) |
 | Успешность CI | **35/36 (97.2%)** завершённых запусков preflight успешны по состоянию на релизный коммит `928fa07` (v0.3.21); последующие docs-only проверки не входят ([workflow](https://github.com/GhosTnever-lkm/modrelease-studio/actions/workflows/preflight.yml)) |
-| Автотесты | [49/49 тестов прошли](https://github.com/GhosTnever-lkm/modrelease-studio/tree/v0.3.24/tests); Coverage.py подтверждает **89% покрытия строк**; CI блокирует результат ниже 80% |
-| Проверенная ОС | Ubuntu Linux (`ubuntu-latest`) в CI; Windows и macOS этим workflow не проверялись |
-| Python / Node.js | Python 3.11+ заявлен; CI проверяет 3.11, 3.12 и 3.13. Node.js для CLI не требуется |
-| Готовая сборка | [ZIP v0.3.24](https://github.com/GhosTnever-lkm/modrelease-studio/releases/download/v0.3.24/ModRelease-Studio-v0.3.24.zip) — **78 763 байта (76,9 KiB)** |
+| Автотесты | [50/50 тестов прошли](https://github.com/GhosTnever-lkm/modrelease-studio/tree/v0.3.25/tests); Coverage.py подтверждает **89% покрытия строк**; CI блокирует результат ниже 80% |
+| Проверенная ОС | Ubuntu, Windows и macOS проверены в CI; Windows/macOS используют Python 3.13 |
+| Python / Node.js | Python 3.11+ заявлен; CI проверяет 3.11–3.13 на Ubuntu и 3.13 на Windows/macOS. Node.js не требуется |
+| Готовая сборка | [ZIP v0.3.25](https://github.com/GhosTnever-lkm/modrelease-studio/releases/download/v0.3.25/ModRelease-Studio-v0.3.25.zip) — **79 670 байт (77,8 KiB)** |
 
 ### ⭐ Закреплённые проекты
 
 | Работа | Что решает | Установка, пример или демо |
 |:--|:--|:--|
-| [**ModRelease Studio**](https://github.com/GhosTnever-lkm/modrelease-studio) — проверка модов перед релизом | Сканирует папки и ZIP, находит ошибки упаковки и собирает отчёт без локальных родительских путей | [Quick start и пример](https://github.com/GhosTnever-lkm/modrelease-studio#quick-start) · [скриншот](https://raw.githubusercontent.com/GhosTnever-lkm/modrelease-studio/v0.3.24/docs/demo.png) · [v0.3.24](https://github.com/GhosTnever-lkm/modrelease-studio/releases/tag/v0.3.24) |
+| [**ModRelease Studio**](https://github.com/GhosTnever-lkm/modrelease-studio) — проверка модов перед релизом | Сканирует папки и ZIP, находит ошибки упаковки и собирает отчёт без локальных родительских путей | [Quick start и пример](https://github.com/GhosTnever-lkm/modrelease-studio#quick-start) · [скриншот](https://raw.githubusercontent.com/GhosTnever-lkm/modrelease-studio/v0.3.25/docs/demo.png) · [v0.3.25](https://github.com/GhosTnever-lkm/modrelease-studio/releases/tag/v0.3.25) |
 | [**ModRelease Gate**](https://github.com/GhosTnever-lkm/modrelease-studio-action) — релизный gate в GitHub Actions | Запускает preflight на pull request, показывает annotations и сохраняет отчёты | [Quick start](https://github.com/GhosTnever-lkm/modrelease-studio-action#quick-start) · [пример policy](https://github.com/GhosTnever-lkm/modrelease-studio-action/tree/main/examples/policy-project) · [v1.0.28](https://github.com/GhosTnever-lkm/modrelease-studio-action/releases/tag/v1.0.28) |
 | [**Paradox Mod Quality Gate**](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate) — единая проверка Paradox-модов | Объединяет сканеры, формирует JSON/Markdown и блокирует релиз по правилам | [README и пример workflow](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate) · [v1.0.22](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate/releases/tag/v1.0.22) |
 | [**BugBundle**](https://github.com/GhosTnever-lkm/bugbundle) — очищенный crash-report | Собирает заметки и логи локально; скрывает типовые секреты и credentials в ссылках | [демо](https://ghostnever-lkm.github.io/bugbundle/) · [offline ZIP v1.0.6](https://github.com/GhosTnever-lkm/bugbundle/releases/download/v1.0.6/BugBundle-v1.0.6.zip) · [screenshot](https://raw.githubusercontent.com/GhosTnever-lkm/bugbundle/v1.0.6/docs/bugbundle-preview.png) |
@@ -37,7 +37,7 @@
 | [**Mod Threat Lens**](https://github.com/GhosTnever-lkm/mod-threat-lens) — первичный triage модов | Локально ищет подозрительные признаки в исходниках, бинарных файлах и архивах; не заменяет антивирус | [Quick start](https://github.com/GhosTnever-lkm/mod-threat-lens#quick-start) · [fixture](https://github.com/GhosTnever-lkm/mod-threat-lens/tree/v0.1.4/examples/fixture-mod) · [скриншот отчёта](https://raw.githubusercontent.com/GhosTnever-lkm/mod-threat-lens/v0.1.4/docs/report-preview.png) · [v0.1.4](https://github.com/GhosTnever-lkm/mod-threat-lens/releases/tag/v0.1.4) |
 
 <p align="center">
-  <a href="https://github.com/GhosTnever-lkm/modrelease-studio"><img src="https://raw.githubusercontent.com/GhosTnever-lkm/modrelease-studio/v0.3.24/docs/demo.png" alt="ModRelease Studio command-line scan example" width="47%"></a>
+  <a href="https://github.com/GhosTnever-lkm/modrelease-studio"><img src="https://raw.githubusercontent.com/GhosTnever-lkm/modrelease-studio/v0.3.25/docs/demo.png" alt="ModRelease Studio command-line scan example" width="47%"></a>
   <a href="https://ghostnever-lkm.github.io/bugbundle/"><img src="https://raw.githubusercontent.com/GhosTnever-lkm/bugbundle/v1.0.6/docs/bugbundle-preview.png" alt="BugBundle local crash-report builder and privacy preview" width="47%"></a>
 </p>
 
@@ -57,7 +57,7 @@
 
 ```bash
 # Проверить папку мода и сохранить оба отчёта
-python -m pip install "modrelease-studio @ git+https://github.com/GhosTnever-lkm/modrelease-studio.git@v0.3.24"
+python -m pip install "modrelease-studio @ git+https://github.com/GhosTnever-lkm/modrelease-studio.git@v0.3.25"
 modrelease scan ./my-mod --md-out report.md --json-out report.json
 
 # Сравнить английскую и русскую локализации
@@ -69,7 +69,7 @@ game-text-gate --source locales/en.json --target locales/ru.json --report markdo
 
 ### 🛡️ Качество и безопасность игровых модов
 
-- **ModRelease Studio v0.3.24** — проверка папки или ZIP перед выпуском: упаковка, секреты, метаданные, сравнение сборок и отчёты без локальных родительских путей. [Сайт и демо](https://ghostnever-lkm.github.io/modrelease-studio/) · [релиз v0.3.24](https://github.com/GhosTnever-lkm/modrelease-studio/releases/tag/v0.3.24) · [скачать ZIP](https://github.com/GhosTnever-lkm/modrelease-studio/releases/download/v0.3.24/ModRelease-Studio-v0.3.24.zip)
+- **ModRelease Studio v0.3.25** — проверка папки или ZIP перед выпуском: упаковка, секреты, метаданные, сравнение сборок и отчёты без локальных родительских путей. [Сайт и демо](https://ghostnever-lkm.github.io/modrelease-studio/) · [релиз v0.3.25](https://github.com/GhosTnever-lkm/modrelease-studio/releases/tag/v0.3.25) · [скачать ZIP](https://github.com/GhosTnever-lkm/modrelease-studio/releases/download/v0.3.25/ModRelease-Studio-v0.3.25.zip)
 - **Mod Threat Lens v0.1.4** — локальная эвристическая проверка скриптов, бинарных файлов и ZIP-архивов. Это инструмент первичного анализа, а не антивирус и не вердикт о безопасности. [репозиторий](https://github.com/GhosTnever-lkm/mod-threat-lens) · [релиз](https://github.com/GhosTnever-lkm/mod-threat-lens/releases/tag/v0.1.4) · [скачать ZIP](https://github.com/GhosTnever-lkm/mod-threat-lens/releases/download/v0.1.4/mod-threat-lens-v0.1.4.zip)
 
 ### 🚀 Готовые инструменты
@@ -126,7 +126,7 @@ game-text-gate --source locales/en.json --target locales/ru.json --report markdo
 | [DiffShield](https://github.com/GhosTnever-lkm/diffshield-action) · [релиз v1.0.1](https://github.com/GhosTnever-lkm/diffshield-action/releases/tag/v1.0.1) | Проверяет pull request на распространённые риски в GitHub Actions |
 | [ModLocale](https://github.com/GhosTnever-lkm/clausewitz-loc-guard) · [релиз v1.0.2](https://github.com/GhosTnever-lkm/clausewitz-loc-guard/releases/tag/v1.0.2) · [ZIP](https://github.com/GhosTnever-lkm/clausewitz-loc-guard/releases/download/v1.0.2/ModLocale-v1.0.2.zip) · [демо](https://ghostnever-lkm.github.io/clausewitz-loc-guard/?demo) | Проверяет ключи, дубли, BOM и игровые маркеры в локализации модов Clausewitz и Paradox |
 | [ModPack Inspector](https://github.com/GhosTnever-lkm/modpack-inspector) · [демо](https://ghostnever-lkm.github.io/modpack-inspector/?demo) · [релиз v0.1.1](https://github.com/GhosTnever-lkm/modpack-inspector/releases/tag/v0.1.1) · [ZIP](https://github.com/GhosTnever-lkm/modpack-inspector/releases/latest/download/ModPack-Inspector-0.1.1.zip) | Проверяет структуру ZIP-архива мода перед установкой; отмечает опасные пути, дубли и лишние папки |
-| [ModRelease Studio](https://github.com/GhosTnever-lkm/modrelease-studio) · [релиз v0.3.24](https://github.com/GhosTnever-lkm/modrelease-studio/releases/tag/v0.3.24) · [скачать ZIP](https://github.com/GhosTnever-lkm/modrelease-studio/releases/download/v0.3.24/ModRelease-Studio-v0.3.24.zip) | Ищет ошибки упаковки и секреты, сравнивает сборки и формирует отчёт перед выпуском без локальных родительских путей |
+| [ModRelease Studio](https://github.com/GhosTnever-lkm/modrelease-studio) · [релиз v0.3.25](https://github.com/GhosTnever-lkm/modrelease-studio/releases/tag/v0.3.25) · [скачать ZIP](https://github.com/GhosTnever-lkm/modrelease-studio/releases/download/v0.3.25/ModRelease-Studio-v0.3.25.zip) | Ищет ошибки упаковки и секреты, сравнивает сборки и формирует отчёт перед выпуском без локальных родительских путей |
 | [ModRelease Gate](https://github.com/GhosTnever-lkm/modrelease-studio-action) · [релиз v1.0.28](https://github.com/GhosTnever-lkm/modrelease-studio-action/releases/tag/v1.0.28) | Добавляет annotations для preflight-проверок и выгружаемые JSON/Markdown отчёты в GitHub Actions |
 | [Mod Observatory](https://github.com/GhosTnever-lkm/mod-observatory) · [открыть приложение](https://ghostnever-lkm.github.io/mod-observatory/) · [скачать v0.2.0](https://github.com/GhosTnever-lkm/mod-observatory/releases/download/v0.2.0/mod-observatory-0.2.0.zip) · [релиз](https://github.com/GhosTnever-lkm/mod-observatory/releases/tag/v0.2.0) | Анализирует коллекции модов, зависимости, порядок загрузки, общие пути и изменения между снимками |
 | [ModForge Studio](https://github.com/GhosTnever-lkm/modforge-studio) · [открыть приложение](https://ghostnever-lkm.github.io/modforge-studio/) · [релиз v0.1.2](https://github.com/GhosTnever-lkm/modforge-studio/releases/tag/v0.1.2) | Локальная мастерская для проверки модов, зависимостей и сборки релизного ZIP; экспериментальная версия |

@@ -1,3 +1,7 @@
+## 1.2.83 - 2026-10-11
+
+- Refresh flagship to v0.3.25: 30 releases, 50 tests, 89% coverage, 79,670-byte ZIP, and CI-verified Ubuntu, Windows, and macOS support.
+
 ## 1.2.82 - 2026-10-11
 
 - Refresh flagship metrics to v0.3.24: 29 releases, 49 passing tests, 89% line coverage, and the 78,763-byte ZIP.
