@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.75 - 2026-10-11
+
+- Add dated, source-linked ModRelease Studio release, CI, test, runtime, OS, and ZIP-size metrics; explicitly disclose unmeasured line coverage.
+
 ## 1.2.74 - 2026-10-11
 
 - Point Mod Threat Lens links and the profile image gallery to release v0.1.4.

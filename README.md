@@ -12,6 +12,19 @@
   <a href="https://github.com/GhosTnever-lkm?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhosTnever-lkm&layout=compact&langs_count=6&theme=transparent" alt="Top languages across public repositories" height="165"></a>
 </p>
 
+### 📊 Проверенные показатели флагмана · ModRelease Studio
+
+*Сверено 2026-10-11; это показатели именно флагмана, а не всех репозиториев.*
+
+| Метрика | Значение |
+|:--|:--|
+| Выпущенные версии | [23 опубликованных релиза](https://github.com/GhosTnever-lkm/modrelease-studio/releases); последний — [v0.3.18 от 2026-10-11](https://github.com/GhosTnever-lkm/modrelease-studio/releases/tag/v0.3.18) |
+| Успешность CI | **32/33 (97.0%)** завершённых запусков preflight workflow успешны; знаменатель включает всю историю workflow на момент проверки ([workflow](https://github.com/GhosTnever-lkm/modrelease-studio/actions/workflows/preflight.yml)) |
+| Автотесты | [28/28 тестов прошли](https://github.com/GhosTnever-lkm/modrelease-studio/tree/v0.3.18/tests); процент покрытия строк пока не измеряется |
+| Проверенная ОС | Ubuntu Linux (`ubuntu-latest`) в CI; Windows и macOS этим workflow не проверялись |
+| Python / Node.js | Python 3.11+ заявлен; CI проверяет 3.11 и 3.12. Node.js для CLI не требуется |
+| Готовая сборка | [ZIP v0.3.18](https://github.com/GhosTnever-lkm/modrelease-studio/releases/download/v0.3.18/ModRelease-Studio-v0.3.18.zip) — **63 064 байта (61,6 KiB)** |
+
 ### ⭐ Закреплённые проекты
 
 | Работа | Что решает | Установка, пример или демо |
