@@ -1,3 +1,7 @@
+## 1.2.142 - 2026-10-11
+
+- Add Git Churn Map v0.1.0 with a synthetic report example and checked release ZIP.
+
 ## 1.2.141 - 2026-10-11
 
 - Add CSV Merge Review v0.1.0 with example fixtures, release archive, and conservative conflict handling.
