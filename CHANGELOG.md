@@ -1,3 +1,7 @@
+# 1.2.207 - 2026-10-13
+
+- Update dotenv-check to v0.1.2 with verified wheel and SHA-256 links and current privacy/strict-mode behavior.
+
 # 1.2.206 - 2026-10-13
 
 - Update License Lint to v0.1.2 with verified wheel and SHA-256 links and current manifest coverage.
