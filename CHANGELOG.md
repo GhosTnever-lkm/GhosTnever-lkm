@@ -1,3 +1,7 @@
+## 1.2.172 - 2026-10-12
+
+- Sync flagship releases, scanner package metadata fix, release count, and six-job CI evidence across the profile README.
+
 ## 1.2.171 - 2026-10-12
 
 - Refresh flagship metrics and links for ModRelease Studio v0.3.65, ModRelease Gate v1.0.51, and Paradox Quality Gate v1.0.48.
