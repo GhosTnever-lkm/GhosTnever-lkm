@@ -1,3 +1,7 @@
+## 1.2.171 - 2026-10-12
+
+- Refresh flagship metrics and links for ModRelease Studio v0.3.65, ModRelease Gate v1.0.51, and Paradox Quality Gate v1.0.48.
+
 ## 1.2.170 - 2026-10-12
 
 - Refresh flagship release count, CI run, download link, and the current scanner, Action, and Quality Gate versions.
