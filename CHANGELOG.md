@@ -1,3 +1,7 @@
+## 1.2.183 - 2026-10-12
+
+- Update ModRelease Studio to v0.3.71 and linked release-gate tools to v1.0.57 and v1.0.55.
+
 ## 1.2.182 - 2026-10-12
 
 - Update ModRelease Gate to v1.0.56 and pin its scanner to v0.3.70.
