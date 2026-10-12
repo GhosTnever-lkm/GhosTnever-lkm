@@ -350,6 +350,10 @@
 
 # Changelog
 
+## 1.2.165 - 2026-10-12
+
+- Refresh the ModRelease Studio, Action, and Paradox Gate links and scanner versions to the latest releases.
+
 ## 1.2.127 - 2026-10-11
 
 - Refresh flagship metrics and release links to ModRelease Studio v0.3.50 (55 releases, 64/65 CI snapshot, 64 tests, 93% coverage, 36,761-byte ZIP).
