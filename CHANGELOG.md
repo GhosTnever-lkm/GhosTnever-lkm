@@ -1,3 +1,7 @@
+# 1.2.194 - 2026-10-12
+
+- Update DiffShield Action to v1.0.4.
+
 # 1.2.193 - 2026-10-12
 
 - Update Subtitle Timing Studio to v1.0.3.
