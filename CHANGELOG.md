@@ -1,3 +1,7 @@
+# 1.2.213 - 2026-10-13
+
+- Update the flagship profile to ModRelease Studio v0.3.75 with current CI status, release archive size, and SHA-256 download link.
+
 # 1.2.212 - 2026-10-13
 
 - Update changelog-lint to v0.1.3 with SemVer prerelease ordering, fenced-code handling, and verified wheel/checksum links.
