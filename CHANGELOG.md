@@ -1,3 +1,7 @@
+## 1.2.163 - 2026-10-12
+
+- Sync profile links to Paradox Mod Quality Gate v1.0.43.
+
 ## 1.2.162 - 2026-10-12
 
 - Sync profile links to ModRelease Gate v1.0.46.
