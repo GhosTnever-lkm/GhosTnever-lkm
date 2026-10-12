@@ -350,6 +350,10 @@
 
 # Changelog
 
+## 1.2.167 - 2026-10-12
+
+- Correct the ModRelease Studio v0.3.62 test summary and highlight fine-grained GitHub token detection.
+
 ## 1.2.166 - 2026-10-12
 
 - Update the profile links to the green ModRelease Gate v1.0.48 release and current scanner/gate versions.
