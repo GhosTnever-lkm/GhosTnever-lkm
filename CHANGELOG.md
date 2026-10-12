@@ -1,3 +1,11 @@
+## 1.2.182 - 2026-10-12
+
+- Update ModRelease Gate to v1.0.56 and pin its scanner to v0.3.70.
+
+## 1.2.181 - 2026-10-12
+
+- Update ModRelease Studio to v0.3.70 and Paradox Mod Quality Gate to v1.0.54 after verified releases.
+
 ## 1.2.180 - 2026-10-12
 
 - Update Paradox Mod Quality Gate to v1.0.53 and Workbench to v0.2.5.
