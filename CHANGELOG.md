@@ -1,3 +1,7 @@
+## 1.2.185 - 2026-10-12
+
+- Update Asset Sieve links to the v0.1.5 release.
+
 ## 1.2.184 - 2026-10-12
 
 - Update AudioScribe Studio to verified release v0.1.5.
