@@ -1,3 +1,7 @@
+## 1.2.188 - 2026-10-12
+
+- Update Paradox Mod Quality Gate to v1.0.56 while keeping its paid Windows Pro offer linked.
+
 ## 1.2.187 - 2026-10-12
 
 - Update flagship ModRelease Studio to v0.3.72 and refresh its verified CI and release metrics.
