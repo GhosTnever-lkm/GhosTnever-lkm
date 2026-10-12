@@ -1,3 +1,7 @@
+## 1.2.170 - 2026-10-12
+
+- Refresh flagship release count, CI run, download link, and the current scanner, Action, and Quality Gate versions.
+
 ## 1.2.169 - 2026-10-12
 
 - Refresh GameText Gate links and the example profile installation reference to v0.1.15.
@@ -733,4 +737,3 @@
 ## 1.2.160 - 2026-10-12
 
 - Refresh Mod Threat Lens profile links and downloadable release to v0.1.9 after synchronizing its package version metadata.
-
