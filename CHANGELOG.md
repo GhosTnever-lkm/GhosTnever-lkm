@@ -1,3 +1,7 @@
+## 1.2.175 - 2026-10-12
+
+- Link Subtitle Timing Studio v1.0.2 and its current downloadable release archive.
+
 ## 1.2.174 - 2026-10-12
 
 - Обновить ссылки на интеграции ModRelease Studio v0.3.68 и их текущие релизы.
