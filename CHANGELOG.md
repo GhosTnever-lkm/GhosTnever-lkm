@@ -1,3 +1,7 @@
+## 1.2.173 - 2026-10-12
+
+- Sync the flagship to ModRelease Studio v0.3.68 and refresh the CI run evidence and current integration links.
+
 ## 1.2.172 - 2026-10-12
 
 - Sync flagship releases, scanner package metadata fix, release count, and six-job CI evidence across the profile README.
