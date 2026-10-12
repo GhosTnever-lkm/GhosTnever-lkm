@@ -1,3 +1,7 @@
+## 1.2.174 - 2026-10-12
+
+- Обновить ссылки на интеграции ModRelease Studio v0.3.68 и их текущие релизы.
+
 ## 1.2.173 - 2026-10-12
 
 - Sync the flagship to ModRelease Studio v0.3.68 and refresh the CI run evidence and current integration links.
