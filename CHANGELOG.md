@@ -1,3 +1,7 @@
+## 1.2.168 - 2026-10-12
+
+- Sync the flagship profile links and release metrics to ModRelease Studio v0.3.63, ModRelease Gate v1.0.49, and Paradox Mod Quality Gate v1.0.46.
+
 ## 1.2.164 - 2026-10-12
 
 - Sync profile links to Paradox Mod Workbench v0.2.4 and Quality Gate v1.0.44.
