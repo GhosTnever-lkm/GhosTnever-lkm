@@ -1,3 +1,7 @@
+# 1.2.209 - 2026-10-13
+
+- Update CSV Merge Review to v0.1.2 with verified wheel and SHA-256 links and clearer conflict reporting.
+
 # 1.2.208 - 2026-10-13
 
 - Update dockerfile-lint to v0.1.2 with verified wheel and SHA-256 links and expanded Dockerfile parsing coverage.
