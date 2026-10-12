@@ -1,3 +1,7 @@
+# 1.2.198 - 2026-10-12
+
+- Update GhosTnever Mega Toolkit to v1.1.4 and note Windows/Linux CI coverage.
+
 # 1.2.197 - 2026-10-12
 
 - Update Docs from Code to v1.0.1 and link to the actual GitHub source archive.
