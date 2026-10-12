@@ -1,3 +1,7 @@
+## 1.2.178 - 2026-10-12
+
+- Update ModRelease Gate links to the verified v1.0.55 release.
+
 ## 1.2.177 - 2026-10-12
 
 - Update ModRelease Studio to v0.3.69 with the successful six-job preflight, 74 published releases, and current download size.
