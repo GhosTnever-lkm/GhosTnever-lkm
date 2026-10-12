@@ -1,3 +1,7 @@
+# 1.2.192 - 2026-10-12
+
+- Update AudioScribe Studio to v0.1.6 and describe verified resume behavior.
+
 ## 1.2.190 - 2026-10-12
 
 - Update TabHarbor to v0.1.2.

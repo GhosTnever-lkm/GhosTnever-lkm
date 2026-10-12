@@ -75,7 +75,7 @@ game-text-gate --source locales/en.json --target locales/ru.json --report markdo
 
 ### 🚀 Готовые инструменты
 
-[AudioScribe Studio](https://github.com/GhosTnever-lkm/audioscribe-studio) · [релиз v0.1.5](https://github.com/GhosTnever-lkm/audioscribe-studio/releases/tag/v0.1.5) · [анонс](https://boosty.to/azizazimov/posts/8bf27107-2627-4292-8589-3191fff70838) | Локальное приложение для расшифровки аудио через faster-whisper: файлы до 5 ГБ, возобновляемая загрузка, экспорт TXT/SRT/VTT/JSON; обработка на компьютере.
+[AudioScribe Studio](https://github.com/GhosTnever-lkm/audioscribe-studio) · [релиз v0.1.6](https://github.com/GhosTnever-lkm/audioscribe-studio/releases/tag/v0.1.6) · [анонс](https://boosty.to/azizazimov/posts/8bf27107-2627-4292-8589-3191fff70838) | Локальная расшифровка аудио через faster-whisper: файлы до 5 ГБ, загрузка с безопасной проверкой содержимого при продолжении, экспорт TXT/SRT/VTT/JSON; обработка на компьютере.
 
 
 
