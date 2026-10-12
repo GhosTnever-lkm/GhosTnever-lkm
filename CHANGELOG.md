@@ -1,3 +1,7 @@
+# 1.2.195 - 2026-10-12
+
+- Update Mod Observatory links to v0.2.4.
+
 # 1.2.194 - 2026-10-12
 
 - Update DiffShield Action to v1.0.4.
