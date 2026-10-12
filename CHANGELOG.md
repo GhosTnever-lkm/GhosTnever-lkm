@@ -694,3 +694,7 @@
 - Add Subtitle Timing Studio v1.0.1 with live demo, release, and public Boosty announcement.
 
 
+## 1.2.160 - 2026-10-12
+
+- Refresh Mod Threat Lens profile links and downloadable release to v0.1.9 after synchronizing its package version metadata.
+
