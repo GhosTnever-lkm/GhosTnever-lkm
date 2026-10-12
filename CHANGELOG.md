@@ -1,3 +1,7 @@
+## 1.2.179 - 2026-10-12
+
+- Update Paradox Mod Quality Gate links to verified v1.0.52 and keep the Pro kit description aligned with its current release.
+
 ## 1.2.178 - 2026-10-12
 
 - Update ModRelease Gate links to the verified v1.0.55 release.
