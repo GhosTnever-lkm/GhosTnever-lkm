@@ -1,3 +1,7 @@
+## 1.2.190 - 2026-10-12
+
+- Update TabHarbor to v0.1.2.
+
 ## 1.2.189 - 2026-10-12
 
 - Update RepoSignal to v1.0.3.
