@@ -1,3 +1,7 @@
+# 1.2.199 - 2026-10-12
+
+- Update Git Churn Map to the verified v0.1.3 release and its Windows/Linux CI coverage.
+
 # 1.2.198 - 2026-10-12
 
 - Update GhosTnever Mega Toolkit to v1.1.4 and note Windows/Linux CI coverage.
