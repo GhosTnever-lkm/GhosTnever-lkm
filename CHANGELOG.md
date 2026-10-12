@@ -1,3 +1,7 @@
+## 1.2.162 - 2026-10-12
+
+- Sync profile links to ModRelease Gate v1.0.46.
+
 ## 1.2.161 - 2026-10-12
 
 - Update WorkflowGuard release link to v1.0.4 with installable wheel and checksum assets.
