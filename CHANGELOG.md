@@ -1,3 +1,7 @@
+# 1.2.210 - 2026-10-13
+
+- Update codeowners-lint to v0.1.2 with GitHub-compatible CODEOWNERS precedence and verified wheel/checksum links.
+
 # 1.2.209 - 2026-10-13
 
 - Update CSV Merge Review to v0.1.2 with verified wheel and SHA-256 links and clearer conflict reporting.
