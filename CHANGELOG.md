@@ -1,3 +1,7 @@
+# 1.2.197 - 2026-10-12
+
+- Update Docs from Code to v1.0.1 and link to the actual GitHub source archive.
+
 # 1.2.196 - 2026-10-12
 
 - Update the flagship release, CI evidence, checksum, and download links to ModRelease Studio v0.3.74.
