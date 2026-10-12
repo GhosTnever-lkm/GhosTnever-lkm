@@ -1,3 +1,7 @@
+# 1.2.214 - 2026-10-13
+
+- Update ModRelease Gate links to the verified v1.0.59 release.
+
 # 1.2.213 - 2026-10-13
 
 - Update the flagship profile to ModRelease Studio v0.3.75 with current CI status, release archive size, and SHA-256 download link.
