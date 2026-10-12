@@ -1,3 +1,7 @@
+## 1.2.177 - 2026-10-12
+
+- Update ModRelease Studio to v0.3.69 with the successful six-job preflight, 74 published releases, and current download size.
+
 ## 1.2.176 - 2026-10-12
 
 - Correct release labels in the portfolio table to match verified latest GitHub tags.
