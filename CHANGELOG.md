@@ -1,3 +1,7 @@
+# 1.2.212 - 2026-10-13
+
+- Update changelog-lint to v0.1.3 with SemVer prerelease ordering, fenced-code handling, and verified wheel/checksum links.
+
 # 1.2.210 - 2026-10-13
 
 - Update codeowners-lint to v0.1.2 with GitHub-compatible CODEOWNERS precedence and verified wheel/checksum links.
