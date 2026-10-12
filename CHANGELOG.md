@@ -1,3 +1,7 @@
+# 1.2.196 - 2026-10-12
+
+- Update the flagship release, CI evidence, checksum, and download links to ModRelease Studio v0.3.74.
+
 # 1.2.195 - 2026-10-12
 
 - Update Mod Observatory links to v0.2.4.
