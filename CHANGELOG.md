@@ -1,3 +1,7 @@
+## 1.2.161 - 2026-10-12
+
+- Update WorkflowGuard release link to v1.0.4 with installable wheel and checksum assets.
+
 ## 1.2.159 - 2026-10-12
 
 - Sync ModRelease Gate to v1.0.45 and document its default scanner v0.3.61.
