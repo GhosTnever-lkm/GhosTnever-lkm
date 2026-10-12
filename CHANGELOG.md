@@ -1,3 +1,7 @@
+# 1.2.201 - 2026-10-12
+
+- Correct CommitCraft's profile links to the verified v1.0.4 release and GitHub source archive.
+
 # 1.2.200 - 2026-10-12
 
 - Update CSV Key Diff to the verified v0.1.4 release with matching CLI and package metadata.
