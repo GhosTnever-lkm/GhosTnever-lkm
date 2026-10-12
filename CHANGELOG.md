@@ -1,3 +1,7 @@
+## 1.2.187 - 2026-10-12
+
+- Update flagship ModRelease Studio to v0.3.72 and refresh its verified CI and release metrics.
+
 ## 1.2.186 - 2026-10-12
 
 - Update Agent Run Lens to the v1.0.1 release.
