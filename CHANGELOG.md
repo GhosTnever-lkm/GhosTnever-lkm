@@ -1,3 +1,7 @@
+## 1.2.180 - 2026-10-12
+
+- Update Paradox Mod Quality Gate to v1.0.53 and Workbench to v0.2.5.
+
 ## 1.2.179 - 2026-10-12
 
 - Update Paradox Mod Quality Gate links to verified v1.0.52 and keep the Pro kit description aligned with its current release.
