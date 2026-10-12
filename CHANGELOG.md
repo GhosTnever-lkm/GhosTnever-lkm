@@ -1,3 +1,7 @@
+# 1.2.202 - 2026-10-13
+
+- Update tracked-artifacts-check to v0.1.2 and replace stale v0.1.0 download links.
+
 # 1.2.201 - 2026-10-12
 
 - Correct CommitCraft's profile links to the verified v1.0.4 release and GitHub source archive.
