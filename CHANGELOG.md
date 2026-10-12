@@ -1,3 +1,7 @@
+## 1.2.184 - 2026-10-12
+
+- Update AudioScribe Studio to verified release v0.1.5.
+
 ## 1.2.183 - 2026-10-12
 
 - Update ModRelease Studio to v0.3.71 and linked release-gate tools to v1.0.57 and v1.0.55.
