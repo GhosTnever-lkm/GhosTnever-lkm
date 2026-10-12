@@ -1,3 +1,7 @@
+## 1.2.164 - 2026-10-12
+
+- Sync profile links to Paradox Mod Workbench v0.2.4 and Quality Gate v1.0.44.
+
 ## 1.2.163 - 2026-10-12
 
 - Sync profile links to Paradox Mod Quality Gate v1.0.43.
