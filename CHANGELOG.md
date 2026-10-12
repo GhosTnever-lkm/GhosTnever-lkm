@@ -1,3 +1,7 @@
+# 1.2.200 - 2026-10-12
+
+- Update CSV Key Diff to the verified v0.1.4 release with matching CLI and package metadata.
+
 # 1.2.199 - 2026-10-12
 
 - Update Git Churn Map to the verified v0.1.3 release and its Windows/Linux CI coverage.
