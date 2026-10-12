@@ -1,6 +1,10 @@
+# 1.2.203 - 2026-10-13
+
+- Link the tracked-artifacts-check wheel and verified SHA-256 manifest in place of the source ZIP.
+
 # 1.2.202 - 2026-10-13
 
-- Update tracked-artifacts-check to v0.1.2 and replace stale v0.1.0 download links.
+- Update tracked-artifacts-check to v0.1.2 and link its verified wheel and SHA-256 manifest.
 
 # 1.2.201 - 2026-10-12
 
