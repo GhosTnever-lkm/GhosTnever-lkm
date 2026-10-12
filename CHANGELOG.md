@@ -1,3 +1,7 @@
+## 1.2.169 - 2026-10-12
+
+- Refresh GameText Gate links and the example profile installation reference to v0.1.15.
+
 ## 1.2.168 - 2026-10-12
 
 - Sync the flagship profile links and release metrics to ModRelease Studio v0.3.63, ModRelease Gate v1.0.49, and Paradox Mod Quality Gate v1.0.46.
