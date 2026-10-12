@@ -1,3 +1,7 @@
+## 1.2.159 - 2026-10-12
+
+- Sync ModRelease Gate to v1.0.45 and document its default scanner v0.3.61.
+
 ## 1.2.158 - 2026-10-12
 
 - Sync Paradox Mod Quality Gate to v1.0.42 and ModRelease Studio v0.3.61.
