@@ -1,3 +1,7 @@
+# 1.2.204 - 2026-10-13
+
+- Update todo-scan to v0.1.2 with verified wheel and SHA-256 links and current test coverage.
+
 # 1.2.203 - 2026-10-13
 
 - Link the tracked-artifacts-check wheel and verified SHA-256 manifest in place of the source ZIP.
