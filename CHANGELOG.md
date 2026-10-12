@@ -350,6 +350,10 @@
 
 # Changelog
 
+## 1.2.166 - 2026-10-12
+
+- Update the profile links to the green ModRelease Gate v1.0.48 release and current scanner/gate versions.
+
 ## 1.2.165 - 2026-10-12
 
 - Refresh the ModRelease Studio, Action, and Paradox Gate links and scanner versions to the latest releases.
