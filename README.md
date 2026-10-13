@@ -99,7 +99,7 @@ game-text-gate --source locales/en.json --target locales/ru.json --report markdo
 
 [CalWeave](https://github.com/GhosTnever-lkm/calweave) · [демо](https://ghostnever-lkm.github.io/calweave/) · [релиз v0.1.2](https://github.com/GhosTnever-lkm/calweave/releases/tag/v0.1.2) · [скачать ZIP](https://github.com/GhosTnever-lkm/calweave/releases/download/v0.1.2/CalWeave-v0.1.2.zip) · [анонс](https://boosty.to/azizazimov/posts/2a1eef18-244b-478b-a9bc-b351d425b4f9) | Локально импортирует календарь ICS, показывает пересечения событий и свободные интервалы и экспортирует результат. Исправлена обработка календарных дат ранних лет; повторяющиеся события и расширенные часовые пояса пока не разворачиваются.
 
-[FontPair Studio](https://github.com/GhosTnever-lkm/fontpair-studio) · [демо](https://ghostnever-lkm.github.io/fontpair-studio/) · [релиз v1.0.2](https://github.com/GhosTnever-lkm/fontpair-studio/releases/tag/v1.0.2) · [скачать ZIP](https://github.com/GhosTnever-lkm/fontpair-studio/releases/download/v1.0.2/fontpair-studio-v1.0.2.zip) · [анонс](https://boosty.to/azizazimov/posts/eecfbddc-5737-4705-ad44-c7c35cdfc10b) | Локально сравнивает до шести шрифтов, помогает настроить пару для заголовка и текста и экспортирует CSS-тему. Файлы остаются в браузере.
+[FontPair Studio](https://github.com/GhosTnever-lkm/fontpair-studio) · [демо](https://ghostnever-lkm.github.io/fontpair-studio/) · [релиз v1.0.3](https://github.com/GhosTnever-lkm/fontpair-studio/releases/tag/v1.0.3) · [скачать ZIP](https://github.com/GhosTnever-lkm/fontpair-studio/releases/download/v1.0.3/fontpair-studio-v1.0.3.zip) · [анонс](https://boosty.to/azizazimov/posts/eecfbddc-5737-4705-ad44-c7c35cdfc10b) | Локально сравнивает до шести шрифтов, помогает настроить пару для заголовка и текста и экспортирует CSS-тему. Исправлены совпадающие имена CSS-токенов и лимит одновременной загрузки; файлы остаются в браузере.
 
 [Subtitle Timing Studio](https://github.com/GhosTnever-lkm/subtitle-timing-studio) · [демо](https://ghostnever-lkm.github.io/subtitle-timing-studio/) · [релиз v1.0.3](https://github.com/GhosTnever-lkm/subtitle-timing-studio/releases/tag/v1.0.3) · [анонс](https://boosty.to/azizazimov/posts/26ba016f-b853-4cf0-811a-173402c831a2) | Локальный редактор SRT/WebVTT с видео-превью, настройкой таймингов по кадру, проверкой пересечений и экспортом. Видео и субтитры остаются в браузере.
 
@@ -194,3 +194,4 @@ game-text-gate --source locales/en.json --target locales/ru.json --report markdo
 ---
 
 <p align="center"><i>Спасибо, что заглянули ✨</i></p>
+

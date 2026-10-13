@@ -1,3 +1,7 @@
+## 1.2.242 - 2026-10-13
+
+- Update FontPair Studio to v1.0.3 with distinct CSS aliases and a reliable six-font loading limit.
+
 ## 1.2.241 - 2026-10-13
 
 - Update Screenshot Diff Lab to v0.1.4 and summarize the latest-selection-wins fix.
