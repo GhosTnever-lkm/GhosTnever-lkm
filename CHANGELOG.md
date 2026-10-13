@@ -1,3 +1,7 @@
+## 1.2.236 - 2026-10-13
+
+- Update the existing HomeLedger profile entry to v0.1.2 and add the verified ZIP download link.
+
 # 1.2.235 - 2026-10-13
 
 - Update the ModLocale profile entry to v1.0.3 and describe its complete printf-placeholder checks.
