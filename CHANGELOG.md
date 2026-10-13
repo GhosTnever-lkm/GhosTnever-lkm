@@ -1,3 +1,7 @@
+# 1.2.229 - 2026-10-13
+
+- Add QuoteForge v0.1.2 with exact large-total calculation and live app/release links.
+
 # 1.2.228 - 2026-10-13
 
 - Add RegexBench v0.1.3 with current demo, source, and release links.
