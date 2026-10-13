@@ -1035,3 +1035,7 @@
 ## 1.2.249 - 2026-10-13
 
 - Update HomeLedger links to v0.1.4.
+
+## 1.2.250 - 2026-10-13
+
+- Update Paradox Mod Quality Gate to v1.0.64 and Windows Pro bundle to v1.0.8 with the verified release ZIP and Boosty offer.
