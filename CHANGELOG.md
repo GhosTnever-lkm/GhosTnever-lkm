@@ -1,3 +1,7 @@
+# 1.2.218 - 2026-10-13
+
+- Sync Paradox Mod Quality Gate v1.0.61 and Windows Pro v1.0.5 with the reproducible cross-platform package release.
+
 # 1.2.217 - 2026-10-13
 
 - Sync Paradox Mod Quality Gate v1.0.60 and Windows Pro v1.0.4 with the verified release and paid download.
