@@ -1,3 +1,7 @@
+# 1.2.219 - 2026-10-13
+
+- Update ModPack Inspector to v0.1.2 with keyboard-accessible ZIP selection and PR CI.
+
 # 1.2.218 - 2026-10-13
 
 - Sync Paradox Mod Quality Gate v1.0.61 and Windows Pro v1.0.5 with the reproducible cross-platform package release.
