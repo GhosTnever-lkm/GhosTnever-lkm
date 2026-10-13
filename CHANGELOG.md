@@ -1,3 +1,7 @@
+## 1.2.245 - 2026-10-13
+
+- Update CSV Compass links to v0.1.1 and describe strict malformed-CSV handling.
+
 ## 1.2.244 - 2026-10-13
 
 - Update ContrastKit to v1.0.2 with direct ZIP and palette-threshold fix details.
