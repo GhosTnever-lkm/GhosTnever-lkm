@@ -682,6 +682,9 @@
 
 # Changelog
 
+## 1.2.260 - 2026-10-13
+
+- Update CaptionLint to v1.0.2 with cache-busted modules and verified ZIP download.
 ## 1.2.167 - 2026-10-12
 
 - Correct the ModRelease Studio v0.3.62 test summary and highlight fine-grained GitHub token detection.
