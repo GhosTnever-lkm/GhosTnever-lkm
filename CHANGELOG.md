@@ -1,3 +1,7 @@
+# 1.2.221 - 2026-10-13
+
+- Sync BugBundle v1.0.11 links and document preservation of distinct logs with repeated filenames.
+
 # 1.2.220 - 2026-10-13
 
 - Sync ModForge Studio v0.1.3 and describe collision-safe collection archives.
