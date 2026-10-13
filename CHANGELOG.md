@@ -1,3 +1,7 @@
+# 1.2.234 - 2026-10-13
+
+- Update the HueDock profile entry to v0.1.2 while preserving its existing demo and announcement links.
+
 # 1.2.233 - 2026-10-13
 
 - Sync the flagship README examples to ModRelease Studio v0.3.77 and align the pinned showcase with the current ecosystem.
