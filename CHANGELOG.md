@@ -1,3 +1,7 @@
+# 1.2.226 - 2026-10-13
+
+- Sync VOIDFALL v1.0.7 release and offline ZIP after fixing completed-wave rewards and stale service-worker caches.
+
 # 1.2.225 - 2026-10-13
 
 - Sync Paradox Mod Quality Gate v1.0.62 and Windows Pro v1.0.6, including the updated ModRelease Studio scanner pin.
