@@ -1039,3 +1039,7 @@
 ## 1.2.250 - 2026-10-13
 
 - Update Paradox Mod Quality Gate to v1.0.64 and Windows Pro bundle to v1.0.8 with the verified release ZIP and Boosty offer.
+
+## 1.2.251 - 2026-10-13
+
+- Update AegisScan AV to v0.1.3 with replacement-race handling, stable ClamAV snapshots, and verified release links.
