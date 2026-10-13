@@ -1,3 +1,7 @@
+# 1.2.220 - 2026-10-13
+
+- Sync ModForge Studio v0.1.3 and describe collision-safe collection archives.
+
 # 1.2.219 - 2026-10-13
 
 - Update ModPack Inspector to v0.1.2 with keyboard-accessible ZIP selection and PR CI.
