@@ -1,3 +1,7 @@
+## 1.2.255 - 2026-10-13
+
+- Sync flagship metrics and paid Pro purchase link with ModRelease Studio v0.3.79.
+
 ## 1.2.254 - 2026-10-13
 
 - Add Gamepad Lab v1.0.2 with its demo, release, and source archive links.
