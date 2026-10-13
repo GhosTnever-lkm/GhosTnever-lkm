@@ -1043,3 +1043,7 @@
 ## 1.2.251 - 2026-10-13
 
 - Update AegisScan AV to v0.1.3 with replacement-race handling, stable ClamAV snapshots, and verified release links.
+## 1.2.252 - 2026-10-13
+
+- Sync the ModRelease flagship links to Studio v0.3.78, Gate Action v1.0.62, and Quality Gate v1.0.65 / Pro v1.0.9.
+- Replace stale Studio test, coverage, release-count, ZIP-size, and checksum claims with verified v0.3.78 data.
