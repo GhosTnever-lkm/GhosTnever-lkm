@@ -1,3 +1,7 @@
+# 1.2.231 - 2026-10-13
+
+- Update the existing PantryPilot listing to v0.1.3 and describe validated backup import.
+
 # 1.2.230 - 2026-10-13
 
 - Update the existing QuoteForge listing to v0.1.2 and remove the duplicate entry.
