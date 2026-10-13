@@ -1,3 +1,7 @@
+# 1.2.223 - 2026-10-13
+
+- Sync ModRelease Studio v0.3.76, current Gate v1.0.59, release metrics, and verified archive checksum.
+
 # 1.2.222 - 2026-10-13
 
 - Sync SaveHarbor v1.1.1 and document the case-collision restore guard.
