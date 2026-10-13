@@ -1,3 +1,7 @@
+# 1.2.227 - 2026-10-13
+
+- Sync VOIDFALL v1.0.8 release and save-failure warning.
+
 # 1.2.226 - 2026-10-13
 
 - Sync VOIDFALL v1.0.7 release and offline ZIP after fixing completed-wave rewards and stale service-worker caches.
