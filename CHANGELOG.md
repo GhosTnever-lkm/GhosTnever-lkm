@@ -1,3 +1,7 @@
+## 1.2.261 - 2026-10-13
+
+- Update Release Checklist to v1.0.2 with self-check, CI and regression-test details.
+
 ## 1.2.259 - 2026-10-13
 
 - Update DSH GhostNever Toolkit to v1.0.3 with the current release ZIP and CSV quoting fix.
