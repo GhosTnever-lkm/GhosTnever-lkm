@@ -1,3 +1,7 @@
+## 1.2.262 - 2026-10-13
+
+- Add Clausewitz Log Doctor v0.2.0 with the live app, source ZIP, and checksum.
+
 ## 1.2.261 - 2026-10-13
 
 - Update Release Checklist to v1.0.2 with self-check, CI and regression-test details.
