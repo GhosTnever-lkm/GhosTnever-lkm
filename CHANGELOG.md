@@ -1,3 +1,7 @@
+# 1.2.224 - 2026-10-13
+
+- Sync ModRelease Studio v0.3.77 and Gate v1.0.60; verify release archive size and SHA-256.
+
 # 1.2.223 - 2026-10-13
 
 - Sync ModRelease Studio v0.3.76, current Gate v1.0.59, release metrics, and verified archive checksum.
