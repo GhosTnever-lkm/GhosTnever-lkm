@@ -1,3 +1,7 @@
+# 1.2.232 - 2026-10-13
+
+- Refresh the existing LocaleLens listing to v0.1.5 and link to the actual GitHub source archive.
+
 # 1.2.231 - 2026-10-13
 
 - Update the existing PantryPilot listing to v0.1.3 and describe validated backup import.
