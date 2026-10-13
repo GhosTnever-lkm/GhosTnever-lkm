@@ -1,3 +1,7 @@
+## 1.2.240 - 2026-10-13
+
+- Update HomeLedger to v0.1.3 with verified release links and backup recovery fixes.
+
 ## 1.2.239 - 2026-10-13
 
 - Sync the ModRelease flagship family to Gate v1.0.63, Studio Action v1.0.61, Workbench v0.2.7, and Pro v1.0.7.
