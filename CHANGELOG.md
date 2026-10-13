@@ -1,3 +1,7 @@
+## 1.2.253 - 2026-10-13
+
+- Update ShaderTriage release link to v0.1.1.
+
 ## 1.2.245 - 2026-10-13
 
 - Update CSV Compass links to v0.1.1 and describe strict malformed-CSV handling.
