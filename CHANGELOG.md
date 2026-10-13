@@ -1,3 +1,7 @@
+# 1.2.230 - 2026-10-13
+
+- Update the existing QuoteForge listing to v0.1.2 and remove the duplicate entry.
+
 # 1.2.229 - 2026-10-13
 
 - Add QuoteForge v0.1.2 with exact large-total calculation and live app/release links.
