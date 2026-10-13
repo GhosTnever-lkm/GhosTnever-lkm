@@ -1032,3 +1032,6 @@
 ## 1.2.248 - 2026-10-13
 
 - Update PingScope links to v0.2.3 and its Windows download.
+## 1.2.249 - 2026-10-13
+
+- Update HomeLedger links to v0.1.4.
