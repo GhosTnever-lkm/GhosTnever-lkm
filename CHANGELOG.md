@@ -1,3 +1,7 @@
+## 1.2.237 - 2026-10-13
+
+- Update the CueGrid profile entry to v0.2.2 with a direct ZIP link and concise fix summary.
+
 ## 1.2.236 - 2026-10-13
 
 - Update the existing HomeLedger profile entry to v0.1.2 and add the verified ZIP download link.
