@@ -1,3 +1,7 @@
+# 1.2.233 - 2026-10-13
+
+- Sync the flagship README examples to ModRelease Studio v0.3.77 and align the pinned showcase with the current ecosystem.
+
 # 1.2.232 - 2026-10-13
 
 - Refresh the existing LocaleLens listing to v0.1.5 and link to the actual GitHub source archive.
