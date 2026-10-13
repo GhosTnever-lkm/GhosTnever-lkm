@@ -1,3 +1,7 @@
+## 1.2.254 - 2026-10-13
+
+- Add Gamepad Lab v1.0.2 with its demo, release, and source archive links.
+
 ## 1.2.253 - 2026-10-13
 
 - Update ShaderTriage release link to v0.1.1.
