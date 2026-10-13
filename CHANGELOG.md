@@ -1,3 +1,7 @@
+## 1.2.241 - 2026-10-13
+
+- Update Screenshot Diff Lab to v0.1.4 and summarize the latest-selection-wins fix.
+
 ## 1.2.240 - 2026-10-13
 
 - Update HomeLedger to v0.1.3 with verified release links and backup recovery fixes.
