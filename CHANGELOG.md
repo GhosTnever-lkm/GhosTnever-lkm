@@ -1,3 +1,7 @@
+## 1.2.258 - 2026-10-13
+
+- Update the RiftUnpack profile links and Windows CLI/GUI downloads to v1.0.4.
+
 ## 1.2.257 - 2026-10-13
 
 - Feature PixelClean Local v0.1.1 with its demo and verified release download.
