@@ -1,3 +1,7 @@
+# 1.2.222 - 2026-10-13
+
+- Sync SaveHarbor v1.1.1 and document the case-collision restore guard.
+
 # 1.2.221 - 2026-10-13
 
 - Sync BugBundle v1.0.11 links and document preservation of distinct logs with repeated filenames.
