@@ -1,3 +1,7 @@
+# 1.2.235 - 2026-10-13
+
+- Update the ModLocale profile entry to v1.0.3 and describe its complete printf-placeholder checks.
+
 # 1.2.234 - 2026-10-13
 
 - Update the HueDock profile entry to v0.1.2 while preserving its existing demo and announcement links.
