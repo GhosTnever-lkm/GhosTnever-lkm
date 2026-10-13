@@ -1,3 +1,7 @@
+# 1.2.225 - 2026-10-13
+
+- Sync Paradox Mod Quality Gate v1.0.62 and Windows Pro v1.0.6, including the updated ModRelease Studio scanner pin.
+
 # 1.2.224 - 2026-10-13
 
 - Sync ModRelease Studio v0.3.77 and Gate v1.0.60; verify release archive size and SHA-256.
