@@ -1,3 +1,7 @@
+## 1.2.257 - 2026-10-13
+
+- Feature PixelClean Local v0.1.1 with its demo and verified release download.
+
 ## 1.2.256 - 2026-10-13
 
 - Update flagship release metadata and checksum to ModRelease Studio v0.3.80.

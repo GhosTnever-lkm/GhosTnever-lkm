@@ -76,6 +76,8 @@ game-text-gate --source locales/en.json --target locales/ru.json --report markdo
 
 ### 🚀 Готовые инструменты
 
+[PixelClean Local](https://github.com/GhosTnever-lkm/pixelclean-local) · [демо](https://ghostnever-lkm.github.io/pixelclean-local/) · [релиз v0.1.1](https://github.com/GhosTnever-lkm/pixelclean-local/releases/tag/v0.1.1) · [ZIP](https://github.com/GhosTnever-lkm/pixelclean-local/releases/download/v0.1.1/pixelclean-local-v0.1.1.zip) | Локально перекодирует JPEG/PNG, чтобы убрать встроенные EXIF/GPS-метаданные из копии; исходник остаётся нетронутым. В v0.1.1 исправлены доступность выбора файла с клавиатуры и обработка очереди.
+
 [AudioScribe Studio](https://github.com/GhosTnever-lkm/audioscribe-studio) · [релиз v0.1.6](https://github.com/GhosTnever-lkm/audioscribe-studio/releases/tag/v0.1.6) · [анонс](https://boosty.to/azizazimov/posts/8bf27107-2627-4292-8589-3191fff70838) | Локальная расшифровка аудио через faster-whisper: файлы до 5 ГБ, загрузка с безопасной проверкой содержимого при продолжении, экспорт TXT/SRT/VTT/JSON; обработка на компьютере.
 
 
