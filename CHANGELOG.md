@@ -1,3 +1,7 @@
+## 1.2.238 - 2026-10-13
+
+- Update CalWeave to v0.1.2 with the verified ZIP and early-year date fix summary.
+
 ## 1.2.237 - 2026-10-13
 
 - Update the CueGrid profile entry to v0.2.2 with a direct ZIP link and concise fix summary.
