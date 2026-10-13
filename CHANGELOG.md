@@ -1,3 +1,7 @@
+## 1.2.259 - 2026-10-13
+
+- Update DSH GhostNever Toolkit to v1.0.3 with the current release ZIP and CSV quoting fix.
+
 ## 1.2.258 - 2026-10-13
 
 - Update the RiftUnpack profile links and Windows CLI/GUI downloads to v1.0.4.
