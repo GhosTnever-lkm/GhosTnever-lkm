@@ -1,3 +1,7 @@
+## 1.2.256 - 2026-10-13
+
+- Update flagship release metadata and checksum to ModRelease Studio v0.3.80.
+
 ## 1.2.255 - 2026-10-13
 
 - Sync flagship metrics and paid Pro purchase link with ModRelease Studio v0.3.79.
