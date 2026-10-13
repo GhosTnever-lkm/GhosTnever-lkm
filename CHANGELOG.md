@@ -1,3 +1,7 @@
+## 1.2.243 - 2026-10-13
+
+- Update ShiftLedger links to v0.1.2 and note persistence/date fixes.
+
 ## 1.2.242 - 2026-10-13
 
 - Update FontPair Studio to v1.0.3 with distinct CSS aliases and a reliable six-font loading limit.
