@@ -1,3 +1,7 @@
+## 1.2.244 - 2026-10-13
+
+- Update ContrastKit to v1.0.2 with direct ZIP and palette-threshold fix details.
+
 ## 1.2.243 - 2026-10-13
 
 - Update ShiftLedger links to v0.1.2 and note persistence/date fixes.
