@@ -1,3 +1,8 @@
+## 1.2.263 - 2026-10-16
+
+- Refocus the profile on ModRelease Studio and three directly related mod QA tools.
+- Refresh verified release links and remove outdated metrics and unrelated promotional clutter.
+
 ## 1.2.262 - 2026-10-13
 
 - Add Clausewitz Log Doctor v0.2.0 with the live app, source ZIP, and checksum.
