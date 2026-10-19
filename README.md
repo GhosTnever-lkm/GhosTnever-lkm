@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/GhosTnever-lkm/modrelease-studio/releases/latest"><img src="https://img.shields.io/github/v/release/GhosTnever-lkm/modrelease-studio?label=ModRelease%20Studio" alt="Последний релиз ModRelease Studio"></a>
-  <a href="https://github.com/GhosTnever-lkm/modrelease-studio/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/GhosTnever-lkm/modrelease-studio/ci.yml?label=CI" alt="Статус CI ModRelease Studio"></a>
+  <a href="https://github.com/GhosTnever-lkm/modrelease-studio/actions/workflows/preflight.yml"><img src="https://img.shields.io/github/actions/workflow/status/GhosTnever-lkm/modrelease-studio/preflight.yml?label=CI" alt="Статус CI ModRelease Studio"></a>
   <a href="https://github.com/GhosTnever-lkm/modrelease-studio/blob/main/LICENSE"><img src="https://img.shields.io/github/license/GhosTnever-lkm/modrelease-studio" alt="Лицензия ModRelease Studio"></a>
 </p>
 
@@ -52,7 +52,7 @@ ModRelease Studio → ModRelease Gate в GitHub Actions
 
 ## Проверка изменений
 
-- [CI ModRelease Studio](https://github.com/GhosTnever-lkm/modrelease-studio/actions/workflows/ci.yml)
+- [CI ModRelease Studio](https://github.com/GhosTnever-lkm/modrelease-studio/actions/workflows/preflight.yml)
 - [CI ModRelease Gate](https://github.com/GhosTnever-lkm/modrelease-studio-action/actions/workflows/ci.yml)
 - [CI Paradox Mod Quality Gate](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate/actions/workflows/ci.yml)
 - [CI Paradox Mod Workbench](https://github.com/GhosTnever-lkm/paradox-mod-workbench/actions/workflows/ci.yml)
