@@ -37,8 +37,8 @@ modrelease scan ./my-mod --md-out report.md --json-out report.json
 | Инструмент | Для чего нужен | Код и версия |
 |:--|:--|:--|
 | **ModRelease Gate** | Запускает проверку в GitHub Actions, показывает находки в журнале и сохраняет отчёты как артефакты workflow. | [Код](https://github.com/GhosTnever-lkm/modrelease-studio-action) · [v1.0.65](https://github.com/GhosTnever-lkm/modrelease-studio-action/releases/tag/v1.0.65) |
-| **Paradox Mod Quality Gate** | Объединяет проверки ModRelease Studio и Paradox Mod Workbench в единый preflight для модов Paradox. | [Код](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate) · [v1.0.67](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate/releases/tag/v1.0.67) |
-| **Paradox Mod Workbench** | Локально исследует конфликты и зависимости модпака, таблицы локализации и Clausewitz-скрипты; экспортирует текстовые, JSON и SARIF-отчёты. | [Код](https://github.com/GhosTnever-lkm/paradox-mod-workbench) · [v0.2.7](https://github.com/GhosTnever-lkm/paradox-mod-workbench/releases/tag/v0.2.7) |
+| **Paradox Mod Quality Gate** | Объединяет проверки ModRelease Studio и Paradox Mod Workbench в единый preflight для модов Paradox. | [Код](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate) · [v1.0.68](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate/releases/tag/v1.0.68) |
+| **Paradox Mod Workbench** | Локально исследует конфликты и зависимости модпака, таблицы локализации и Clausewitz-скрипты; экспортирует текстовые, JSON и SARIF-отчёты. | [Код](https://github.com/GhosTnever-lkm/paradox-mod-workbench) · [v0.2.8](https://github.com/GhosTnever-lkm/paradox-mod-workbench/releases/tag/v0.2.8) |
 
 ## Как связаны проекты
 
