@@ -1,3 +1,7 @@
+## 1.2.264 - 2026-10-20
+
+- Refresh ModRelease Studio, ModRelease Gate, and Paradox Mod Quality Gate links to verified releases v0.3.89, v1.0.71, and v1.0.74.
+
 ## 1.2.263 - 2026-10-16
 
 - Refocus the profile on ModRelease Studio and three directly related mod QA tools.
