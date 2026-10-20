@@ -1,3 +1,7 @@
+## 1.2.265 - 2026-10-20
+
+- Add Mod Conflict Map v0.4.3 with its live app, release archive, and SHA-256 link.
+
 ## 1.2.264 - 2026-10-20
 
 - Refresh ModRelease Studio, ModRelease Gate, and Paradox Mod Quality Gate links to verified releases v0.3.89, v1.0.71, and v1.0.74.
