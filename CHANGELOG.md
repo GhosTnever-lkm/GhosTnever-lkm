@@ -1,3 +1,7 @@
+## 1.2.267 - 2026-10-23
+
+- Update Paradox Mod Workbench to the verified v0.2.13 release.
+
 ## 1.2.266 - 2026-10-20
 
 - Update Paradox Mod Workbench to the verified v0.2.10 release.
