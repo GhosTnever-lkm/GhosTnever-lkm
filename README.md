@@ -19,16 +19,16 @@
 
 Проверь папку или ZIP мода до публикации. Сканер выявляет проблемы упаковки, метаданных, локализации и известные шаблоны секретов; сравнивает сборки и формирует отчёт для исправления находок. Сканирование запускается локально, а значения секретов не включаются в отчёты.
 
-**Попробовать:** [страница проекта](https://ghostnever-lkm.github.io/modrelease-studio/) · [исходный код](https://github.com/GhosTnever-lkm/modrelease-studio) · [релиз v0.3.89](https://github.com/GhosTnever-lkm/modrelease-studio/releases/tag/v0.3.89) · [скачать ZIP](https://github.com/GhosTnever-lkm/modrelease-studio/releases/download/v0.3.89/ModRelease-Studio-v0.3.89.zip) · [SHA-256](https://github.com/GhosTnever-lkm/modrelease-studio/releases/download/v0.3.89/ModRelease-Studio-v0.3.89.zip.sha256)
+**Попробовать:** [страница проекта](https://ghostnever-lkm.github.io/modrelease-studio/) · [исходный код](https://github.com/GhosTnever-lkm/modrelease-studio) · [релиз v0.3.90](https://github.com/GhosTnever-lkm/modrelease-studio/releases/tag/v0.3.90) · [скачать ZIP](https://github.com/GhosTnever-lkm/modrelease-studio/releases/download/v0.3.90/ModRelease-Studio-v0.3.90.zip) · [SHA-256](https://github.com/GhosTnever-lkm/modrelease-studio/releases/download/v0.3.90/ModRelease-Studio-v0.3.90.zip.sha256)
 
 <p align="center">
-  <a href="https://ghostnever-lkm.github.io/modrelease-studio/"><img src="https://raw.githubusercontent.com/GhosTnever-lkm/modrelease-studio/v0.3.89/docs/demo.png" alt="Пример отчёта ModRelease Studio с результатами проверки мода" width="760"></a>
+  <a href="https://ghostnever-lkm.github.io/modrelease-studio/"><img src="https://raw.githubusercontent.com/GhosTnever-lkm/modrelease-studio/v0.3.90/docs/demo.png" alt="Пример отчёта ModRelease Studio с результатами проверки мода" width="760"></a>
 </p>
 
 ### Быстрый старт
 
 ```bash
-python -m pip install "modrelease-studio @ git+https://github.com/GhosTnever-lkm/modrelease-studio.git@v0.3.89"
+python -m pip install "modrelease-studio @ git+https://github.com/GhosTnever-lkm/modrelease-studio.git@v0.3.90"
 modrelease scan ./my-mod --md-out report.md --json-out report.json
 ```
 
@@ -36,9 +36,10 @@ modrelease scan ./my-mod --md-out report.md --json-out report.json
 
 | Инструмент | Для чего нужен | Код и версия |
 |:--|:--|:--|
-| **ModRelease Gate** | Запускает проверку в GitHub Actions, показывает находки в журнале и сохраняет отчёты как артефакты workflow. | [Код](https://github.com/GhosTnever-lkm/modrelease-studio-action) · [v1.0.71](https://github.com/GhosTnever-lkm/modrelease-studio-action/releases/tag/v1.0.71) |
-| **Paradox Mod Quality Gate** | Объединяет проверки ModRelease Studio и Paradox Mod Workbench в единый preflight для модов Paradox. | [Код](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate) · [v1.0.74](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate/releases/tag/v1.0.74) |
-| **Paradox Mod Workbench** | Локально исследует конфликты и зависимости модпака, таблицы локализации и Clausewitz-скрипты; экспортирует текстовые, JSON и SARIF-отчёты. | [Код](https://github.com/GhosTnever-lkm/paradox-mod-workbench) · [v0.2.10](https://github.com/GhosTnever-lkm/paradox-mod-workbench/releases/tag/v0.2.10) |
+| **ModRelease Gate** | Запускает проверку в GitHub Actions, показывает находки в журнале и сохраняет отчёты как артефакты workflow. | [Код](https://github.com/GhosTnever-lkm/modrelease-studio-action) · [v1.0.72](https://github.com/GhosTnever-lkm/modrelease-studio-action/releases/tag/v1.0.72) |
+| **Paradox Mod Quality Gate** | Объединяет проверки ModRelease Studio и Paradox Mod Workbench в единый preflight для модов Paradox. | [Код](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate) · [v1.0.75](https://github.com/GhosTnever-lkm/paradox-mod-quality-gate/releases/tag/v1.0.75) |
+| **Paradox Mod Workbench** | Локально исследует конфликты и зависимости модпака, таблицы локализации и Clausewitz-скрипты; экспортирует текстовые, JSON и SARIF-отчёты. | [Код](https://github.com/GhosTnever-lkm/paradox-mod-workbench) · [v0.2.11](https://github.com/GhosTnever-lkm/paradox-mod-workbench/releases/tag/v0.2.11) |
+| **Mod Threat Lens** | Локально проверяет моды на опасные шаблоны и подозрительные файлы, не отправляя содержимое на сервер. | [Код](https://github.com/GhosTnever-lkm/mod-threat-lens) · [v0.1.10](https://github.com/GhosTnever-lkm/mod-threat-lens/releases/tag/v0.1.10) |
 | **Mod Conflict Map** | Локально сравнивает ZIP-архивы и папки модов Paradox по совпадающим путям игровых файлов. | [Код](https://github.com/GhosTnever-lkm/paradox-mod-conflict-map) · [Приложение](https://ghostnever-lkm.github.io/paradox-mod-conflict-map/) · [v0.4.3](https://github.com/GhosTnever-lkm/paradox-mod-conflict-map/releases/tag/v0.4.3) · [ZIP](https://github.com/GhosTnever-lkm/paradox-mod-conflict-map/releases/download/v0.4.3/Mod-Conflict-Map-v0.4.3.zip) · [SHA-256](https://github.com/GhosTnever-lkm/paradox-mod-conflict-map/releases/download/v0.4.3/Mod-Conflict-Map-v0.4.3.zip.sha256) |
 
 ## Как связаны проекты
