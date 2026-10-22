@@ -1,3 +1,7 @@
+## 1.2.268 - 2026-10-23
+
+- Update Paradox Mod Quality Gate to the verified v1.0.76 release.
+
 ## 1.2.267 - 2026-10-23
 
 - Update Paradox Mod Workbench to the verified v0.2.13 release.
