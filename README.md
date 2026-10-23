@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <a href="https://ghostnever-lkm.github.io/">🌐 Портфолио</a> ·
   <a href="https://github.com/GhosTnever-lkm?tab=repositories">Все репозитории</a>
 </p>
