@@ -1,3 +1,7 @@
+## 1.2.269 - 2026-10-23
+
+- Refocus the profile's featured list on the three tools directly connected to ModRelease Studio.
+
 ## 1.2.268 - 2026-10-23
 
 - Update Paradox Mod Quality Gate to the verified v1.0.76 release.
