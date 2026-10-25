@@ -19,16 +19,16 @@
 
 Проверь папку или ZIP мода до публикации. Сканер выявляет проблемы упаковки, метаданных, локализации и известные шаблоны секретов; сравнивает сборки и формирует отчёт для исправления находок. Сканирование запускается локально, а значения секретов не включаются в отчёты.
 
-**Попробовать:** [страница проекта](https://ghostnever-lkm.github.io/modrelease-studio/) · [исходный код](https://github.com/GhosTnever-lkm/modrelease-studio) · [релиз v0.3.91](https://github.com/GhosTnever-lkm/modrelease-studio/releases/tag/v0.3.91) · [скачать ZIP](https://github.com/GhosTnever-lkm/modrelease-studio/releases/download/v0.3.91/ModRelease-Studio-v0.3.91.zip) · [SHA-256](https://github.com/GhosTnever-lkm/modrelease-studio/releases/download/v0.3.91/ModRelease-Studio-v0.3.91.zip.sha256)
+**Попробовать:** [страница проекта](https://ghostnever-lkm.github.io/modrelease-studio/) · [исходный код](https://github.com/GhosTnever-lkm/modrelease-studio) · [релиз v0.3.92](https://github.com/GhosTnever-lkm/modrelease-studio/releases/tag/v0.3.92) · [скачать ZIP](https://github.com/GhosTnever-lkm/modrelease-studio/releases/download/v0.3.92/ModRelease-Studio-v0.3.92.zip) · [SHA-256](https://github.com/GhosTnever-lkm/modrelease-studio/releases/download/v0.3.92/ModRelease-Studio-v0.3.92.zip.sha256)
 
 <p align="center">
-  <a href="https://ghostnever-lkm.github.io/modrelease-studio/"><img src="https://raw.githubusercontent.com/GhosTnever-lkm/modrelease-studio/v0.3.91/docs/demo.png" alt="Пример отчёта ModRelease Studio с результатами проверки мода" width="760"></a>
+  <a href="https://ghostnever-lkm.github.io/modrelease-studio/"><img src="https://raw.githubusercontent.com/GhosTnever-lkm/modrelease-studio/v0.3.92/docs/demo.png" alt="Пример отчёта ModRelease Studio с результатами проверки мода" width="760"></a>
 </p>
 
 ### Быстрый старт
 
 ```bash
-python -m pip install "modrelease-studio @ git+https://github.com/GhosTnever-lkm/modrelease-studio.git@v0.3.91"
+python -m pip install "modrelease-studio @ git+https://github.com/GhosTnever-lkm/modrelease-studio.git@v0.3.92"
 modrelease scan ./my-mod --md-out report.md --json-out report.json
 ```
 
