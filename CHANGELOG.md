@@ -1,3 +1,7 @@
+## 1.2.273 - 2026-10-25
+
+- Update Paradox Mod Quality Gate to the verified v1.0.79 release.
+
 ## 1.2.272 - 2026-10-25
 
 - Sync ModRelease Studio v0.3.91 and ModRelease Gate v1.0.73 after verifying the published releases.
